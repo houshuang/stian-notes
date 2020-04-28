@@ -9,6 +9,7 @@ import '../../style.css';
 import components from 'gatsby-theme-andy/src/components/MdxComponents';
 
 const BrainNote = ({ note }) => {
+  console.log(note);
   let references = [];
   let referenceBlock;
   if (note.inboundReferenceNotes != null) {
