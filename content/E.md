@@ -1,0 +1,27 @@
+---
+title: "E"
+---
+
+- #public
+- Emerging ideas/concepts
+    - Note taking
+        - **E: Sharing your own reflections and links are more useful than summaries**
+        - **E: Better note taking can be taught interactively**
+        - **E: Compression and decompression**
+        - **E: Convergence and divergence**
+    - Learning
+        - Social
+            - **E: Learning platform for independent course creators**
+            - [[E: Ad hoc book clubs]]
+        - **E: The goal of learning should be producing**
+        - **E: Naming concepts like a hook**
+        - **E: Limiting external input when thinking**
+        - **E: Learning broadly or deeply**
+        - **E: Spaced everything**
+        - **E: How is designing for learning different**
+    - Research
+        - **E: Being an embedded researcher**
+    - Life
+        - **E: Be careful with monetizing your hobbies**
+- Meta:
+    - not sure about naming. complex links are harder to type, and now I get all the references to individual green notes in the linked references on this page too... Perhaps using E: and tagging with E once to make sure it ends up on a manually curated list is better.

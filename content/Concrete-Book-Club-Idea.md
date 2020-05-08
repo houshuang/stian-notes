@@ -1,0 +1,76 @@
+---
+title: "Concrete Book Club Idea"
+---
+
+- #[[E: Ad hoc book clubs]]
+- Goal
+    - getting a deeper understanding of the book
+    - generating artefacts and processes that help us retain that knowledge in the long-term
+    - possibly generating public artefacts useful for others
+    - getting much wider perspectives through the diversity of group members
+- Book
+    - **Thinking Fast and Slow**
+        - pro
+            - interesting and relevant to many of us
+            - **Andy Matuschak** specifically called it out as an example of a book that many of us have read, but few retain much understanding from
+        - con
+            - very long (is it possible to choose sections, or are there sections that are fluffy and can be quicky skimmed?)
+    - could also be something like **Knowledge Cartography** edited volume
+- Participants
+    - How much energy do we expect for how long?
+        - do people have to commit to a certain cadence or drop-in/drop-out
+        - enable peripheral participation - seeing our work and commenting, posting on Twitter etc?
+    - How Roam-centric is it, how much familiarity with technical tools, or specific processes?
+    - Initially people like Jon, Joel etc, but could be expanded to people at Minerva, CSCL people, big communities
+- Cadence
+    - One chapter or more per time unit (two weeks?). Would be useful to be able to divide it into chunks of equal "idea density" - maybe someone who has read it could do that
+    - Reading book, and then spending several weeks organizing ideas instead of just chapter by chapter and that's it... But hard to keep momentum going?
+- Synchronous ideas
+    - **silent meetings** - how would that work focused more on exploration than taking decisions
+        - the **P2PU** course on CSCL, with editing in Etherpad
+    - can we use Minerva platform?
+    - FROG?
+- Annotations
+    - Hypothes.is on a pirate PDF?
+    - Collecting Kindle highlights and overlaying them for a heatmap (doable, but useful?)
+- Automated emails
+    - reproducing **Email-driven SRS** by **Quantum Country**
+    - JSON dumps of Roam pages, and a script that automatically merges comments to the same block
+- Roamex
+    - Download JSON dump every day and have a script that uses updated-at and updated-email or other things to generate change logs, email diffs etc?
+    - Importing JSON over existing JSON fails, because IDs are identical, if we were able to overwrite, would be able to update externally
+- Individual writing
+    - Writing prompts, questions - write before you see anyone else's reactions
+    - Are there study group questions for this book anywhere?
+- Note taking/summaries
+    - useful to have some kind of summary, at least as a roadmap/collective thing to refer to (maybe there are good notes already we can use)
+    - stimulate questions and connections, applications
+        - somehow use Knowledge Building scaffolds?
+    - epistemic fact checking - distributed looking into citations and seeing how well he represents them
+    - collectively building an argument map of the points he makes, and the evidence?
+        - then reading another book on mind/thinking etc (maybe from different perspective), and seeing how they contrast, the evidence maps mesh
+            - could be distributed - one group reading Kahneman, another reading another book. could we generate questions for the other group?
+                - flash mob - let's read 10 books on brain science in teams of four, and figure it all out...
+- Public artifacts
+    - What would be useful for
+        - people who are not planning to read the book
+        - people who have not yet read the book, but plan to
+        - people who have read the book
+        - second cohort of book club members
+- Spaced repetition
+    -     - reproducing **Email-driven SRS** by **Quantum Country**
+
+    - collectively creating cards
+    - sharing privately created cards
+    - collecting SRS analytics, to determine which cards are more useful? But what is a good metric - retention? Understanding in five months? How to test, how to isolate?
+- Experiment
+    - Are there hypotheses that we can formulate up front?
+    - Is there data that we should be collecting during the process?
+    - With a shorter book - we could iterate faster (run again, organized differently)
+    - Lead to some kind of public write-up of the process
+    - Second cohort?
+- Expert visitors
+    - Could bring in someone from Minerva for example (faculty in neuroscience) once we have specific questions that stump us
+- Using our Zettelkasten
+    - being able to bring in notes and comments from other books
+    - but problem is that we can spend the rest of our lives discussing these issues, with the book as a thin alibi
