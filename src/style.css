@@ -1,6 +1,7 @@
 /* purgecss start ignore */
 @tailwind base;
 
+li { vertical-align: top;}
 h1 {
   @apply text-3xl font-bold;
 }
@@ -17,7 +18,6 @@ a:hover {
   @apply text-blue-700 no-underline;
 }
 p {
-  @apply mb-4;
 }
 
 ul {
