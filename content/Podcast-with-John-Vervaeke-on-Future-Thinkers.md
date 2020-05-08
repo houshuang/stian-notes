@@ -1,0 +1,92 @@
+---
+title: "Podcast with [[John Vervaeke]] on [[Future Thinkers]]"
+---
+
+- #public
+- **My questions:**
+    - {{query: {and: [[Podcast with **John Vervaeke** on **Future Thinkers**]] **q**}}}
+- **The meaning crisis**
+    - The **death of religion**, scientific world view is not really aligning with who we think we are
+        - **depression**
+        - **drug abuse**
+            - There's a new theory that it's not purely chemical, but it's a **reciprocal narrowing**, that you're seeing fewer choices and fewer opportunities. And so, I guess it's linked to **hopelessness** that **Doug Tataryn** talked to in the **Bio-emotive framework**.
+            - [Understanding Addiction](https://www.memoirsofanaddictedbrain.com/), the website of neuroscientist Mark Lewis
+        - **suicide**
+    - People are turning to **mindfulness**, **stoicism**, philosophy, but most people are **autodidact**. And it's very easy to continue with **self-deception**. The Internet kind of amplifies this gives you these **echo bubbles**.
+        - He says that 40% of people have some kind of insight, **mystical experience**. But without a grounded framework, they cannot really interpret it. And so, having **religion**, any kind of religion, helps with that
+    - What you need is
+        - **mindfulness**.
+            - talks a lot about **zooming in and zooming out** or raising and lowering. (concept from **Shinzen Young**)
+            - **zooming in**
+                - You need insight into yourself and your own processes.
+            - **zooming out**
+                - But then you need to see the world and see if you can see the world differently. (Like polishing glasses, and then looking through them)
+            - has also done a lot of **cognitive research**, which is trying to reinvent mindfulness and which is coming to a lot of the same results.
+            - Is very critical of the way mindfulness has been used in the West, because it is not as it's taken out of the context. So, Buddha has **the eight paths**, and one of them is meditation, but it's apparently good meditation. distinguishing it from other kinds of meditation. #Meditation
+            - Look at [The Kyoto School of Philosophy](https://thekyotoschoolofphilosophy.wordpress.com/)
+        - You need to integrate with the body. So dance or movement. #embodiment
+        - You need **rationality**,
+            - but rationality is much more than biases. It's really about self deception. So **cognitive behavioral therapy** and **mindfulness** and a way of dialogue that is not combative and not trying to win or prove a point. #Conversation
+- **Scarcity mindset**
+    - some people who are doing their course, keep grasping on to new meaning frameworks, and then the other people have to kind of take that apart and crush it for them to be able to move on.
+    - This is an example of scarcity mindset,
+        - when you're so thirsting for meaning, anything that you come across, you kind of stick with it.
+        - Talks a lot about the process, that it's not about the goal. It's not about arriving somewhere, but it's about continually trusting the process of progressing.
+    - What we need more is **playfulness**
+        - how kids plays that they find a solution that works, and then they introduce all kinds of different variations of that and explore it,
+        - in our society, we don't really have a space for **serious play**.
+            - It's either, really trivialized or it becomes work.
+            - And he says that religion provided a space for this
+                - ^^What is the relationship between **serious play** and **religion**? #q^^
+                - ^^How does his desire for **playfulness** link to things Montessori and other pedagogical approaches #q^^
+- **Truth and love**
+    - **reciprocal widening** and **reciprocal knowing** where you know the thing and you know yourself. And there's also **participatory knowing** where you have this exploration of opening up to someone else, and then opening up to you and that is **love**.
+        - reference to There's a new theory that it's not purely chemical, but it's a **reciprocal narrowing**, that you're seeing fewer choices and fewer opportunities. And so, I guess it's linked to **hopelessness** that **Doug Tataryn** talked to in the **Bio-emotive framework**.
+        - Apparently in the Hebrew tradition, knowing his loving.
+        - **Metta** and **agape** ??
+        - Sympathy is not pity.
+        - Talks a lot about **Socrates**
+- **Framing** and **information overload**
+    - We are receiving incredible amounts of information that we cannot process.
+    - We cannot do an exhaustive search of all possibilities, so we're constantly selecting information and framing
+        - this is why it's **a process**, because we can never **focus** on all things- it's a process of getting deeper.
+        - ^^I'm curious about things like art, or music, beautiful things. Is there a different function to aesthetics than to politically meaningful art?^^ #q
+        - ^^He has not said almost anything about the way society should be organized, about suffering (**dukha**) or service.^^  #q
+- **Exaptation**
+    - when something that developed for a certain purpose is used by someone for something else.
+    - Ex: the tongue was developed to taste poison, apparently, and was exempted for speech.
+    - He thinks that the mechanism for insight is being exapted for things like **flow** which is like **a cascade of insights** (he has a paper on that) and for kind  mystical experiences
+- **Autonomic nervous system**
+    - __So there's the **sympathetic**, which is looking for reasons to get excited, or worried or high level and **parasympathetic**, which is pushing in the other direction. But so there it's a **self organizing system of agents**. And they're trying to optimize the right so they're working towards the same goal. It's not  an adversarial relationship. __
+    - From other sources
+        - __The **autonomic nervous system** is a control **system** that acts largely unconsciously and regulates bodily functions such as the heart rate, digestion, respiratory rate, pupillary response, urination, and sexual arousal__ ([Wikipedia](https://en.wikipedia.org/wiki/Autonomic_nervous_system))
+        - The **parasympathetic nervous system (PNS)** controls homeostasis and the body at rest and is responsible for the body's "rest and digest" function. The **sympathetic nervous system (SNS)** controls the body's responses to a perceived threat and is responsible for the "fight or flight" response. ([source](https://www.diffen.com/difference/Parasympathetic_nervous_system_vs_Sympathetic_nervous_system))
+- Using **psychedelics**
+    - effects
+        - introduces noise into the machine
+        - disassociates from reality
+    - can be very useful if you're properly trained,
+    - but it can be dangerous if you are not
+        - so maybe the government should not prohibit drugs, but there should be a licensing to go through some kind of course.
+    - **Machine learning** introducing some noise avoids **overfitting** or to early **local optima**.
+        - The same can be true for **insight generation**.
+            - Even shaking the screen or lower levels of disturbance can help generate more insights
+- The difference between **lying** and **bullshit**
+    - Lying has an epistemic component. And **you can't lie to yourself. **
+    - But **you can bullshit yourself**.
+    - Seminal philosophical book about bullshit which he has expanded upon.
+    - **salience** and **attention**.
+        - With bullshit we can make people **not pay attention to truth**.
+        - You can make something salient by like a loud noise or sexy people.
+        - You can also be explicit about directing attention, like saying, "think about your right toe right now".
+        - ^^Connection between this and concept of **focus** and **awareness** from **The Mind Illuminated**?^^ #q
+- Book recommendations
+    - [Zombies in Western Culture: A Twenty-First Century Crisis](https://amzn.to/2IZgcOK) by John Vervaeke, Christopher Mastropietro and Filip Miscevic
+    - [Aspiration: The Agency of Becoming](https://amzn.to/2Ip7ji4) by Agnes Callard
+    - [Cohering The Integral We Space: Engaging Collective Emergence, Wisdom And Healing In Groups](https://amzn.to/2Rksrca) by Olen Gunnlaugson and Michael Brabant
+    - [Religion and Nothingness (Nanzan Studies in Religion and Culture)](https://amzn.to/2IqwoZZ) by Keiji Nishitani
+    - [Transformative Experience](https://amzn.to/2L0R3FR) by L.A. Paul
+    - [Scarcity: Why Having Too Little Means So Much](https://amzn.to/31JkPEQ) by Sendhil Mullainathan and Eldar Shafir
+    - [Circling and Authentic Relating Practice Guide](https://amzn.to/2Roanhs) by Marc Beneteau
+    - [Kosmic Consciousness](https://amzn.to/2niS9AA) by Ken Wilber
+    - [Books by Evan Thompson](https://amzn.to/2IYI8lw), Professor of Philosophy at the University of British Columbia in Vancouver

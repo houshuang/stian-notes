@@ -1,0 +1,34 @@
+---
+title: "Andy Matuschak Knowledge work showcase video"
+---
+
+- https://www.twitch.tv/videos/611050187]
+- about **John Seely Brown**, **Design Unbound** and **Insight through making** about **design**
+- starts a daily note, hierarchical bullets but also normal text. Making new pages and clicking on them. **Bear**
+- taking notes from the book - not clear if he has already taken notes while reading the book, or if he is just talking from memory and flipping through the book while taking notes
+- Initially adding a bunch of concepts, and then indenting under, saying "I will separate these out into different notes later"
+- [[types of **reasoning**]] / thinking
+    - **synthetic**
+        - **syntopic**
+    - **abductive**
+        - **Abductive** reasoning (also called abduction, **abductive** inference, or retroduction) is a form of logical inference that starts with an observation or set of observations and then seeks to find the simplest and most likely conclusion from the observations. #**Occam's razor**? **designerly thinking**?
+        - Despite many possible explanations for any physical process that we observe, we tend to abduce a single explanation (or a few explanations) for this process in the expectation that we can better orient ourselves in our surroundings and disregard some possibilities. Properly used, abductive reasoning can be a useful source of **Bayesian priors**
+            - This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it - **inference to the best explanation**
+            - What is abductive reasoning? [[**interval**::5.0]] [[**factor**::2.65]] **May 11th, 2020**
+                - **Abductive** reasoning (also called abduction, **abductive** inference, or retroduction) is a form of logical inference that starts with an observation or set of observations and then seeks to find the simplest and most likely conclusion from the observations. #**Occam's razor**? **designerly thinking**?
+            - How is deductive and abductive reasoning different? [[**interval**::5.0]] [[**factor**::2.50]] **May 8th, 2020**
+                - a valid deduction guarantees the truth of the conclusion
+                - This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it - **inference to the best explanation**
+    - **inductive**
+    - **Deductive**
+        - a valid deduction guarantees the truth of the conclusion
+- curious about how Andy thinks about **mapping**, would any of this thinking have been better done visually?
+- creates a note for the book, literature note
+    - not evergreen, jumping off point, gets bibliography metadata from Zotero (manually)
+        - wonder if he automatically pulls in these for citations
+    - named autors comma title
+    - writes short summary - not copying from his daily note. Grounds his thinking, provides feedback about how well he understands the bookj.
+- coinage-oriented note, named after the authors - doesn't like this, means he hasn't properly digested it yet. Not sure if this concept has transcended the book yet (in wider usage)
+    - trying to put it in his own words, instead of copying
+- Example of using search, and working across a large number of notes
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FxmpISAZMqd.png?alt=media&token=81b5d8a7-69d7-432b-8d69-acc0f3625f56)

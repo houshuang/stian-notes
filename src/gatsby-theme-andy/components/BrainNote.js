@@ -3,6 +3,7 @@ import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 import { Helmet } from 'react-helmet';
 import Portal from '@reach/portal';
 import { MDXProvider } from '@mdx-js/react';
+import { navigate } from '@reach/router';
 
 import '../../style.css';
 
@@ -46,7 +47,9 @@ const BrainNote = ({ note }) => {
         id="brainNote"
         className="container max-w-2xl px-4 mx-auto text-gray-900 flex flex-col min-h-screen"
       >
-        <div className="font-bold py-2 border-b -mx-4 px-4">Stian's notes</div>
+        <div onClick={() => navigate('about')} className="font-bold py-2 border-b -mx-4 px-4">
+          Stian's notes
+        </div>
         <div className="flex-1">
           <h1 className="my-4">{note.title}</h1>
           <MDXRenderer>{note.childMdx.body}</MDXRenderer>

@@ -10,4 +10,4 @@ title: "Note taking"
 - If it’s an important source (ie. if you ever want to specifically remember what that book was about, as opposed to just using some of the ideas), you might do a formal writeup - create a page for the authors/the book, summarize the contents (chapters) etc.
 - When there are important ideas, you try to create a **Permanent Notes (concept)**. Declarative name, full sentences etc. This can come from an argument in a book that you summarise, or from an assortment of snippets and your own thoughts that you have captured.
 - In the Permanent Note, you can also be more explicit about linking to sources and evidence.
-- You list the Permanent Notes on a TOC page, and tag them so that you can filter. You should also make links between Permanent Notes to create [[**Zettelkasten**-p]]
+- You list the Permanent Notes on a TOC page, and tag them so that you can filter. You should also make links between Permanent Notes to create **[[Zettelkasten]]-p**

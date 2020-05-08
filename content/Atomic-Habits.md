@@ -2,7 +2,7 @@
 title: "Atomic Habits"
 ---
 
-- [[Atomic Habits]] (Clear, James)
+- **Atomic Habits** (Clear, James)
     - Read from **December 25th, 2019** to **December 30th, 2019**
     - Clippings:
         - A habit is a routine or behavior that is performed regularly—and, in many cases, automatically.  (p. 13)

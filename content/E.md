@@ -11,10 +11,10 @@ title: "E"
         - **E: Convergence and divergence**
     - Learning
         - Social
-            - **E: Learning platform for independent course creators**
+            - [[E: Learning platform for independent course creators]]
             - [[E: Ad hoc book clubs]]
         - **E: The goal of learning should be producing**
-        - **E: Naming concepts like a hook**
+        - [[E: Naming concepts like a hook]]
         - **E: Limiting external input when thinking**
         - **E: Learning broadly or deeply**
         - **E: Spaced everything**

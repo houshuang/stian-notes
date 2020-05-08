@@ -13,8 +13,7 @@ title: "Deep Work"
                 - **“Hearing a succession of mediocre singers does not add up to a single outstanding performance.**”
                 - **talent is not a commodity you can buy in bulk and combine to reach the needed levels: There’s a premium to being the best.** Therefore, if you’re in a marketplace where the consumer has access to all performers, and everyone’s q value is clear, the consumer will choose the very best. **Even if the talent advantage of the best is small compared to the next rung down on the skill ladder, the superstars still win the bulk of the market.**
                 - What does it mean that talent is a factor with imperfect substitution?  [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
-                    -                 - **talent is not a commodity you can buy in bulk and combine to reach the needed levels: There’s a premium to being the best.** Therefore, if you’re in a marketplace where the consumer has access to all performers, and everyone’s q value is clear, the consumer will choose the very best. **Even if the talent advantage of the best is small compared to the next rung down on the skill ladder, the superstars still win the bulk of the market.**
-
+                    - **talent is not a commodity you can buy in bulk and combine to reach the needed levels: There’s a premium to being the best.** Therefore, if you’re in a marketplace where the consumer has access to all performers, and everyone’s q value is clear, the consumer will choose the very best. **Even if the talent advantage of the best is small compared to the next rung down on the skill ladder, the superstars still win the bulk of the market.**
         - I just identified two groups that are poised to thrive and that I claim are accessible:
             - those who can work creatively with intelligent machines and
             - those who are stars in their field.
@@ -27,8 +26,7 @@ title: "Deep Work"
         - This task of formalization began in earnest in the 1970s, when a branch of psychology, sometimes called **performance psychology**, began to systematically explore what separates experts (in many different fields) from everyone else.
             - In the early 1990s, **K. Anders Ericsson**, a professor at Florida State University, pulled together these strands into a single coherent answer, consistent with the growing research literature, that he gave a punchy name: **deliberate practice**. Ericsson opens his seminal paper on the topic with a powerful claim: “**We deny that these differences [between expert performers and normal adults] are immutable… Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.”**
             - Who came up with the theory of deliberate practice? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
-                -             - In the early 1990s, **K. Anders Ericsson**, a professor at Florida State University, pulled together these strands into a single coherent answer, consistent with the growing research literature, that he gave a punchy name: **deliberate practice**. Ericsson opens his seminal paper on the topic with a powerful claim: “**We deny that these differences [between expert performers and normal adults] are immutable… Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.”**
-
+                - In the early 1990s, **K. Anders Ericsson**, a professor at Florida State University, pulled together these strands into a single coherent answer, consistent with the growing research literature, that he gave a punchy name: **deliberate practice**. Ericsson opens his seminal paper on the topic with a powerful claim: “**We deny that these differences [between expert performers and normal adults] are immutable… Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.”**
         - In the intervening decades since **K. Anders Ericsson**’s first major papers on the topic, however, neuroscientists have been exploring the physical mechanisms that drive people’s improvements on hard tasks.
             - As the journalist **Daniel Coyle** surveys in his 2009 book, **The Talent Code**, these scientists increasingly believe the answer includes
                 - **myelin**
@@ -36,20 +34,17 @@ title: "Deep Work"
                     - To understand the role of myelin in improvement, keep in mind that skills, be they intellectual or physical, eventually reduce down to brain circuits.
                     - This new science of performance argues that **you get better at a skill as you develop more myelin around the relevant neurons, allowing the corresponding circuit to fire more effortlessly and effectively.** To be great at something is to be well myelinated.
                 - srs
-                    - What is                     - a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner.
- called? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
+                    - What is a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner. called? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
                         - myelin
                     - What is myelin? [[**interval**::1.2]] [[**factor**::2.15]] **May 9th, 2020**
-                        -                     - a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner.
-
+                        - a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner.
     - Attention residue
         - **Sophie Leroy**, a business professor at the University of Minnesota. In a 2009 paper, titled, intriguingly, “**Why Is It So Hard to Do My Work?**,” Leroy introduced an effect she called **attention residue**. In the introduction to this paper, she noted that other researchers have studied the effect of multitasking—trying to accomplish multiple tasks simultaneously—on performance, but that in the modern knowledge work office, once you got to a high enough level, it was more common to find people working on multiple projects sequentially:
             - The problem this research identifies with this work strategy is that **when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.**
                 - Ref: **Just-in-Time Productivity**
     - srs
         - What is attention residue? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
-            -             - The problem this research identifies with this work strategy is that **when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.**
-
+            - The problem this research identifies with this work strategy is that **when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.**
     - Organization of modern knowledge work
         - Busyness as Proxy for Productivity: In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.
     - Deep work and happiness, meaning in life
@@ -144,13 +139,10 @@ title: "Deep Work"
             - Who came up with the theory that our willpower is a limited resource? [[**interval**::2.3]] [[**factor**::2.45]] **May 10th, 2020**
                 - Roy F. Baumeister
             - Who came up with the concept of attention restoration therapy? [[**interval**::2.4]] [[**factor**::2.35]] **May 10th, 2020**
-                -     - Kaplan, Rachel, and Stephen Kaplan. The Experience of Nature: A Psychological Perspective. Cambridge: Cambridge University Press, 1989.
-
+                - Kaplan, Rachel, and Stephen Kaplan. The Experience of Nature: A Psychological Perspective. Cambridge: Cambridge University Press, 1989.
             - Why is walking through nature more relaxing than walking in the city? [[**interval**::5.0]] [[**factor**::2.50]] **May 11th, 2020**
-                -                 - The 2008 study argues that walking on busy city streets requires you to use directed attention, as you must navigate complicated tasks like figuring out when to cross a street to not get run over, or when to maneuver around the slow group of tourists blocking the sidewalk. After just fifty minutes of this focused navigation, the subject’s store of directed attention was low.
-
-                -                 - Walking through nature, by contrast, exposes you to what lead author Marc Berman calls “inherently fascinating stimuli,” using sunsets as an example. These stimuli “invoke attention modestly, allowing focused-attention mechanisms a chance to replenish.”
-
+                - The 2008 study argues that walking on busy city streets requires you to use directed attention, as you must navigate complicated tasks like figuring out when to cross a street to not get run over, or when to maneuver around the slow group of tourists blocking the sidewalk. After just fifty minutes of this focused navigation, the subject’s store of directed attention was low.
+                - Walking through nature, by contrast, exposes you to what lead author Marc Berman calls “inherently fascinating stimuli,” using sunsets as an example. These stimuli “invoke attention modestly, allowing focused-attention mechanisms a chance to replenish.”
         - In **K. Anders Ericsson**’s seminal 1993 paper on the topic, titled “**The Role of Deliberate Practice in the Acquisition of Expert Performance**,”  - **max four hours per day for experts, less for novices**
             - he dedicates a section to reviewing what the research literature reveals about an individual’s capacity for cognitively demanding work.
                 - **K. Anders Ericsson** notes that for a novice, somewhere around an hour a day of intense concentration seems to be a limit, while for experts this number can expand to as many as four hours—but rarely more.

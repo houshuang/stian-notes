@@ -3,3 +3,89 @@ title: "E: Ad hoc book clubs"
 ---
 
 - #E #p
+- What would it look like to pay someone to facilitate a ad hoc reading circle?
+- How much of a subject expert do you have to be to lead a productive class?
+    - What if the participants know that you are another subject expert,
+        - link to the guy in Singapore where they have both the subject expert, nationalization expert in all classes?
+- Are there things that we could automate, like the work that Ari was doing?
+    - Where it automatically puts in different social problems and so on?
+- **P2PU** video by **Philipp Schmidt** in 2010
+    - https://vimeo.com/11158136
+    - The current model of higher education is broken.
+        - We're not getting the skills we need,
+            - especially in technical disciplines.
+            - the important skills like leadership, collaboration, communication and attitude of curiosity and problem solving. those skills are really taught at universities,
+        - we're paying too much money for it.
+            - the cost is too high. If I graduate from a top us University today, I can easily be in debt more than $100,000. At that cost quality education does not scale.
+    - And the model that we have today doesn't scale to meet the demand of tomorrow.
+        - What we learn over the four year course of a bachelor's degree at the end of that degree is almost invariably outdated.
+            - What that means is we need to keep learning for the rest of our lives, and ideally in small flexible increments.
+        - We can't meet the demand,
+            - especially transition countries like India, China, Brazil, South Africa, will have millions of young people looking for higher education opportunities.
+            - The model where one person an expert stands in front of a group of people either in a room Virtually, there's simply not scale to meet this demand.
+    - Enter Peer2Peer University.
+        - Premise
+            - The idea that there's a wealth of educational content, high quality educational content available online,
+            - that the internet connects us to millions of other people we can learn with.
+            - And then we can design new ways of recognizing that learning that gives people the kind of credentials that they need to succeed in life.
+        - Timeline
+            - A year ago, P2P University was just a hunch, we thought that there was room for innovation to make all this content that's out there more useful to more people.
+            - So a small group of us from all over the world volunteers mostly got together and tried it out.
+                - We ran a pilot with seven courses with over 230 people apply. We could only accept 80.
+                - But what we saw was there was demand there was interest. People liked the idea.
+            - Today, a year later, we know that the basic premise was valid.
+                - We can see that high education is changing in fundamental ways
+                - that there's room for disruptive innovation, and that's where P2P University fits in
+        - P2PU does two things.
+            - One, we create opportunities for peer to peer learning and online study groups.
+                - The education research tells us that study groups are the most efficient way for students to learn, and that teaching someone else is the best way for us to learn something. So that's what P2P university does.
+                - It brings together people in six week long courses where they work through a common set of course materials together and support each other
+            - Two: P2P University enables recognition of learning.
+                - Learning for learnings sake is a luxury, most people need a diploma or certificate of some kind to show other people what they've learned.
+                - We already have pathways to credit
+                    - so one participant received for independent study credit that counted towards his PhD degree at a US University.
+                - However, real innovation this space means rethinking this whole accreditation and certification system all together.
+                    - We're working with the Mozilla Foundation to try that out for web developers.
+                        - We're designing a curriculum of courses that are completely free and open.
+                        - We are building a better assessment model that looks not only technical skills but also hackers attitude.
+                    - And finally, we're designing something that could look like a portfolio or some form of certificate that you can take at the end to an employer and get a job.
+            - P2PU is hitting a nerve.
+                - Demand for our courses has doubled.
+                - The community is growing at an exponential rate.
+                - articles have appeared in print and online media all over the world in many different languages.
+                - We've been invited to universities to speak about the model.
+                    - They're interested how they could relate to it. And what's great is that a lot of these requests come from transition economies.
+                        - We not only speak at some of the best universities in the world like Yale and UC Berkeley, but we get invited to universities in India and China and Brazil and South Africa. It's in those places that we believe the possibility for disruptive innovation is greatest. And that's where we're focusing.
+            - What about sustainability.
+                - P2PU been fortunate to get some grant funding to get off the ground.
+                    - We've had a small grant from the Hewlett Foundation
+                    - and the funds that I've been able to access to my fellowship with the Shuttleworth Foundation have allowed us to experiment and innovate very, very fast.
+                - However, grant funding cannot be a long term sustainability strategy, three ideas,
+                    - one, donations from participants,
+                        - people have indicated that they're willing to donate.
+                    - We're going to try it out to p2p use as a platform offering our services, the methodology, the community and the technology to universities and NGOs that need to run training courses, but don't have the capacity to do so in their own infrastructure.
+                    - And three, and this is the real area of opportunity. Open accreditation,
+                        - we thinking along a freemium model, with
+                            - a basic recognition of your skills will always be free, but that we add
+                            - premium services on top of that, which employers or employees might be willing to pay for.
+            - This last year has been one crazy and exciting, right? We were focused on building, building, building,
+                - building a community,
+                - building a set of courses,
+                - building partnerships,
+                - building momentum.
+                - Building a buzz,
+                - building a new website,
+                - building building building.
+            - Now it's time to step back and refocus. We know the basic ideas about it. But a lot of the details still need to be worked out. We can't do everything that's needed in the next year and become completely self sustainable.
+                - However, I think we can meet five important objectives in the next year.
+                    - 1 - P2P University will run courses with 1000 people based on a robust methodology for peer learning that maximizes learning for everyone.
+                    - 2 - And we'll be ready to scale up further to we will have the logistics administrative and financial systems in place that can support our expected growth.
+                    - 3 - P2PU will be a vibrant, open community of volunteers that are involved in all aspects of the project, including governance and strategy
+                    - 4 - Mozilla open web certificate will be established as a top training and certification program for web developers
+                    - 5 - we will have a solid strategic and business plan in place that has community buy in, and that specifies how we're going to become self sustainable by monetizing aspects of the project.
+- More thoughts
+    - Also want ad hoc online book clubs... Like a community where I can say "I want to read this paper or listen to this podcast, who wants to discuss (sync/async) with me in two days"? Or see which content is already scheduled which you can join. Or even series, like "We will watch five Bret VIctor videos over five weeks, new cohort starting this Monday".. And people could curate playlists of content with discussion questions etc...  #**E: Ad hoc book clubs**
+        - **Andy Matuschak** says that book clubs/seminars can be very effective if organized well (obvious question, what does well mean? What are good and bad ways of organizing book clubs? He does mention that it's less about debate and more about different perspectives).
+        - that we could do something innovative around [[Awakening From the Meaning Crisis]],
+            - Nice that you're enjoying Awakening. Let me know if you'd like to experiment with something social around that - sharing notes, book club etc.
+        - **Peer2Peer University** that I worked on was kind of like that. I have a slow-burning idea that we need some kind of platform for "reading groups/study groups" - whether I want a cohort to watch a single John Vervaeke video with, or maybe there's a pre-made sequence of four videos on climate engineering, or maybe it's finding people to do a public MOOC with... not sure what the platform would offer - some social network (or build on Twitter etc?), easy mailing list, easy Zoom/Hangout integration? Wouldn't have to be tech heavy but just really low friction... Could also build on for example Interintellect community.

@@ -1,0 +1,63 @@
+---
+title: "Nat Eliason's Roam Course"
+---
+
+- https://learn.nateliason.com/courses/764250/lectures/13822408
+- #public
+- **Log**
+    - Finished Intro **March 25th, 2020**
+    - Next is Productivity
+    - {{**TODO**}} Quick email to **Nat Eliason** when I finish the course with some thoughts/suggestions. IN general, he uses a lot of manual processes. Would be interesting to directly juxtapose different approaches.
+- Questions:
+    - {{query: {and: {**q** **Nat Eliason's Roam Course**}}}
+- Notes
+    - Formatting
+        - cmd+alt+1 for headlines
+    - Hides future tasks under a bullet "Future Notes", which lets you quickly hide them
+    - Metadata on book database leads to nice filtering
+    - #q Can you create a query that automatically shows TODOs without a date, without having to manually mark them as such?
+    - Metadata
+        - starts a new page with writing Metadata::, shift+click, and seeing all of his metadata tags, copying a certain kind (like article), and quickly having access to the most important things - let's you filter later
+        - Problem with this kind of metadata is that it's not nested or tied to book contents, so cannot filter etc. There was a discussion about that somewhere?
+    - Capture
+        - Using **Drafts** for quick notes
+        - Getting articles in
+            - using **Instapaper** with **Readwise** and **Evernote** integration, with metadata using text expander. Lot's of manual work though
+            - Regular time every week to empty **Instapaper** queue and process. Good idea.
+            - xrm is a nice text expander tag
+            - **Readwise** has an app that let's you take pictures and highlight in physical books as well
+        - **Progressive summarization**
+            - pasting clippings into Roam
+            - first pass, bolding and linking concepts
+            - second pass, some more bolding, and highlighting
+            - third pass, create Notes and Summary headers (in H1), write quick summary, and hide notes
+            - contextual links in notes means that this article still surfaces in very specific contexts
+        - Adapting **How to take smart notes**
+            - Has switched to reading more physical books instead of Kindle
+            - Uses book tabs to keep track of interesting ideas which he captures using **Readwise** app
+            - Also has a notebook alongside while reading
+            - Pull out ideas quickly after reading the book, because the notes might be very rough and rely on your memory
+            - Uses **Sublime Text** to add a tag for that book to the end of each idea
+                - #q Why not just nest them under the tag? Because he's going to move them to other pages. Why not reference?
+            - Notes should live in the most important context, not necessarily where they came from... So he manually opens pages on key concepts, like Cash Flow, and drags the note there. Why not just tag it and use mentions?
+        - Organize your notes into **Head Pages**
+            - relevant to **Note consolidation**
+            - looking through the mentions, opening a lot of them in the sidebar (and taking advantage of the **Progressive summarization** he has already done), organizing key ideas, liberally alt-dragging snippets.
+            - #q Part of the problem is how do you deal with your mentions growing over time - there isn't a good way to mark them as done? Can you tag them and then filter them away if you've processed them (problem is a block that links to multiple concepts). With block referencing, the specific block gets marked, but that might not be visible on the mention...
+            - His approach is informed by his use of tags on articles - so his mentions are much less likely to link directly to content, instead he just uses them to identify relevant articles, and then look through the articles in the sidebar. My use of tags is a bit different.
+            - Sometimes a bullet can grow to become its own page
+        - Video notes
+            - Watching video directly in Roam using the video tag, and taking notes.
+                - would be neat if Roam had a fancier interface, like letting you link notes directly to time stamps, split-view, keyboard control for playback etc. #roam-feature
+                - he doesn't take any screenshots, but keeps time codes #suggestion
+        - Drafting
+            - Create a new bullet to hold the draft (distinguish from other notes)
+            - Use document view
+            - Zoom in on specific sections you are in the process of writing
+            - Open sources in sidebar and alt-drag to quote things
+            - Uses { {word-count}} in the section title to keep track
+            - Manually copies over each section to a Google Doc for final editing
+        - **Newsletter-writing**
+            - tagging things for a specific newsletter
+            - adding done tag when he has included it in the newsletter outline
+            - often shift+clicking on newsletter tag and directly doing writeup in the sidebar, while the article page is open in the main pane

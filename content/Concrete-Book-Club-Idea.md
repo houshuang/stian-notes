@@ -58,8 +58,7 @@ title: "Concrete Book Club Idea"
         - people who have read the book
         - second cohort of book club members
 - Spaced repetition
-    -     - reproducing **Email-driven SRS** by **Quantum Country**
-
+    - reproducing **Email-driven SRS** by **Quantum Country**
     - collectively creating cards
     - sharing privately created cards
     - collecting SRS analytics, to determine which cards are more useful? But what is a good metric - retention? Understanding in five months? How to test, how to isolate?
