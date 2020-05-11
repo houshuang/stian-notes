@@ -1,0 +1,52 @@
+---
+title: "Retro concept"
+---
+
+- #public
+- [Thread](https://twitter.com/houshuang/status/1245592946952384516) on retro of Roam daily pages
+    - Thread: I've been thinking a lot about spaced repetition, but more broadly what @andy_matuschak calls Spaced Everything ( https://t.co/Y1K4b4BfOc.  The idea is to revisit notes and concepts at regular intervals, both to improve your memory, but also to
+        - [https://twitter.com/andy_matuschak/status/1244842003369570304](https://twitter.com/andy_matuschak/status/1244842003369570304)
+        - [https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program_attention?stackedNotes=z59aJSjgqr4B1k1ofoE7ZBF2dv8MeJ1Drf4TQ](https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program_attention?stackedNotes=z59aJSjgqr4B1k1ofoE7ZBF2dv8MeJ1Drf4TQ)
+    - trigger new associations and insights. Traditionally Anki has been used for more factual questions, but I love Andy's "taxonomy" of cards, where he might ask himself to sing a song, reflect on a metaphor, refute the notion of philosophical zoombies, etc.
+        - Embedded [tweet](https://twitter.com/andy_matuschak/973020621847187500) by [andy_matuschak](https://twitter.com/andy_matuschak)
+            - I've gotten a bunch of questions about how I "encode knowledge" in flashcards. I think about it in terms of Bloom's taxonomy[1]. Here's the taxonomy juxtaposed with recent cards:
+                - [1]  https://t.co/UvVfCUlkOK
+                - [https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
+                - ![](https://pbs.twimg.com/media/DYDdBJMVMAAobpq.jpg)
+    - but it also lazily defers the decision about which notes to spend more or less time on, and when you revisit things in the future you have a better view of their relative importance, and might be able to make interesting links to ideas you have thought about in the meantime.
+    - On the other hand, @fortelabs's concept of progressive summarization ( is the idea that you first capture things, and then revisit progressively adding structure and refinement. This spacing out in time again improves memory, because you are revisiting https://t.co/EtixIOs1Sw
+        - [https://praxis.fortelabs.co/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb](https://praxis.fortelabs.co/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb)
+        - ![](https://pbs.twimg.com/media/EUk5I6qUMAM3j2d.png)
+    - The Roam Toolkit also has support for more advanced SRS algorithms  However, I just thought of a much simpler approach that seems to give much of the same benefits: daily page retro. Every day, I add a link to my daily page 7, 30 and 90 days ago. https://t.co/uQLmMeNz8m
+        - [https://github.com/roam-unofficial/roam-toolkit](https://github.com/roam-unofficial/roam-toolkit)
+        - ![](https://pbs.twimg.com/media/EUk7tQhUcAA6mm3.png)
+    - There's been a lot of enthusiasm around spaced repetition in @RoamResearch, and I particularly like @ShuOmi3's implementation of adding SRS questions while note taking  Advantage of doing it all in Roam is that you can always expand context. https://t.co/zB2tVqmSF5
+        - {{youtube: https://www.youtube.com/watch?v=J6a-anGLyBE}}
+        - ![](https://pbs.twimg.com/media/EUk7WuiU0AAhdJ9.png)
+    - @cortexfutura talks about what progressive summarization would look like in Roam, and proposes the term Context-Dependent Insight. @JoelChan86 proposes the term incremental formalization, which I also like ( https://t.co/lpGksQny2Y
+        - [https://roamresearch.com/#/app/megacoglab/page/uqjCEC29Z](https://roamresearch.com/#/app/megacoglab/page/uqjCEC29Z)
+        - ![](https://pbs.twimg.com/media/EUk7P8wUMAU03_X.png)
+    - but has a lot of benefits. You can revisit personal anecdotes (that's when my son did something cute), look back at predictions (I thought this project would go in a certain way), at practices (I tend to overestimate my time), emotions, but also process your notes...
+    - Then I click on that link, and revisit my notes. I ingest almost all of my primary content on Roam through my daily pages, but I also take notes on my emotions, motivations, ideas, meetings and time usage (how much varies a lot). This practice takes only 10 minutes a day, ...
+        - ![](https://pbs.twimg.com/media/EUk74CIUMAAYIkU.png)
+    - less pressure to assign the perfect tag right now. I also take a few notes on my retro, which means that when I retro the current page, it functions as a portal to my older notes as well - providing denser interlinking...
+        - ![](https://pbs.twimg.com/media/EUk4qK9UwAEq_Co.png)
+    - see new connections, and so some "incremental formalization" as @JoelChan86 calls it ( Also makes me feel good that I can simply capture stuff on the daily page, and know that it will get revisited, it won't disappear into the black hole of old notes -
+        - [https://roamresearch.com/#/app/megacoglab/page/uqjCEC29Z](https://roamresearch.com/#/app/megacoglab/page/uqjCEC29Z)
+    - I found a long Twitter thread from January which at the time seemed intriguing, but I didn't quite know "what to do about it". Now the topics are very relevant to other things I've read, and I went through adding some tags to make sure I rediscover. I look back at old ideas I had
+    - Revisiting personal events, emotions etc is a bit similar to @tasshinfogleman's concept of Mindful Review  He also talks about an interesting concept of Lembranisation. https://t.co/rSOfORs1DV
+        - [https://fortelabs.co/blog/the-case-for-first-brain-memory/](https://fortelabs.co/blog/the-case-for-first-brain-memory/)
+        - ![](https://pbs.twimg.com/media/EUk5odCUMAQ-xzr.png)
+- Gmail retro
+    - - I added another aspect to my retro process in  - email retro. I have had GMail since 2004 (remember sending someone a postcard from Mongolia to get a beta invite from them :)). Most of the emails is of course cruft, but hidden among the cruft there are gems. - **Twitter thread** by **Stian Håklev (侯爽)**, [link](https://twitter.com/houshuang/status/1249375388888903680) #myTwitterThreads #**Retro concept**
+        - In the last 15 years, I must have hundred of pages of ideas, reflections, etc. I used to write really long emails to my best friends, my PhD supervisor etc. Now I want to capture some of those, and put them in Roam. But where to start - I've sent 36,000 emails! https://t.co/FSMWdiuSjP
+            - ![](https://pbs.twimg.com/media/EVaqL3WXQAcZeML.png)
+        - Well, how about a search which shows you only the emails you've written on today's date, for each of the previous years? Tedious to do manually, but with a quick Node script (https://github.com/houshuang/hypothesis-to-bullet/blob/master/daily.mjs) we can easily generate it. https://t.co/p3kFMO4Uf1
+            - ![](https://pbs.twimg.com/media/EVardKAXgAEzjbm.png)
+            - ![](https://pbs.twimg.com/media/EVarxRUXYAMCic1.jpg)
+        - About 115 conversations for today. But just looking at the titles and senders etc, it's easy to dismiss most of it. Time will tell if I find this useful, or overwhelming. I can of course easily limit the range of years (instead of finishing the full review in 365 days)
+        - I could stretch it out over several years. Note that some of the dates are not exact, because I'm using conversation view, so it finds threads containing a post written by me on today's date. This means I also find people's responses, but I filter out all incoming notifications. https://t.co/wZ1lYQit24
+            - ![](https://pbs.twimg.com/media/EVasMyGWkAYwrrk.png)
+- Other thoughts:
+    - Love this idea! Riffing: divide emails into N segments (by year/phase): each conditions a GPT2 model that "comments" on things you write (and comments are entry points into specific emails). Viola, ongoing conversations with yourself(s)! **Joel Chan** comment on **Retro concept**
+    - reading things as a way of doing retro of your own thoughts. When I read something about juggling, it's not so much that I'm learning something new about juggling. But I'm revisiting something that I used to do a lot. And I see it in a different perspective, based on all the things I'm reading and thinking about right now. #**Retro concept**
