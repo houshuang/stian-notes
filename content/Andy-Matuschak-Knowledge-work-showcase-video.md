@@ -16,7 +16,7 @@ title: "Andy Matuschak Knowledge work showcase video"
             - This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it - **inference to the best explanation**
             - What is abductive reasoning? [[**interval**::5.0]] [[**factor**::2.65]] **May 11th, 2020**
                 - **Abductive** reasoning (also called abduction, **abductive** inference, or retroduction) is a form of logical inference that starts with an observation or set of observations and then seeks to find the simplest and most likely conclusion from the observations. #**Occam's razor**? **designerly thinking**?
-            - How is deductive and abductive reasoning different? [[**interval**::5.0]] [[**factor**::2.50]] **May 8th, 2020**
+            - How is deductive and abductive reasoning different? [[**interval**::6.0]] [[**factor**::2.35]] **May 14th, 2020**
                 - a valid deduction guarantees the truth of the conclusion
                 - This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it - **inference to the best explanation**
     - **inductive**

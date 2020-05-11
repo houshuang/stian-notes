@@ -12,7 +12,7 @@ title: "Deep Work"
             - explicitly model **talent**—as a factor with “imperfect substitution,” which Rosen explains as follows:
                 - **“Hearing a succession of mediocre singers does not add up to a single outstanding performance.**”
                 - **talent is not a commodity you can buy in bulk and combine to reach the needed levels: There’s a premium to being the best.** Therefore, if you’re in a marketplace where the consumer has access to all performers, and everyone’s q value is clear, the consumer will choose the very best. **Even if the talent advantage of the best is small compared to the next rung down on the skill ladder, the superstars still win the bulk of the market.**
-                - What does it mean that talent is a factor with imperfect substitution?  [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
+                - What does it mean that talent is a factor with imperfect substitution?  [[**interval**::2.9]] [[**factor**::2.20]] **May 12th, 2020**
                     - **talent is not a commodity you can buy in bulk and combine to reach the needed levels: There’s a premium to being the best.** Therefore, if you’re in a marketplace where the consumer has access to all performers, and everyone’s q value is clear, the consumer will choose the very best. **Even if the talent advantage of the best is small compared to the next rung down on the skill ladder, the superstars still win the bulk of the market.**
         - I just identified two groups that are poised to thrive and that I claim are accessible:
             - those who can work creatively with intelligent machines and
@@ -25,7 +25,7 @@ title: "Deep Work"
     - Performance psychology
         - This task of formalization began in earnest in the 1970s, when a branch of psychology, sometimes called **performance psychology**, began to systematically explore what separates experts (in many different fields) from everyone else.
             - In the early 1990s, **K. Anders Ericsson**, a professor at Florida State University, pulled together these strands into a single coherent answer, consistent with the growing research literature, that he gave a punchy name: **deliberate practice**. Ericsson opens his seminal paper on the topic with a powerful claim: “**We deny that these differences [between expert performers and normal adults] are immutable… Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.”**
-            - Who came up with the theory of deliberate practice? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
+            - Who came up with the theory of deliberate practice? [[**interval**::1.0]] [[**factor**::1.95]] **May 11th, 2020**
                 - In the early 1990s, **K. Anders Ericsson**, a professor at Florida State University, pulled together these strands into a single coherent answer, consistent with the growing research literature, that he gave a punchy name: **deliberate practice**. Ericsson opens his seminal paper on the topic with a powerful claim: “**We deny that these differences [between expert performers and normal adults] are immutable… Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.”**
         - In the intervening decades since **K. Anders Ericsson**’s first major papers on the topic, however, neuroscientists have been exploring the physical mechanisms that drive people’s improvements on hard tasks.
             - As the journalist **Daniel Coyle** surveys in his 2009 book, **The Talent Code**, these scientists increasingly believe the answer includes
@@ -34,16 +34,16 @@ title: "Deep Work"
                     - To understand the role of myelin in improvement, keep in mind that skills, be they intellectual or physical, eventually reduce down to brain circuits.
                     - This new science of performance argues that **you get better at a skill as you develop more myelin around the relevant neurons, allowing the corresponding circuit to fire more effortlessly and effectively.** To be great at something is to be well myelinated.
                 - srs
-                    - What is a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner. called? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
+                    - What is a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner. called? [[**interval**::5.6]] [[**factor**::2.50]] **May 15th, 2020**
                         - myelin
-                    - What is myelin? [[**interval**::1.2]] [[**factor**::2.15]] **May 9th, 2020**
+                    - What is myelin? [[**interval**::2.6]] [[**factor**::2.30]] **May 12th, 2020**
                         - a layer of fatty tissue that grows around neurons, acting like an insulator that allows the cells to fire faster and cleaner.
     - Attention residue
         - **Sophie Leroy**, a business professor at the University of Minnesota. In a 2009 paper, titled, intriguingly, “**Why Is It So Hard to Do My Work?**,” Leroy introduced an effect she called **attention residue**. In the introduction to this paper, she noted that other researchers have studied the effect of multitasking—trying to accomplish multiple tasks simultaneously—on performance, but that in the modern knowledge work office, once you got to a high enough level, it was more common to find people working on multiple projects sequentially:
             - The problem this research identifies with this work strategy is that **when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.**
                 - Ref: **Just-in-Time Productivity**
     - srs
-        - What is attention residue? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
+        - What is attention residue? [[**interval**::2.9]] [[**factor**::2.20]] **May 12th, 2020**
             - The problem this research identifies with this work strategy is that **when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.**
     - Organization of modern knowledge work
         - Busyness as Proxy for Productivity: In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.
@@ -126,7 +126,7 @@ title: "Deep Work"
                         - (You might, of course, argue that perhaps being outside watching a sunset puts people in a good mood, and being in a good mood is what really helps performance on these tasks.
                             - But in a sadistic twist, the researchers debunked that hypothesis by repeating the experiment in the harsh Ann Arbor winter. Walking outside in brutal cold conditions didn’t put the subjects in a good mood, but they still ended up doing better on concentration tasks.)
         - srs
-            - What is the concept of attention restoration therapy? [[**interval**::2.4]] [[**factor**::2.35]] **May 9th, 2020**
+            - What is the concept of attention restoration therapy? [[**interval**::1.0]] [[**factor**::1.95]] **May 11th, 2020**
                 - - **attention restoration theory** (ART), which claims that **spending time in nature can improve your ability to concentrate**. This theory, which was first proposed in the 1980s by the University of Michigan psychologists **Rachel Kaplan** and **Stephen Kaplan**, is based on the concept of [[**attention** fatigue]].
             - To concentrate requires what ART calls [[directed **attention**]].
                 - This resource is finite: If you exhaust it, you’ll struggle to concentrate. (For our purposes, we can think of this resource as the same thing as **Roy F. Baumeister**'s limited willpower reserves we discussed in the introduction to this rule.*)
@@ -136,9 +136,9 @@ title: "Deep Work"
                     - This state allows your directed attention resources time to replenish. After fifty minutes of such replenishment, the subjects enjoyed a boost in their concentration.
                         - (You might, of course, argue that perhaps being outside watching a sunset puts people in a good mood, and being in a good mood is what really helps performance on these tasks.
                             - But in a sadistic twist, the researchers debunked that hypothesis by repeating the experiment in the harsh Ann Arbor winter. Walking outside in brutal cold conditions didn’t put the subjects in a good mood, but they still ended up doing better on concentration tasks.)
-            - Who came up with the theory that our willpower is a limited resource? [[**interval**::2.3]] [[**factor**::2.45]] **May 10th, 2020**
-                - Roy F. Baumeister
-            - Who came up with the concept of attention restoration therapy? [[**interval**::2.4]] [[**factor**::2.35]] **May 10th, 2020**
+            - Who came up with the theory that our willpower is a limited resource? [[**interval**::1.0]] [[**factor**::2.25]] **May 11th, 2020**
+                - **Roy F. Baumeister**
+            - Who came up with the concept of attention restoration therapy? [[**interval**::1.0]] [[**factor**::2.15]] **May 11th, 2020**
                 - Kaplan, Rachel, and Stephen Kaplan. The Experience of Nature: A Psychological Perspective. Cambridge: Cambridge University Press, 1989.
             - Why is walking through nature more relaxing than walking in the city? [[**interval**::5.0]] [[**factor**::2.50]] **May 11th, 2020**
                 - The 2008 study argues that walking on busy city streets requires you to use directed attention, as you must navigate complicated tasks like figuring out when to cross a street to not get run over, or when to maneuver around the slow group of tourists blocking the sidewalk. After just fifty minutes of this focused navigation, the subject’s store of directed attention was low.
@@ -152,7 +152,7 @@ title: "Deep Work"
         - Riding to our rescue in this matter is our friend from earlier in the rule, the psychologist **Roy F. Baumeister**, who wrote a paper with **E.J. Masicampo** playfully titled “**Consider It Done!**”
             - In this study, the two researchers began by replicating the Zeigarnik effect in their subjects (in this case, the researchers assigned a task and then cruelly engineered interruptions), but then found that they could significantly reduce the effect’s impact by asking the subjects, soon after the interruption, to make a plan for how they would later complete the incomplete task. To quote the paper: **“Committing to a specific plan for a goal may therefore not only facilitate attainment of the goal but may also free cognitive resources for other pursuits.”**
     - srs
-        - What is the name of the effect where incomplete tasks dominate our attention? [[**interval**::1.2]] [[**factor**::2.15]] **May 9th, 2020**
+        - What is the name of the effect where incomplete tasks dominate our attention? [[**interval**::2.6]] [[**factor**::2.30]] **May 12th, 2020**
             - Zeigarnik effect
         - How can the Zeigarnik effect be reduced without completing a task? [[**interval**::5.0]] [[**factor**::2.50]] **May 11th, 2020**
             - - Riding to our rescue in this matter is our friend from earlier in the rule, the psychologist **Roy F. Baumeister**, who wrote a paper with **E.J. Masicampo** playfully titled “**Consider It Done!**”

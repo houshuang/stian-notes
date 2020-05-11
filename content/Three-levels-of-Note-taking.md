@@ -21,3 +21,27 @@ title: "Three levels of [[Note taking]]"
         - link to **over-scripting** and fading **scaffolding**?
         - also **Distributed cognition** - some things it's OK to always leave outside / **digital prosthesis**
         - **Dan Suthers** and **salience** (**suthers2008empirical**)
+- Granularity
+    - Thinking about the framework of note taking across multiple dimensions also in terms of time, and granularity size.
+        - I used to have theories of **granularity of collaboration**, and also **crowdsourcing**
+            - things like Wikipedia and **Yochai Benkler**.
+            - And of course, it also connects to **collaborative writing**, and the research both on **live synchronous collaboration** and academic collaboration.
+        - also curious about how people show off their knowledge processes.  #**Knowledge work showcase**
+        - So sharing drafts and rounds of revisions from journals
+            - like the comparative education journals,
+            - people showing their process like crafts, drawing and painting
+                - the English portrait artist show,
+            - although you cannot replicate the method, but it gives you a much deeper understanding because you see the layers and it might also help you better appreciate when you see things,
+                - both in terms of a painting to see the different layers and the processes,
+                - but also for a chair for example, to see the **structural functional composition** maybe
+                - and the way they felt about the design, the sketches.
+            - Architects often publish books, about sketches. Are there any other disciplines
+            - The revision process of writing fiction or nonfiction, the research process.
+                - There are not many people sharing their process. I would love to see
+                - **Joel Chan**, **John Vervaeke**, **MIchael Nielsen**, **Andy Matuschak**.
+                    - To not just hear them talk about it but actually see it
+                    - Of course, it's not as visual.
+                    - But it could be, you could imagine a TV show
+                        - the great English essay, where people are given a certain amount of time to do research and come up with policy recommendations for a topic.
+                        - They know nothing about talking about research, finding sources, structuring them.
+                    - There was some suggestion about this on Twitter, but it was more around debates and using different knowledge tools. Of course, many of these processes last for extremely long periods of time.

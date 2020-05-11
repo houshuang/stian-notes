@@ -9,6 +9,10 @@ title: "E"
         - **E: Better note taking can be taught interactively**
         - **E: Compression and decompression**
         - **E: Convergence and divergence**
+        - **E: Writing quality**
+        - **E: Automatic mailing list for incremental brainstorming**
+    - Collaboration
+        - [[E: Incremental Brainstorming]]
     - Learning
         - Social
             - [[E: Learning platform for independent course creators]]
@@ -19,8 +23,11 @@ title: "E"
         - **E: Learning broadly or deeply**
         - **E: Spaced everything**
         - **E: How is designing for learning different**
+        - **E: Reorganizability of ideas**
     - Research
         - **E: Being an embedded researcher**
+        - **E: Academic writing 2.0**
+        - **E: Structuring literature overview**
     - Life
         - **E: Be careful with monetizing your hobbies**
 - Meta:
