@@ -11,7 +11,7 @@
   "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.20.36",
+    "gatsby": "^2.21.24",
     "gatsby-plugin-postcss": "^2.2.4",
     "gatsby-theme-andy": "^0.0.5",
     "react": "^16.13.1",
