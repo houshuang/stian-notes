@@ -1,6 +1,9 @@
 /* purgecss start ignore */
 @tailwind base;
 
+.highlight {
+  background-color: #FFFF00;
+}
 li { vertical-align: top;}
 h1 {
   @apply text-3xl font-bold;

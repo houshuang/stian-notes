@@ -8,7 +8,7 @@ title: "Zettelkasten"
 - Related concepts
     - **Evergreen Notes** [[Note taking]] **zettel**
 - Questions
-    - ^^How to position this note in relationship with [[Note taking]]? Merge with **Zettelkasten**?^^  #p
+    - <span class="highlight">How to position this note in relationship with [[Note taking]]? Merge with **Zettelkasten**?</span>  #p
 - Invented by **Niklas Luhmann**
     - Original writings
         - http://luhmann.surge.sh/learning-how-to-read
@@ -43,7 +43,7 @@ title: "Zettelkasten"
     - **Collector's Fallacy** - trying to capture all of the original author's intention, instead of relying on my own voice and understanding. Pasting too much raw material. Worried about missing something.
 - Interfaces
     - Hierarchical (like Roam)
-        - **Writing** using **outlines** - one sentence per bullet, hierarchy. Much easier to move things up and down (^^but danger of disconnected text, like I found sometimes with **Scrivener** when I wrote each paragraph as a stand-alone piece^^) - but the hierarchy helps, because when you move something that has children, they come along. Can also use folding. #bullets
+        - **Writing** using **outlines** - one sentence per bullet, hierarchy. Much easier to move things up and down (<span class="highlight">but danger of disconnected text, like I found sometimes with **Scrivener** when I wrote each paragraph as a stand-alone piece</span>) - but the hierarchy helps, because when you move something that has children, they come along. Can also use folding. #bullets
     - Visual
         - - Different formats
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FhCzgo-uVs0?alt=media&token=767f87ab-0ef7-43f4-a973-d86478588666)
@@ -98,7 +98,7 @@ title: "Zettelkasten"
 - Workflow
     - From **Zettelkasten.de** (**discordian**) on how to use Zettelkasten to create lectures
         - https://forum.zettelkasten.de/discussion/865/introduction-teaching-using-zettelkasten-and-paskian-entailment-meshes#latest
-        - ^^There is a rich discussion in this thread that I haven't processed, worth coming back to^^ Resurface **March 26th, 2020**
+        - <span class="highlight">There is a rich discussion in this thread that I haven't processed, worth coming back to</span> Resurface **March 26th, 2020**
         - The inspiration comes from close colleagues historian father, who had this system of writing his materials on perforated index cards and then using a steel rod to 'fish out' materials for a given lecture from a giant archive drawer. Basically, he had a mechanical tagging system and could prepare a lecture in a moment's notice with it.
         - A coherence is set of three or more topics with the curious property that any topic in a given coherence is entailed by the remaining topics. For example, the Topics {Function, Data, Transformation} form a coherence, since concepts of Function and Data imply a Transformation (of the data), Transformation and Data imply a Function (specifying the transformation) and Transformation and Function imply Data (to be transformed).
         - The idea seems to boil down to this: if the student knows some of the topics, an explanation for the unknown topics is implied by the coherence.

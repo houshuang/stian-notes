@@ -4,7 +4,7 @@ title: "E: Learning platform for independent course creators"
 
 - #E #p #public
 - People use **Skillshare** or **Teachable** for things like **roam-course**s
-- ^^Why are people able to command such a premium for such courses, especially if they are mainly collections of videos?^^
+- <span class="highlight">Why are people able to command such a premium for such courses, especially if they are mainly collections of videos?</span>
 - Basically just a Youtube playlist with payment/accounts? Why doesn't **Youtube** offer this?
 - Others, like **Write of passage** and **BASB-course** use a custom stack - payment, membership, Zoom, mailing lists etc?
 - None of the MOOC providers (Course, EdX, Udacity) want to work with individuals (also not Minerva currently)
@@ -21,4 +21,4 @@ title: "E: Learning platform for independent course creators"
 - Examples:
     - **Nat Eliason** has made $50,000 on a course on Roam Research which is basically just 20 short videos (95$ fee).
     - **Tiago Forte** has taught 800 people on his Building a Second Brain course, minimum price is 999$.
-    - ^^Other examples - how big a market is this, and how many would be interested in Teachables-style courses or a bit more interactive, versus full-on video etc?^^
+    - <span class="highlight">Other examples - how big a market is this, and how many would be interested in Teachables-style courses or a bit more interactive, versus full-on video etc?</span>

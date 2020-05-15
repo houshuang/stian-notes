@@ -18,7 +18,7 @@ title: "Transfer of Learning from a Modern Multidisciplinary Perspective"
         - chain `A-a-b-B`
             - event `A` triggers `a` leads to `B`
         - what if you encounter `A'`? Will it still trigger `a`? How likely?
-            - ^^Isn't it also about how `b` can be applied in a different way to a slightly different problem? You wouldn't want an identical response? #q^^
+            - <span class="highlight">Isn't it also about how `b` can be applied in a different way to a slightly different problem? You wouldn't want an identical response? #q</span>
         - Ideal
             - one learned event facilitates further learning
             - extend the range of events to which learned material can be applied
@@ -46,7 +46,7 @@ title: "Transfer of Learning from a Modern Multidisciplinary Perspective"
                     - poorly defined
         - [[**Near transfer** and **Far transfer** distinction]]
             - Introduced by **Richard E. Mayer**
-                - level of similarity between conditions of original learning and in transfer learning (^^how is this different from **Specific transfer**?^^)
+                - level of similarity between conditions of original learning and in transfer learning (<span class="highlight">how is this different from **Specific transfer**?</span>)
             - **James M. Royer**
                 - **school-learned events** and **out-of-school events** - applying something learnt at school in an out-of-school context is far transfer
             - very difficult to define
@@ -66,7 +66,7 @@ title: "Transfer of Learning from a Modern Multidisciplinary Perspective"
     - classic views of transfer measures transfer in ways that make people look dumb
         - measure what is "transferred out" (whether people directly apply what they learned in one context to another), and not what is "transferred in"
         - follow "sequestered problem-solving" paradigm, participants tested isolated from "contaminating" influences of information (colleagues, text, electronic resources)
-    - propose expanded definition of transfer: preparation for future learning (things you learnt help you learn new things more effectively) ^^pro-pedeutic?^^
+    - propose expanded definition of transfer: preparation for future learning (things you learnt help you learn new things more effectively) <span class="highlight">pro-pedeutic?</span>
         - transfer is not as rare as previously assumed
     - two-dimensional space of innovation and efficiency
 - Second chapter by **Christopher Wolfe**, **Valerie Reyna**, **Charles Brainerd**

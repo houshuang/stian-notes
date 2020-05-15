@@ -7,17 +7,17 @@ title: "Just-in-Time Project Management"
 - blogged http://reganmian.net/blog/2020/01/31/note-taking-with-roam/
 - **Key questions/observations:**
     - are there still valuable intermediate packets that are not public (ie. [[Zettelkasten]], also ref ((Ce2MvOaCb))
-    - ^^This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?^^
-    - Attempt many different projects network etc, however ^^However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.^^
+    - <span class="highlight">This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?</span>
+    - Attempt many different projects network etc, however <span class="highlight">However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.</span>
 - Key metric, **Return-on-Attention**
     - based on **Return-on-Investment**, which assumes abundance of projects, choose best one
     - **now**, we have to nurture **promising projects** - but this takes an incredible amount of sustained attention
         - **Projects**
             - have become non-linear, complex emergent phenomena
             - **understanding projects takes as many units of attention as acting on them - makes more sense to plunge in with exploratory action, instead of trying to predict what will happen**
-                - ^^similar to "fail fast" etc^^
-            - ^^we need systems for managing our attention that produce value __now__, not eventually^^
-    - ^^attention is the scarcest resource for knowledge workers^^
+                - <span class="highlight">similar to "fail fast" etc</span>
+            - <span class="highlight">we need systems for managing our attention that produce value __now__, not eventually</span>
+    - <span class="highlight">attention is the scarcest resource for knowledge workers</span>
         - ****attention****
             - units of attention are not created equal
                 - one minute of deep, tranquil state worth 100 minutes waiting in line
@@ -100,8 +100,8 @@ title: "Just-in-Time Project Management"
             - context-based (reading Kindle on the subway etc)
         - **big projects are less intimidating**
         - **ability to reuse previously built packets for new projects**
-            - ^^does [[Zettelkasten]] notes qualify as packets?^^
-            - ^^are packets always public (or shared with colleagues)? Producing something for others as motivation to synthesize^^
+            - <span class="highlight">does [[Zettelkasten]] notes qualify as packets?</span>
+            - <span class="highlight">are packets always public (or shared with colleagues)? Producing something for others as motivation to synthesize</span>
         - link to criteria for Flow - triggers don't require minimum block of time?
                 - **internal**
                     - clear goals
@@ -135,16 +135,16 @@ title: "Just-in-Time Project Management"
                 - make decisions
             - implementation stage
         - we need to collapse these, **constructivism**, learning is an active process. Put something on the line, allow yourself to fail.
-            - ^^There's a strong bias in academia for not publishing something if it is not genuinely new, or you have a very strong grounding. Even in blogosphere, I might feel that there's no point in me writing about productivity if Tiago has written a much better post, that I can link to.^^
-            - ^^Perhaps one way of overcoming this is making the format of publication intentionally "draft-y". But will this get readers/feedback, and will it be a good enough motivation to actually put effort into synthesizing, or just dumping my notes?^^
-            - ^^Easier trade-off for entrepreneurs who live on their own reputation and SEO etc, but for someone working in a company, trade-off with how much time you spend on this^^
-            - ^^Also question about context - if I am taking notes for myself, I assume all of my own knowledge. If I share with a few colleagues, I assume a lot of shared context. One way of adding value might be to write it up in a way that it was actually understandable by others, outside of my field. But huge effort. On the other hand, potentially very helpful to aid genuine understanding?^^
+            - <span class="highlight">There's a strong bias in academia for not publishing something if it is not genuinely new, or you have a very strong grounding. Even in blogosphere, I might feel that there's no point in me writing about productivity if Tiago has written a much better post, that I can link to.</span>
+            - <span class="highlight">Perhaps one way of overcoming this is making the format of publication intentionally "draft-y". But will this get readers/feedback, and will it be a good enough motivation to actually put effort into synthesizing, or just dumping my notes?</span>
+            - <span class="highlight">Easier trade-off for entrepreneurs who live on their own reputation and SEO etc, but for someone working in a company, trade-off with how much time you spend on this</span>
+            - <span class="highlight">Also question about context - if I am taking notes for myself, I assume all of my own knowledge. If I share with a few colleagues, I assume a lot of shared context. One way of adding value might be to write it up in a way that it was actually understandable by others, outside of my field. But huge effort. On the other hand, potentially very helpful to aid genuine understanding?</span>
         - products (generative)
             - writing, tweeting etc
-            - making diagrams, sketches and visual overviews - ^^I could experiment more with this^^
+            - making diagrams, sketches and visual overviews - <span class="highlight">I could experiment more with this</span>
             - performing - recording video, presenting at local meetup etc.
-            - producing (^^how is this different from writing? more finished product?^^)
-            - translating into a different product (^^what I'm doing right now with my notes from Tiago's blog series?^^)
+            - producing (<span class="highlight">how is this different from writing? more finished product?</span>)
+            - translating into a different product (<span class="highlight">what I'm doing right now with my notes from Tiago's blog series?</span>)
         - selling
             - most powerful - puts you in direct contact with reality. **Can include any exchange of value, not just financial** (I guess this includes pitching something internally?)
 - Workflow
@@ -153,12 +153,12 @@ title: "Just-in-Time Project Management"
         - people wait with getting started until they have enough time/money. Downscope.
     - maintain momentum
         - modulate progress depending on how other things are going. Make progress in smaller chunks.
-    - test assumptions - **a learning process** - ^^design your deliverables/packets specifically to learn/test certain assumptions^^
+    - test assumptions - **a learning process** - <span class="highlight">design your deliverables/packets specifically to learn/test certain assumptions</span>
         - **questions** to be answered
         - **assumptions** to be tested
         - **hypotheses** to be proven
         - **there is always a smaller/simpler version of whatever you're seeking to create**
-        - ^^This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?^^
+        - <span class="highlight">This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?</span>
 - Divergence and convergence #**divergence** #**Emergent Productivity** #**Productivity Research**
     - overview
         - concept from **design thinking**
@@ -198,15 +198,15 @@ title: "Just-in-Time Project Management"
                 - related to **procrastinate**, everyone works close to deadline anyway
     - **structure** can be added later - restructuring not only possible, but best possible way
         - re **Progressive summarization**, **Progressive formalization** by **Joel Chan**
-        - ^^but what if you never create structure, like my photos?^^
+        - <span class="highlight">but what if you never create structure, like my photos?</span>
     - **Features** can also be added later - __release early, release often__
-        - ^^difference between blog post and wiki though... who wants to come back to a half-assed blog post when it has been improved?^^
-        - launch a **container**, and fill it slowly over time via **releases** - discrete packets of incremental value. (^^Like the course that **Lukas Kawerau** released... or an MVP website that only takes sign-ups and has no product^^)
+        - <span class="highlight">difference between blog post and wiki though... who wants to come back to a half-assed blog post when it has been improved?</span>
+        - launch a **container**, and fill it slowly over time via **releases** - discrete packets of incremental value. (<span class="highlight">Like the course that **Lukas Kawerau** released... or an MVP website that only takes sign-ups and has no product</span>)
             - called **versioning**, powerful form of downscoping
     - **purpose** can be added later
-        - (^^[[Zettelkasten]], gathering without a purpose - but sometimes it's more powerful to be guided by various projects in progress - of course they can be modified as you learn more^^)
+        - (<span class="highlight">[[Zettelkasten]], gathering without a purpose - but sometimes it's more powerful to be guided by various projects in progress - of course they can be modified as you learn more</span>)
         - __You can write an email to a colleague explaining how to use an internal software program, and suddenly realize it could easily be turned into a wiki for future employee reference.__
-            - ^^This is powerful, I have so many notes, emails and videos laying around. How can I effectively reuse them, and make them shared more widely? And how can I be more effective going forwards - linking to public notes, instead of writing long emails?^^
+            - <span class="highlight">This is powerful, I have so many notes, emails and videos laying around. How can I effectively reuse them, and make them shared more widely? And how can I be more effective going forwards - linking to public notes, instead of writing long emails?</span>
     - **Only possible and humane if**
         - downscoping and upscoping (****flexible scope****)
         - **Placeholders**
@@ -222,18 +222,18 @@ title: "Just-in-Time Project Management"
             - **Intermediate Deliverables** as one solution
             - **convergence**
 - What should I work on now?
-    - ^^Nothing here on goals, reviews etc - I guess that's orthogonal, lot's of great points below on how to take goals and actually make progress. But would have been nice to mention.^^
+    - <span class="highlight">Nothing here on goals, reviews etc - I guess that's orthogonal, lot's of great points below on how to take goals and actually make progress. But would have been nice to mention.</span>
     - From **GTD** to the possibility of working on anything anywhere
     - **Create subcomponents as early as possible**
         - inherently valuable piece of potential future project
         - low-risk time consuming activities early
-            - ^^danger of analysis paralysis? PhD students spending four years on literature review -- even if they wrote some great blog posts, still not good for career^^
+            - <span class="highlight">danger of analysis paralysis? PhD students spending four years on literature review -- even if they wrote some great blog posts, still not good for career</span>
         - **component thinking** / modularity
             - each gives **optionality**
             - can be **reused**
             - can **remove uncertainty**
         - solving through **analysis** - separating problem into smaller part, or **synthesis**, making things and putting them together (**E: Convergence and divergence**)
-    - ^^Seems like a lot of repetition from earlier writings about **Intermediate Deliverables**^^
+    - <span class="highlight">Seems like a lot of repetition from earlier writings about **Intermediate Deliverables**</span>
     - **Packet switching** as metaphor to increase "bandwidth" of productivity (using same packets for multiple tasks)
         - nodes also include other people (including networks, Twitter followers etc), and software/services
         - shift from **knowledge worker**, doing one task at a time at fixed rate, to **knowledge manager**, routing jobs to the best nodes
@@ -245,7 +245,7 @@ title: "Just-in-Time Project Management"
             - require feedback/testing
         - opportunities are **non-linear** and **assymetric**
             - the one in hundred that takes off could produce more return than the 99 others. Downside of failing is ever smaller, upside of winning ever higher.
-            - ^^However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.^^
+            - <span class="highlight">However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.</span>
     - Thinking of yourself as **project portfolio manager**
         - which projects to start ("promisingness")
             - Natural to focus on **throughput**, but should focus on **throughput per **constraint unit**** - related to **mood-based productivity**
@@ -268,11 +268,11 @@ title: "Just-in-Time Project Management"
         - leverage
             - dramatically influence how much energy it takes to complete a given task
                 - When you’re in Errand Mode, running an additional errand doesn’t take much extra energy. But if you’re in the middle of a deep focus session, even the simplest errand can feel like a harsh imposition.
-        - ^^how is this affected by meditation, and other kinds of exercises? Better ability to control state of mind? More time spent in productive states of mind in general?^^
+        - <span class="highlight">how is this affected by meditation, and other kinds of exercises? Better ability to control state of mind? More time spent in productive states of mind in general?</span>
     - **Motivational waves** #motivation
         - humans are wired for **rhytm**, **cycles**
         - motivation is not a single phenomenon of high/low, but has a directionality
-            - ^^link to **willpower**, [[willpower **depletion**]], **Habit Formation**^^
+            - <span class="highlight">link to **willpower**, [[willpower **depletion**]], **Habit Formation**</span>
         - "routing jobs through time"
         - **Function of mood is to create momentum in the mind**
             - #toRead http://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6#title-footnote-tb0015
@@ -301,7 +301,7 @@ title: "Just-in-Time Project Management"
     - **speed** - **acceleration**
         - cultivating ability to **change** speed and direction, modulating as you go
         - trying to avoid bridging costs, and instead always focusing on small deliverables
-        - not starting things at the end of a work session (^^even though some authors will always leave themselves a few pages into the next page, to make it easier to start the next morning^^)
+        - not starting things at the end of a work session (<span class="highlight">even though some authors will always leave themselves a few pages into the next page, to make it easier to start the next morning</span>)
 - Workflow strategies
     - Planning
         - **Archipelago of ideas**
@@ -309,7 +309,7 @@ title: "Just-in-Time Project Management"
         - **Headings first** (outline)
     - Offloading
         - **Color commentary**
-            - adding thoughts/ideas directly where they were sparked (^^that's what I'm doing^^)
+            - adding thoughts/ideas directly where they were sparked (<span class="highlight">that's what I'm doing</span>)
         - **Status summary**
             - summarize in plain language the current status, for the benefit of your future self
                 - details

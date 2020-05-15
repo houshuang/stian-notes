@@ -20,7 +20,7 @@ title: "Podcast with [[Doug Tataryn]] on [[Deconstructing Yourself]]"
         - **clean up**
             - **Christianity**, **Mahayana Buddhism**
             - We're able to observe our minds at a very deep level while we're [meditating](**Meditation**), but we're not able to be in those states, while we're interacting socially with others.
-                - ^^I thought that you kind of could get that kind of insight, with walking meditation and always seeing your emotions from a distance, but maybe those states are not as deep or, or pure. ^^
+                - <span class="highlight">I thought that you kind of could get that kind of insight, with walking meditation and always seeing your emotions from a distance, but maybe those states are not as deep or, or pure. </span>
             - And so, some of this developmental and cleansing and stuff, it's possible that you kind of see through it and so it becomes invisible to the meditation and you can gain enlightenment without actually having to deal with it.
                 - Podcast about **Culadasa**, and his sex scandal
         - **grow up**
@@ -36,7 +36,7 @@ title: "Podcast with [[Doug Tataryn]] on [[Deconstructing Yourself]]"
         - Traditionally, people shut down emotionally at a certain age.
         - Although they kept craving some kind of recognition or love, when they got that **it didn't update their core beliefs**, and it didn't heal, the kind of gap that they had.
         - Younger generations tend to not have those same shutting down of emotions, which is causing other kinds of issues.
-            - ^^Is this specific to the US or certain groups in North America? What kinds of problems is it causing? #q^^
+            - <span class="highlight">Is this specific to the US or certain groups in North America? What kinds of problems is it causing? #q</span>
     - things that happen later,
         - you can process them through purification meditation.
 - There are four core emotions:
