@@ -5,7 +5,7 @@ title: "about"
 - Welcome to my "Digital Garden", inspired by [[Anne-Laure Le Cunff]] and many others. About the [[technology of stian's notes]].
 - I'll also slowly capture some details about my workflows and hacks here, beginning with
     - [[Retro concept]]
-- Some interesting pages (or see [[all pages]])
+- Some interesting pages (or see [all pages](https://notes.reganmian.net/all-pages))
     - My notes on the absolutely fascinating [[Awakening From the Meaning Crisis]] series
     - My book notes on
         - [[Deep Work]]
