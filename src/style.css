@@ -32,8 +32,11 @@ hr {
 }
 
 .refs-box a {
-  margin-top: 50px;
   @apply text-gray-600;
+}
+
+.refs-box {
+  margin-top: 50px;
 }
 
 blockquote {
