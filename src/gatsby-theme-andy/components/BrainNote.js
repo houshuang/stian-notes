@@ -10,7 +10,6 @@ import '../../style.css';
 import components from 'gatsby-theme-andy/src/components/MdxComponents';
 
 const BrainNote = ({ note }) => {
-  console.log(note);
   let references = [];
   let referenceBlock;
   if (note.inboundReferenceNotes != null) {
@@ -42,6 +41,7 @@ const BrainNote = ({ note }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{note.title} - Stian's notes</title>
+        <script defer src="https://cdn.commento.io/js/commento.js"></script>
       </Helmet>
       <div
         id="brainNote"
@@ -57,6 +57,7 @@ const BrainNote = ({ note }) => {
         <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
           {referenceBlock}
           <p className="text-sm m-0">
+            <div id="commento"></div>
             If you think this note resonated, be it positive or negative, send me a{' '}
             <a href="https://twitter.com/houshuang">direct message</a> on Twitter or an{' '}
             <a href="mailto:shaklev@gmail.com">email</a> and we can talk.
