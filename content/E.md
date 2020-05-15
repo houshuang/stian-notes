@@ -6,18 +6,18 @@ title: "E"
 - Emerging ideas/concepts
     - Note taking
         - **E: Sharing your own reflections and links are more useful than summaries**
-        - **E: Better note taking can be taught interactively**
+        - [[E: Better note taking can be taught interactively]]
         - **E: Compression and decompression**
         - **E: Convergence and divergence**
         - **E: Writing quality**
-        - **E: Automatic mailing list for incremental brainstorming**
+        - [[E: Automatic mailing list for incremental brainstorming]]
     - Collaboration
         - [[E: Incremental Brainstorming]]
     - Learning
         - Social
             - [[E: Learning platform for independent course creators]]
             - [[E: Ad hoc book clubs]]
-        - **E: The goal of learning should be producing**
+        - [[E: The goal of learning should be producing]]
         - [[E: Naming concepts like a hook]]
         - **E: Limiting external input when thinking**
         - **E: Learning broadly or deeply**

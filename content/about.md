@@ -17,3 +17,4 @@ title: "about"
         - [[E: Ad hoc book clubs]]
             - [[Concrete Book Club Idea]]
         - [[E: Incremental Brainstorming]]
+        - [[A: Chinese]]

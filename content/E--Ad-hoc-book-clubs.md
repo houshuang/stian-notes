@@ -2,7 +2,7 @@
 title: "E: Ad hoc book clubs"
 ---
 
-- #E #p
+- #E #p #public
 - What would it look like to pay someone to facilitate a ad hoc reading circle?
 - How much of a subject expert do you have to be to lead a productive class?
     - What if the participants know that you are another subject expert,

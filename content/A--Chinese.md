@@ -1,0 +1,129 @@
+---
+title: "A: Chinese"
+---
+
+- #public
+- Motivation
+    - Reading [[How I learned 1500 Chinese Characters in a Month - Heisig Method Review]], about the book [[Remembering Simplified Hanzi]], made me think about my own efforts at learning Chinese
+- Four aspects of language
+    - The primary driver is reading, since it's where I can get the most high-value content while not in China, and it's also the largest challenge.
+    - It's now suddenly much easier to get access to audio books, I am still struggling to find good podcasts (other than rebroadcasts of radio shows). Would be interesting to discover more interesting Youtube-like channels etc. Films and TV shows in the future, but this I've already watched a lot of.
+    - Speaking is primarily at home and with friends in the community. A better vocabulary would be very useful here.
+        - An open question of whether I should make more conscious effort around tones here. My gut feeling is no, it's not significantly stopping me being understood, and it can improve just by hearing and interacting. But there could potentially be some high-impact specific intervention I could do here.
+    - Not sure I will make much efforts at improving my writing in the short-term. One possibility would be to find more people on Twitter who use Chinese and talk about interesting stuff. Right now, Chinese "Twitter", discussion fora etc seem very overwhelming, but perhaps there is a single community I could join which would make sense to engage with?
+        - Interesting that I didn't even consider handwriting, I think I've completely abandoned that at the current stage. <span class="highlight">I do have an open question about whether there is some link between handwriting and character recognition</span>
+            - obviously this is not strong, since I can read complex texts and only actively produce a few characters from memory, however there might still be a way in which during learning of brand new characters, producing/reproducing by hand is useful?
+- Reading
+    - I have not actively sought out reading material in Chinese for a long time, although I used to have periods where I actively tried to improve my reading.
+    - Somehow inspired by the aspects in ((zgqfqLq5N)), yesterday I found a novel from Diedie's book shelf, and tried reading it. I enjoyed the feel of the characters and the fact that I haven't forgotten all, and even some of the textures of the story. On the other hand, there were so many characters that I didn't know at all or only had a hazy understanding of, that it really obstructed both my understanding and my joy of reading.
+    - Questions
+        - How many characters do I currently know?
+            - Very well
+            - Somewhat (only in context, etc)
+        - How many characters would I need to know very well to be able to enjoy most texts?
+        - How equally distributed are the characters in different long texts?
+            - Comparing a set of novels, what percentage of unique characters are present in most novels, or how well does frequency in a text correspond with overall character frequency tables)
+        - How important are words (multi-character compounds)?
+            - I feel like although they are not always obvious, when I know the characters well, I mostly am able to pick up and retain the words. Because I already know how to read them, can recognize them, and usually get a general idea of what a word means, I suppose that I will also gain a more sophisticated understanding of the nuances by repeated exposure to a word in different contexts (which is not the same for unknown characters)
+            - But there are certainly chengyu, and maybe also other combinations that are not obvious and which would stump me just as much as characters. I know this was very much the case when trying to read some scientific/philosophical texts which often had terms composed of fairly simple characters, but which had very specific meanings.
+    - Sources of readings
+        - Apart from difficulty, I'm not sure what would be most motivating for me to read.
+            - If I could get into Jin Yong or something like that, I would have an inexhaustible source of reading material, and there's obviously a massive group of people who approve. There might also be a lot of vocabulary that transfers between books.
+            - I'm also fascinated by novels about unique aspects of Chinese society, like all of the "functionary" novels about how to navigate being a party secretary etc. However, listening to the audio book about the doctor, at a certain point all of the ass-licking and drunken meals can become a bit much.
+            - It's interesting with Chinese takes on a world view - I remember many books from Xinhua like "China says no" etc. The Rush Limbaugh's of Beijing.
+            - I remember enjoying human interest stories from Chinese newspapers (often surprisingly honest and piercing) about migrant workers, people struggling with health costs etc.
+                - But since I'm currently so disconnected from Chinese society, compared to living there, just reading a random piece once in a while might not make much sense.
+            - Would be cool to read more about Chinese hackers, DIY people, maker spaces, entrepreneurs etc.
+            - Even just generally well written novels would be attractive if I could get my reading speed and comfort level up to a stage where "the book fades away" and the story takes over
+        - Lot's of places where you can find Chinese novels as pure text (discussion forums, etc). More difficult to find non-fiction. Wonder if there are some dumps of large amounts of texts out there, which would be very useful for statistics, and also to be able to automatically suggest texts based on learning goals.
+    - Reading medium
+        - There's still something to having physical books - they feel more relaxing in the evening, the characters are clearer. Of course, access is an issue, although I guess the library in Oslo will have some selection. Working with a dictionary etc is a lot more cumbersome, although perhaps that's almost an advantage - I can use it selectively as a part of the reading program?
+        - iPhone and iPad with **Pleco** is the obvious solution - extremely good dictionaries built in, and even a simple spaced repetition system. Tiresome to read in the long run though.
+        - Any Chinese dictionaries for Kindle?
+    - Approaches
+        - Measuring baseline/progress
+            - Once you become an intermediary learner, it can be very difficult to get a sense of progress, which can be demotivating.
+            - Input indicators
+                - Number of characters I know well
+                    - I guess the gold standard here would be to be able to produce characters given just a definition, but I'm currently only aiming at recognition
+                        - see Interesting that I didn't even consider handwriting, I think I've completely abandoned that at the current stage. <span class="highlight">I do have an open question about whether there is some link between handwriting and character recognition</span>)
+                - Number of words I know well
+                    - see How important are words (multi-character compounds)?
+                    - Another question is related to the question of character recognition, some characters almost never occur outside of the context of a specific word, and in that case recognizing the word might be much more helpful.
+                    - This points to a general idea about context - I'm not necessarily extremely concerned about being able to distinguish between extremely similar characters that would never be confused for each other given context.
+            - Output indicator
+                - What really matters is being able to read for enjoyment
+                    - Reading speed
+                        - This is fairly easy to capture
+                    - Comprehension
+                        - This is basically taken care of by the Input indicators
+                    - Effort, frustration, comprehension
+                        - Not sure how to measure this, is Reading speed a good indicator?
+                        - Read for 10 minutes and indicate how tired it makes you?
+                        - Or time you are able to read without falling asleep?
+                            - I've previously noticed that reading in a foreign language has a unique ability to make me tired - this goes back to my first attempts at reading Italian, and when I was studying Chinese full-time, it was very difficult to get a significant amount of studying done in one sitting, or even during a day
+            - We can distinguish between numeric metrics that can indicate progress, and specific information about which characters I know, which can be used for more sophisticated purposes. There might be characters I know very well for various reasons which are statistically uncommon, and knowing that might be useful.
+                - Would brute-forcing a frequency-sorted list of characters produce a useful list of characters I know really well?
+                    - Is there a way of splitting this up - 50 per day in two months would cover 3000 characters.
+                        - I can easily generate this list and split it up in days in Roam, but what's the fastest way of indicating which characters I already know?
+                            - Ideal would be a list of characters, with optional pronunciation and translation so I can check
+                            - I just looked through a list of 50 easy ones in a few seconds, so I could potentially do this much faster and more targeted - if I can find a good source of data, I could probably write a simple webapp which would present me with a selection of characters, let me hover to view pronunciation and meaning, and click on the ones I don't know. Spending a week or two on this should be enough, and would provide very useful data.
+                                - Is there a benefit to mixing up difficulty level - and if so, what number of characters should I target? 3000? 6000?
+                                - This source suggests 3000 gets you to 99.17% - what does this mean in practice?
+                                    - https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO
+                                - Word frequency list from Pleco based on massive amounts of material, however mixes single characters and words.
+                                    - The frequency seems to go down pretty smoothly, would be interesting to graph - also includes proper names, company names etc. Not necessarily so useful right now
+                                        - https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/
+                                - **Table of General Standard Chinese Characters**
+                                    - The Table of General Standard Chinese Characters (Chinese: 通用规范汉字表; pinyin: Tōngyòng Guīfàn Hànzì Biǎo) is the current standard list of 8,105 Chinese characters published by the government of the People's Republic of China and promulgated in June 2013. Of the characters included, 6,500 are designated as common, a reduction from the 7,000 in the earlier List of Commonly Used Characters in Modern Chinese; 3,500 are designated as frequent, as in the List of Commonly Used Characters in Modern Chinese. The list also offers an official table of correspondences between Simplified Chinese characters and Traditional Chinese characters (designating both 'standard' and selected 'variant' forms), effectively serving as Mainland China's standardization scheme for Traditional Characters.
+        - Ideas fleshed out below <span class="highlight">Lot's of ideas from walk</span>
+            - Automatically suggesting material that is at an optimal difficulty
+                - What is optimal difficulty? Only characters I currently know? X% unknown characters?
+                - By searching through a huge corpus
+                - Or automatically replacing difficult with easier characters
+            - Automatically generating annotated texts or vocabulary lists etc personalized to my specific knowledge (not by general frequency levels)
+    - Places to geek out about this
+        - Pleco forums
+    - Chinese names
+        - An interesting point is the characters used in Chinese names. Although some of these might be less important for meaning, being able to both recognize what is a name, and also able to pronounce it internally, is quite important for reading novels. There might be a way of targetting this specifically.
+    - <span class="highlight">Lot's of ideas from walk</span>
+        - One potential interesting source of a large amount of text is the dump of Chinese Wikipedia.
+            - It would have been interesting to have a Wikipedia written and simple Chinese like the one written in Simple English.
+            - I wonder if it would be possible to have a machine learning system that could rewrite complex giant nice articles into simple Chinese articles based on based on character and word frequency
+                - are there equivalency tables where complex words can be one to one replaced with simplified words, even at the cost of a tiny bit of lack of nuance, or even a short sentence that describes the phenomenon.
+                    - like oak - tree, glanced - looked, pondered - thought
+                - would it be possible using something like Chinese word2vec, choosing most similar word which has a higher frequency?
+                - Or just list of synonyms, WordNet for Chinese
+                    - http://globalwordnet.org/resources/wordnets-in-the-world/
+        - Are there services that can detect complex language in terms of sentence structure in Chinese, like reading levels in English?
+            - http://www.chinesereadability.net/
+            - Horrible interface
+            - Most of the stuff it captures seems to be quite simple stuff (number of difficult characters, words, etc), not so much about structure
+        - What is the current best service or library to go between simplified and traditional characters being able to connect in a pub with open access to more reading materials.
+            - I know Wikipedia has something like that.
+                - I guess it's simply a list of equivalencies.
+                - I might even have made such a script in the past.
+            - Google Translate can also do it
+        - What is the best segment for segmenting words
+            - Lot's of papers here, but not implementations.
+                - http://nlpprogress.com/chinese/chinese_word_segmentation.html
+            - Found many implementations on Github, no web interfaces or APIs
+        - We typically distinguish between short term and long term **memory**. #**Spaced Repetition**
+            - But there seems to be a much more gradual interface.
+                - It's especially interesting how we're able to solidly position things in long term memory.
+                    - Using push notifications to prompt frequently during the same day can be one way. **E: Micro-spacing**.
+                    - Is this just a accelerated case of forgetting curve? Or is it something qualitatively different?
+                - Another trick to get things into your memory can be things like artificial associations and **memory palaces**.
+                    - It's very interesting to think about how things transition from being part of a memory palace or under artificial memory can construct into a traditional part of your memory network.
+                - Thinking about common first names in English, building up memory associations for those as a way to memorizing names
+                    - because I noticed them often confused by things like was it Stephen Kaplan or John Kaplan or Simon Kaplan.
+                    - I'm sure there's a lot written about memory masters and you names because it's such a common thing.
+                - Another example would be spatial, like learning a map, or even the map of the brain.
+                    - Again, huge amount of people using Anki for medical studies.
+                - Timeline, placing things on the timeline.
+                    - I think developing a really strong sense of history would be incredible. If I could actually place all kinds of different thinkers and historical phenomena and see across them.
+                    - I did read something on instapaper recently about perhaps it was the cycle system. [[Book Review: Secular Cycles]]
+                - Another thing I got from [[Remembering Simplified Hanzi]] is the focus on radicals, **A: Chinese**
+                    - which I have used a lot for looking up characters in paper dictionaries.
+                    - But I haven't really focused on when memorizing characters.
+                    - Perhaps that's something I should look into becoming much more intentional about.

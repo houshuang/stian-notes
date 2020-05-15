@@ -1,0 +1,21 @@
+---
+title: "breakfast [[scones]]"
+---
+
+- #recipe #public
+- source:
+    - https://lisevonkrogh.wordpress.com/2016/10/11/herskapelig-frokost-grove-scones-med-havre-og-yoghurt/
+- Ingredients
+    - 200 g wheat
+    - 100 g spelt
+    - baking soda
+    - salt
+    - 1 ts salt
+    - 30 g oats
+    - raisins, currents, pieces of dates (soak in hot water)
+    - 0.3 l yoghurt
+    - 0. 1 l milk
+    - Nuts, almonds, pecans, walnuts (cut in pieces and toast in oven)
+- Approach
+    - Mix everything well, bake at 200C about 20 minutes
+    - I usually take it out and let it bake longer. Today it was a bit not done - maybe should make it thinner and make smaller ones. Anyway delicious.
