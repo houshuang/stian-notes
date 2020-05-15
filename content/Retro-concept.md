@@ -3,6 +3,12 @@ title: "Retro concept"
 ---
 
 - #public
+- Video
+    - https://www.youtube.com/watch?v=dn1ia0YnuyY
+    - Showcasing
+        - retro of Roam daily pages
+        - **Spaced Repetition** questions from Instapaper
+        - automatic scheduling of content to process, like old blog posts
 - [Thread](https://twitter.com/houshuang/status/1245592946952384516) on retro of Roam daily pages
     - Thread: I've been thinking a lot about spaced repetition, but more broadly what @andy_matuschak calls Spaced Everything ( https://t.co/Y1K4b4BfOc.  The idea is to revisit notes and concepts at regular intervals, both to improve your memory, but also to
         - [https://twitter.com/andy_matuschak/status/1244842003369570304](https://twitter.com/andy_matuschak/status/1244842003369570304)
