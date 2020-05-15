@@ -8,7 +8,7 @@ title: "Atomic Habits"
         - A habit is a routine or behavior that is performed regularly—and, in many cases, automatically.  (p. 13)
         - To be honest, there was nothing legendary or historic about my athletic career. I never ended up playing professionally. However, looking back on those years, I believe I accomplished something just as rare: I fulfilled my potential.  (p. 14)
         - changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.  (p. 14)
-        - <span class="highlight">wht is new compared to duhigg?</span>  (p. 18)
+        - &#8203;<mark>wht is new compared to duhigg?</mark>  (p. 18)
         - The backbone of this book is my four-step model of habits—cue, craving, response, and reward—and the four laws of behavior change that evolve out of these steps. Readers with a psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg.  (p. 18) #toRead
         - Behavioral scientists like Skinner realized that if you offered the right reward or punishment, you could get people to act in a certain way. But while Skinner’s model did an excellent job of explaining how external stimuli influenced our habits, it lacked a good explanation for how our thoughts, feelings, and beliefs impact our behavior. Internal states—our moods and emotions—matter, too.  (p. 18)
         - the framework I offer is an integrated model of the cognitive and behavioral sciences. I believe it is one of the first models of human behavior to accurately account for both the influence of external stimuli and internal emotions on our habits.  (p. 18)
@@ -88,7 +88,7 @@ title: "Atomic Habits"
         - Alternatively, you can create a list with two columns. In the first column, write down the habits you do each day without fail.  (p. 106)
         - In the second column, write down all of the things that happen to you each day without fail.  (p. 106)
         - After a few inconsistent days, I changed my habit stack to: “When I close my laptop for lunch, I will do ten push-ups next to my desk  (p. 107)
-        - <span class="highlight">gtd next action</span>  (p. 108)
+        - &#8203;<mark>gtd next action</mark>  (p. 108)
         - make it obvious.  (p. 108)
         - Given that we are more dependent on vision than on any other sense, it should come as no surprise that visual cues are the greatest catalyst of our behavior.  (p. 114)
         - If you want to make a habit a big part of your life, make the cue a big part of your environment. The most persistent behaviors usually have multiple cues.  (p. 116)

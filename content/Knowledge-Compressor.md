@@ -54,8 +54,8 @@ title: "Knowledge Compressor"
                 - Evidence: Online journal logs, scientists view only 1-3 pages on average
                 - Provenance
                 - Existing tools assume paper is unit of interaction (Mendeley, Zotero), iTunes for papers, tagging, citations etc.
-        - <span class="highlight">Where do theories fit in? New theories, design methodologies, tools etc? These are not claims, but very important?</span> #q
-        - <span class="highlight">Relationship with [[Zettelkasten]] notes? Is each claim a Zettel?</span> #q
+        - &#8203;<mark>Where do theories fit in? New theories, design methodologies, tools etc? These are not claims, but very important?</mark> #q
+        - &#8203;<mark>Relationship with [[Zettelkasten]] notes? Is each claim a Zettel?</mark> #q
     - Existing workflows for working with grounded claims:
         - spreadsheets
         - QDA software
@@ -77,7 +77,7 @@ title: "Knowledge Compressor"
 - Onboarding Google Doc
     - https://docs.google.com/document/d/1R5a88sZMv7PxivvNvqkNSNvrw9X6j3uJyHUSftDXaYg/edit#
     - Knowledge Compressor operates on a database of PDFs (basically a folder with PDFs and some other .json files in it). **We have preprocessed them for you.**
-        - <span class="highlight">What's in the JSON, what's the pre-processing? It does work with any PDFs, right?</span> #q
+        - &#8203;<mark>What's in the JSON, what's the pre-processing? It does work with any PDFs, right?</mark> #q
 - Video of **Joel Chan** annotating 22 research papers in real time #**Knowledge work showcase video**
     - https://www.youtube.com/watch?v=h72JzSKPZ3Q
     - Skimming very quickly through the paper, looking for claims and concepts
@@ -112,4 +112,4 @@ title: "Knowledge Compressor"
             - so that you can work with many ideas at the same time, combine them, put them into larger structures, like arguments
         - lossless, easy to recontextualize
             - able to recover critical details/background
-    - <span class="highlight">there is an element of "incremental reading" to this, in the sense that you don't decide up front what is important in terms of metadata, context etc</span> #q
+    - &#8203;<mark>there is an element of "incremental reading" to this, in the sense that you don't decide up front what is important in terms of metadata, context etc</mark> #q

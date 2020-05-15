@@ -11,7 +11,7 @@ title: "A: Chinese"
     - Speaking is primarily at home and with friends in the community. A better vocabulary would be very useful here.
         - An open question of whether I should make more conscious effort around tones here. My gut feeling is no, it's not significantly stopping me being understood, and it can improve just by hearing and interacting. But there could potentially be some high-impact specific intervention I could do here.
     - Not sure I will make much efforts at improving my writing in the short-term. One possibility would be to find more people on Twitter who use Chinese and talk about interesting stuff. Right now, Chinese "Twitter", discussion fora etc seem very overwhelming, but perhaps there is a single community I could join which would make sense to engage with?
-        - Interesting that I didn't even consider handwriting, I think I've completely abandoned that at the current stage. <span class="highlight">I do have an open question about whether there is some link between handwriting and character recognition</span>
+        - Interesting that I didn't even consider handwriting, I think I've completely abandoned that at the current stage. &#8203;<mark>I do have an open question about whether there is some link between handwriting and character recognition</mark>
             - obviously this is not strong, since I can read complex texts and only actively produce a few characters from memory, however there might still be a way in which during learning of brand new characters, producing/reproducing by hand is useful?
 - Reading
     - I have not actively sought out reading material in Chinese for a long time, although I used to have periods where I actively tried to improve my reading.
@@ -46,7 +46,7 @@ title: "A: Chinese"
             - Input indicators
                 - Number of characters I know well
                     - I guess the gold standard here would be to be able to produce characters given just a definition, but I'm currently only aiming at recognition
-                        - see Interesting that I didn't even consider handwriting, I think I've completely abandoned that at the current stage. <span class="highlight">I do have an open question about whether there is some link between handwriting and character recognition</span>)
+                        - see Interesting that I didn't even consider handwriting, I think I've completely abandoned that at the current stage. &#8203;<mark>I do have an open question about whether there is some link between handwriting and character recognition</mark>)
                 - Number of words I know well
                     - see How important are words (multi-character compounds)?
                     - Another question is related to the question of character recognition, some characters almost never occur outside of the context of a specific word, and in that case recognizing the word might be much more helpful.
@@ -76,7 +76,7 @@ title: "A: Chinese"
                                         - https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/
                                 - **Table of General Standard Chinese Characters**
                                     - The Table of General Standard Chinese Characters (Chinese: 通用规范汉字表; pinyin: Tōngyòng Guīfàn Hànzì Biǎo) is the current standard list of 8,105 Chinese characters published by the government of the People's Republic of China and promulgated in June 2013. Of the characters included, 6,500 are designated as common, a reduction from the 7,000 in the earlier List of Commonly Used Characters in Modern Chinese; 3,500 are designated as frequent, as in the List of Commonly Used Characters in Modern Chinese. The list also offers an official table of correspondences between Simplified Chinese characters and Traditional Chinese characters (designating both 'standard' and selected 'variant' forms), effectively serving as Mainland China's standardization scheme for Traditional Characters.
-        - Ideas fleshed out below <span class="highlight">Lot's of ideas from walk</span>
+        - Ideas fleshed out below &#8203;<mark>Lot's of ideas from walk</mark>
             - Automatically suggesting material that is at an optimal difficulty
                 - What is optimal difficulty? Only characters I currently know? X% unknown characters?
                 - By searching through a huge corpus
@@ -86,7 +86,7 @@ title: "A: Chinese"
         - Pleco forums
     - Chinese names
         - An interesting point is the characters used in Chinese names. Although some of these might be less important for meaning, being able to both recognize what is a name, and also able to pronounce it internally, is quite important for reading novels. There might be a way of targetting this specifically.
-    - <span class="highlight">Lot's of ideas from walk</span>
+    - &#8203;<mark>Lot's of ideas from walk</mark>
         - One potential interesting source of a large amount of text is the dump of Chinese Wikipedia.
             - It would have been interesting to have a Wikipedia written and simple Chinese like the one written in Simple English.
             - I wonder if it would be possible to have a machine learning system that could rewrite complex giant nice articles into simple Chinese articles based on based on character and word frequency

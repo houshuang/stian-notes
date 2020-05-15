@@ -37,8 +37,8 @@ title: "Podcast with [[John Vervaeke]] on [[Future Thinkers]]"
         - in our society, we don't really have a space for **serious play**.
             - It's either, really trivialized or it becomes work.
             - And he says that religion provided a space for this
-                - <span class="highlight">What is the relationship between **serious play** and **religion**? #q</span>
-                - <span class="highlight">How does his desire for **playfulness** link to things Montessori and other pedagogical approaches #q</span>
+                - &#8203;<mark>What is the relationship between **serious play** and **religion**? #q</mark>
+                - &#8203;<mark>How does his desire for **playfulness** link to things Montessori and other pedagogical approaches #q</mark>
 - **Truth and love**
     - **reciprocal widening** and **reciprocal knowing** where you know the thing and you know yourself. And there's also **participatory knowing** where you have this exploration of opening up to someone else, and then opening up to you and that is **love**.
         - reference to There's a new theory that it's not purely chemical, but it's a **reciprocal narrowing**, that you're seeing fewer choices and fewer opportunities. And so, I guess it's linked to **hopelessness** that **Doug Tataryn** talked to in the **Bio-emotive framework**.
@@ -50,8 +50,8 @@ title: "Podcast with [[John Vervaeke]] on [[Future Thinkers]]"
     - We are receiving incredible amounts of information that we cannot process.
     - We cannot do an exhaustive search of all possibilities, so we're constantly selecting information and framing
         - this is why it's **a process**, because we can never **focus** on all things- it's a process of getting deeper.
-        - <span class="highlight">I'm curious about things like art, or music, beautiful things. Is there a different function to aesthetics than to politically meaningful art?</span> #q
-        - <span class="highlight">He has not said almost anything about the way society should be organized, about suffering (**dukha**) or service.</span>  #q
+        - &#8203;<mark>I'm curious about things like art, or music, beautiful things. Is there a different function to aesthetics than to politically meaningful art?</mark> #q
+        - &#8203;<mark>He has not said almost anything about the way society should be organized, about suffering (**dukha**) or service.</mark>  #q
 - **Exaptation**
     - when something that developed for a certain purpose is used by someone for something else.
     - Ex: the tongue was developed to taste poison, apparently, and was exempted for speech.
@@ -79,7 +79,7 @@ title: "Podcast with [[John Vervaeke]] on [[Future Thinkers]]"
         - With bullshit we can make people **not pay attention to truth**.
         - You can make something salient by like a loud noise or sexy people.
         - You can also be explicit about directing attention, like saying, "think about your right toe right now".
-        - <span class="highlight">Connection between this and concept of **focus** and **awareness** from **The Mind Illuminated**?</span> #q
+        - &#8203;<mark>Connection between this and concept of **focus** and **awareness** from **The Mind Illuminated**?</mark> #q
 - Book recommendations
     - [Zombies in Western Culture: A Twenty-First Century Crisis](https://amzn.to/2IZgcOK) by John Vervaeke, Christopher Mastropietro and Filip Miscevic
     - [Aspiration: The Agency of Becoming](https://amzn.to/2Ip7ji4) by Agnes Callard

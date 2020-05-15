@@ -5,7 +5,7 @@ title: "How I learned 1500 Chinese Characters in a Month - Heisig Method Review"
 - #public
 - [link](https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review/) #instapaper by **Pavel Danov**
 - #memory
-    - <span class="highlight">How do memories transition from **memory palaces** to normal memory? Hack to get it into long term memory.</span> #n
+    - &#8203;<mark>How do memories transition from **memory palaces** to normal memory? Hack to get it into long term memory.</mark> #n
 - [[Remembering Simplified Hanzi]]
     - I think it's a groundbreaking book and an amazing method because it broke down a certain wall that was hindering my desire and drive to learn the Chinese language for a long time.
     - The book is based on the experience and method of **James Heisig**, who while visiting Japan for the first time years ago created the method and learned 1900 **Kanji** in a month with a full day of studying.

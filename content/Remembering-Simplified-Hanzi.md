@@ -65,7 +65,7 @@ title: "Remembering Simplified Hanzi"
             - If pen and paper are inconvenient,
                 - you can always make do with the palm of the hand, as the Chinese themselves do. It provides a convenient square space for tracing characters with your index finger when riding in a bus or walking down the street.
     - Once you have been able to perform these steps, reversing the order follows as a matter of course.
-        - It says: when you review, review only from the key word to the character, not the other way around. The reasons for this, along with further notes on reviewing, will come later. <span class="highlight">Why is this?</span>
+        - It says: when you review, review only from the key word to the character, not the other way around. The reasons for this, along with further notes on reviewing, will come later. &#8203;<mark>Why is this?</mark>
     - Take a moment in this very first frame to make sure you understand the difference between **key words** and **primitive meanings**.
         - **The key word** represents the actual meaning of the character.
         - **Primitive meanings**
@@ -80,4 +80,4 @@ title: "Remembering Simplified Hanzi"
         - In subsequent doctoral work at the University of Texas at Austin, he focused on the method for his dissertation and subjected it to an extensive examination in terms of relevant theory and research.
         - This required careful consideration not only of the underlying cognitive processes that the method might be expected to involve but also of its reasonableness in terms of prevailing perspectives on vocabulary development and reading.
         - His work also entailed the compilation of a new list of 1,000 high-frequency Chinese char-acters and their integration into a skeletal Chinese version of Heisig’s original book.
-- <span class="highlight">Interesting to think about this kind of work (of which I've seen others before) which do the work of systematizing and providing you with ready-made mnemonics, with the work of **Andy Matuschak** on **Quantum Country**, providing carefully designed pre-written **Spaced Repetition** questions. Also interesting that most of this work was done in analogue books - now we have the possibility (perhaps) of collecting usage data to calibrate which stories/questions etc work better (as a whole, or even for individual learners)?</span>
+- &#8203;<mark>Interesting to think about this kind of work (of which I've seen others before) which do the work of systematizing and providing you with ready-made mnemonics, with the work of **Andy Matuschak** on **Quantum Country**, providing carefully designed pre-written **Spaced Repetition** questions. Also interesting that most of this work was done in analogue books - now we have the possibility (perhaps) of collecting usage data to calibrate which stories/questions etc work better (as a whole, or even for individual learners)?</mark>
