@@ -2,25 +2,25 @@
 title: "E: Naming concepts like a hook"
 ---
 
-- <a id='JH7TF3gA8'/>#E #p #public
-- <a id='St0DGcZmS'/>Source
-    - <a id='aaX_ZPbJi'/>from **Slate Star Codex** - **Nonfiction Writing Advice**
-    - <a id='RD_XJ0taN'/>- <a id='dEXwinkst'/>Use strong concept handles **E: Naming concepts like a hook**
-        - <a id='roOWyeTkq'/>The idea of concept-handles is itself a concept-handle; it means a catchy phrase that sums up a complex topic.
-        - <a id='Gp59cQ5Ih'/>Eliezer Yudkowsky is really good at this. “belief in belief“, “semantic stopsigns“, “applause lights“, “Pascal’s mugging“, “adaptation-executors vs. fitness-maximizers“, “reversed stupidity vs. intelligence“, “joy in the merely real” – all of these are interesting ideas, but more important they’re interesting ideas with short catchy names that everybody knows, so we can talk about them easily.
-- <a id='_zKG8p-4A'/>Related:
-    - <a id='meuOSF1bZ'/>branding
-    - <a id='Xx1c2B7oJ'/>trademarks (and generalization like Xerox, to google)
-- <a id='ysaQfgo2P'/>I definitively see this in relationship with Roam and note taking - 7 years ago I had vague ideas but nothing to pin it on. Now I can just say Zettelkasten, and a group of people are onboard (but many others are lost)
-    - <a id='_vSbPNMy-'/>Interesting also how different intellectuals become known for a single concept, like ZPD...
-- <a id='lZcA0T-EX'/>How does this relate to
-    - <a id='z1DSQX4C1'/>the idea that coming up with completely meaningless terms is better because then you can define them, and people don't have predefined notions (#missingLink)
-    - <a id='SR-6uMrhp'/>or the spatial relationship when talking - I'll park a concept here #missingLink
-- <a id='pK4ACLYT6'/>Questions
-    - <a id='ck8B0IxiA'/>What kinds of concepts does this work well for? What kinds of hooks? Are there concepts I have that I could do this with?
-    - <a id='Cn1bE4E7C'/>What happens if concept is watered out/changed? Appropriated?
-        - <a id='iHklwYdIF'/>gay, n**er, metoo
-    - <a id='c3NRCng7F'/>How do you fight against it if its unfair?
-        - <a id='S27UUjIAB'/>liberal latte-drinking East coast elite snowflakes
-- <a id='u15bB1DPX'/>Etymology
-    - <a id='FK7EsoZnm'/>[[Awakening From the Meaning Crisis]] focuses a lot on the etymology of words, like staying the course.
+- #E #p #public<span id='JH7TF3gA8'/>
+- Source<span id='St0DGcZmS'/>
+    - from **Slate Star Codex** - **Nonfiction Writing Advice**<span id='aaX_ZPbJi'/>
+    - - Use strong concept handles **E: Naming concepts like a hook**<span id='dEXwinkst'/>
+        - The idea of concept-handles is itself a concept-handle; it means a catchy phrase that sums up a complex topic.<span id='roOWyeTkq'/>
+        - Eliezer Yudkowsky is really good at this. “belief in belief“, “semantic stopsigns“, “applause lights“, “Pascal’s mugging“, “adaptation-executors vs. fitness-maximizers“, “reversed stupidity vs. intelligence“, “joy in the merely real” – all of these are interesting ideas, but more important they’re interesting ideas with short catchy names that everybody knows, so we can talk about them easily.<span id='Gp59cQ5Ih'/><span id='RD_XJ0taN'/>
+- Related:<span id='_zKG8p-4A'/>
+    - branding<span id='meuOSF1bZ'/>
+    - trademarks (and generalization like Xerox, to google)<span id='Xx1c2B7oJ'/>
+- I definitively see this in relationship with Roam and note taking - 7 years ago I had vague ideas but nothing to pin it on. Now I can just say Zettelkasten, and a group of people are onboard (but many others are lost)<span id='ysaQfgo2P'/>
+    - Interesting also how different intellectuals become known for a single concept, like ZPD...<span id='_vSbPNMy-'/>
+- How does this relate to<span id='lZcA0T-EX'/>
+    - the idea that coming up with completely meaningless terms is better because then you can define them, and people don't have predefined notions (#missingLink)<span id='z1DSQX4C1'/>
+    - or the spatial relationship when talking - I'll park a concept here #missingLink<span id='SR-6uMrhp'/>
+- Questions<span id='pK4ACLYT6'/>
+    - What kinds of concepts does this work well for? What kinds of hooks? Are there concepts I have that I could do this with?<span id='ck8B0IxiA'/>
+    - What happens if concept is watered out/changed? Appropriated?<span id='Cn1bE4E7C'/>
+        - gay, n**er, metoo<span id='iHklwYdIF'/>
+    - How do you fight against it if its unfair?<span id='c3NRCng7F'/>
+        - liberal latte-drinking East coast elite snowflakes<span id='S27UUjIAB'/>
+- Etymology<span id='u15bB1DPX'/>
+    - [[Awakening From the Meaning Crisis]] focuses a lot on the etymology of words, like staying the course.<span id='FK7EsoZnm'/>

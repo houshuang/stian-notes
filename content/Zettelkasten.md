@@ -2,113 +2,113 @@
 title: "Zettelkasten"
 ---
 
-- <a id='tRARBNFl4'/>#public
-- <a id='_fiud5Ish'/>Process log
-    - <a id='7YIL4-zRN'/>Sorting through on **April 21st, 2020** while recording a video. Spent about 20 minutes to process 17 linked references. Feels a bit slow, but I see some interesting structure emerging.
-- <a id='kiTjdRuXJ'/>Related concepts
-    - <a id='-mkGhgfmG'/>**Evergreen Notes** [[Note taking]] **zettel**
-- <a id='034EyoKfe'/>Questions
-    - <a id='XDNs0H-lN'/><a id='Vniu79e6D'/>&#8203;<mark>How to position this note in relationship with [[Note taking]]? Merge with **Zettelkasten**?</mark>  #p
-- <a id='p6P9Qsj03'/>Invented by **Niklas Luhmann**
-    - <a id='ptgRUguju'/>Original writings
-        - <a id='AwuWuqCH8'/>http://luhmann.surge.sh/learning-how-to-read
-        - <a id='3kcG4hApv'/>http://luhmann.surge.sh/communicating-with-slip-boxes
-    - <a id='u2yPWfUDt'/>Videos
-        - <a id='C0mGBxFuM'/>Niklas Luhmann – 2016 – Ich denke ja nicht alles allein (Zettelkasten als Zweitgedächtnis)
-            - <a id='VOYEhFOTU'/>https://www.youtube.com/watch?v=NbncA7bDl70
-- <a id='AJvATnCfO'/>Secondary literature
-    - <a id='1-i32PkQL'/>Books
-        - <a id='QD7eibwZI'/>Book: "**How to take smart notes**", Sonke Ahrens
-        - <a id='mitubUycT'/>Die Zettelkasten methode: Kontrolliere dein Wissen
-            - <a id='zNhmBD68W'/>by **Sascha Fast** and **Christian Tietze**
-            - <a id='UfRWDYkcg'/>Souveränität ist *die* Schlüsselkompetenz in unserer modernen Welt im Umgang mit Wissen und Informationen. Dabei sind Schnelligkeit, Sicherheit und Flexibilität die entscheidenden Komponenten, um diese Souveränität für sich zu gewinnen. Die Zettelkastenmethode ist eine flexible und individuell anpassbare Technik mit Wissen umzugehen. Sie ist auf jeden System mit ein paar Handgriffen realisierbar, ohne dass man komplizierte Programme verstehen muss. In ihrer Einfachheit ist sie unübertroffen und ist der (fast) unsichtbare Helfer für dich im Umgang mit dem Wissen. Niklas Luhmann, einer der produktivsten Wissenschaftler aller Zeiten, sagte einmal, er müsse gar nicht schreiben, das mache der Zettelkasten für ihn. Als ich das Prinzip hinter seinem Zettelkasten, zusammen mit Christian Tietze, in die moderne Welt der digitalen Technik übertrug, war ich überrascht, wie viel Wahrheit in Luhmanns Aussage steckt.
-    - <a id='IjzJ6gW6u'/>Blog posts
-        - <a id='V_UyLkKYo'/>https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1#Very_Short_Summary
-- <a id='DWQkjaYy-'/>Places to discuss
-    - <a id='gbOaF6kza'/>**Zettelkasten.de**
-    - <a id='0NwBghnAM'/>**TakingNoteNow** blog, lots of great insights around [[Note taking]] and Zettelkasten, also from many earlier than **Niklas Luhmann**
-        - <a id='ZjmORXbeE'/>http://takingnotenow.blogspot.com/
-- <a id='DtT1kSjpP'/>Theory
-    - <a id='jD63KzC6E'/>**Grunded theory** from **Ralf Westphal**
-        - <a id='Varofqyi8'/>http://www.groundedtheory.com/what-is-gt.aspx
-    - <a id='Onl9J8n8I'/>**Rich picture**  from **Ralf Westphal**
-        - <a id='3XnyvB-Ij'/>https://en.wikipedia.org/wiki/Rich_picture
-    - <a id='rgtfFBpR-'/>Zettelkasten as a **lattice** of thoughts from **Zettelkasten.de** by **Gerrit Scholle**
-        - <a id='9BJ3TNyZH'/>https://zettelkasten.de/posts/lattice-of-thoughts/
-        - <a id='XqqpTuofD'/>read **February 27th, 2020** **March 31st, 2020**
-- <a id='xAAnhWeED'/>Dangers / pitfalls
-    - <a id='BfwML4qWt'/>- <a id='S6tbdS_D5'/>Dangers with **Zettelkasten** #[[Note taking]] #p
-    - <a id='5pVb1anky'/>https://clerestory.netlify.com/zk1/
-    - <a id='S4ViKLR0k'/>He warns against the seduction of densely interconnecting ideas across domains, because it can create mental models so complex that they obscure reality and discourage reality-testing.
-    - <a id='zFoOedjn7'/><a id='J5d_OHzNG'/>**Collector's Fallacy** - trying to capture all of the original author's intention, instead of relying on my own voice and understanding. Pasting too much raw material. Worried about missing something.
-- <a id='DBt-mayrY'/>Interfaces
-    - <a id='diMjxDLtf'/>Hierarchical (like Roam)
-        - <a id='Ay5G_1l5w'/><a id='TbLkQUZg5'/>**Writing** using **outlines** - one sentence per bullet, hierarchy. Much easier to move things up and down (&#8203;<mark>but danger of disconnected text, like I found sometimes with **Scrivener** when I wrote each paragraph as a stand-alone piece</mark>) - but the hierarchy helps, because when you move something that has children, they come along. Can also use folding. #bullets
-    - <a id='kYDDJqY86'/>Visual
-        - <a id='2ND86udzv'/>- <a id='thpshQegz'/>Different formats
-                - <a id='T34wHZIIp'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FhCzgo-uVs0?alt=media&token=767f87ab-0ef7-43f4-a973-d86478588666)
-                - <a id='efk8uysnu'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fr6s-klNs8Y?alt=media&token=c2b0754f-0d2e-4b7b-8adb-0abaefbad8e4)
-                - <a id='YN2HksdUU'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FixKcnFwehp?alt=media&token=deb2b19f-99bb-4f8d-9e83-c92fc012930b)
-                - <a id='0tFKRvCsy'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fyn0A6NudQs?alt=media&token=28adeafc-753e-4941-a30e-4110dc8418a2)
-    - <a id='L6Vq0tlJv'/><a id='VgF2tpaGI'/>**Knowledge Building** (with **rise aboves** etc) and [[**Zettelkasten**-p]] #Newsletter #juxtaposition
-- <a id='YCCWs376T'/>Tools
-    - <a id='XloPWEY3P'/>Apps
-        - <a id='jnWl6f9b-'/>Roam
-            - <a id='MCmLZFHmz'/>Roam as a **Slip box** from **David K. Laing**
-                - <a id='uWBgUJRi1'/>https://davidklaing.com/blog/2020/02/01/roam-as-a-slip-box.html
-                - <a id='VgvMoXhOC'/>Distinguishing two kinds of notes
-                    - <a id='s6VIO999q'/>literature notes (paraphrases of ideas and arguments encountered during reading)
-                    - <a id='fe14UtyfX'/>permanent notes ("original" thoughts/insights)
-                - <a id='4KWtQcLeD'/>__Both types of notes are written in publishable-quality prose, and each note is meant to include enough detail that it could be read and understood on its own.__
-                - <a id='AT8Ueeeet'/>Workflow
-                    - <a id='SLjAfUN5-'/>writes all his notes on **Daily notes**, tags litnote/permnote (sometimes in the same paragraph).
-            - <a id='npFmNjg9f'/>https://shime.sh/how-i-apply-zettelkasten-to-roam #Newsletter #Zettelkasten
-            - <a id='9bM7exu6M'/>- <a id='bUDunX4bB'/>[[**Zettelkasten**-p]] #video by **Shu Omi** #roam-workflow
-        - <a id='UaRtRG3d8'/>https://www.youtube.com/watch?v=rOSZOCoqOo8
-        - <a id='4Hu1nWdes'/>- <a id='ky6cQvIp9'/>The Variable Schedule Reward **Zettelkasten**. A strategy for Memexing Twitter (to get better ideas, and build new relationships)
-        - <a id='If41Yn37A'/>**Devonthink**
-            - <a id='p-pngoz2z'/>http://www.organizingcreativity.com/2013/09/luhmanns-zettelkasten-with-devonthink/
-        - <a id='UyVYKA61J'/>**TinderBox** by **Beck Tench**
-            - <a id='gsYg7l2-j'/>https://www.becktench.com/blog/2018/11/12/using-zettelkasten-and-tinderbox-to-document-a-literature-review
-        - <a id='xwDAyYAqn'/>**Notion**, moving from **The Archive** from **Zettelkasten.de** by **Ralf Westphal** (@ralfw)
-            - <a id='RsYgrvSZH'/>https://forum.zettelkasten.de/discussion/404/moving-on#latest
-            - <a id='Ekl41m2yK'/>https://forum.zettelkasten.de/discussion/446/views-of-a-zk#latest
-            - <a id='ucUbIo65W'/>Twitter
-                - <a id='mCZFIs-kf'/>https://twitter.com/houshuang/status/1232239406452531200 #myTwitterThreads
-            - <a id='thpshQegz'/>Different formats
-                - <a id='T34wHZIIp'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FhCzgo-uVs0?alt=media&token=767f87ab-0ef7-43f4-a973-d86478588666)
-                - <a id='efk8uysnu'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fr6s-klNs8Y?alt=media&token=c2b0754f-0d2e-4b7b-8adb-0abaefbad8e4)
-                - <a id='YN2HksdUU'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FixKcnFwehp?alt=media&token=deb2b19f-99bb-4f8d-9e83-c92fc012930b)
-                - <a id='0tFKRvCsy'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fyn0A6NudQs?alt=media&token=28adeafc-753e-4941-a30e-4110dc8418a2)
-            - <a id='DalBsFC6v'/>Highlights ease of formatting, including images, and viewing the notes in different layouts.
-                - <a id='M7QaRhcbK'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fj6sQoHP6OK?alt=media&token=42bf920e-3646-439b-85f7-7d6a67b0a686)
-                - <a id='5xev05JMW'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F7bna6XPFI4?alt=media&token=f0b9b59e-376a-41cd-8da7-9402890d2462)
-                - <a id='zXYGUL1Fh'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fhbq0xI5rP7?alt=media&token=0f8116ea-a8df-4cac-b67f-cd1f1b6cb98f)
-        - <a id='RKV-VOSA-'/>**Hugo** (h/t **Christian Tietze**)
-            - <a id='LXaFj02dL'/>https://bryanapperson.com/blog/creating-a-zettelkasten-with-hugo/
-        - <a id='GyMuL0LBZ'/>**Vim** (h/t **Christian Tietze**) based on **vimwiki**
-            - <a id='mU8KAPjxW'/>https://www.bitchute.com/video/wlFZJ8ltQTgg/
-        - <a id='0PHa2Y_QR'/>**The Archive** by **André Chaperon**
-            - <a id='rIeBjh-KL'/>https://www.youtube.com/channel/UCtGCJRJqOVeJUkPkcdHwELw
-        - <a id='21FzmJeu2'/>- <a id='AcE-X_aty'/>**org-mode** by **Jethro Kuan**
-        - <a id='VKPxU3zZg'/>https://blog.jethro.dev/posts/zettelkasten_with_org/
-    - <a id='NyNDowosR'/>Web-based tools
-        - <a id='1RpCxyIql'/>**zettel.io** some kind of public Zettelkasten with **Twitter** integration?
-            - <a id='zUuGOGr6j'/>https://zettel.io/kasten
-- <a id='xBtP_kiSw'/>Workflow
-    - <a id='3cw8S71rp'/>From **Zettelkasten.de** (**discordian**) on how to use Zettelkasten to create lectures
-        - <a id='F6DB0ceAD'/>https://forum.zettelkasten.de/discussion/865/introduction-teaching-using-zettelkasten-and-paskian-entailment-meshes#latest
-        - <a id='qxmar4_10'/>&#8203;<mark>There is a rich discussion in this thread that I haven't processed, worth coming back to</mark> Resurface **March 26th, 2020**
-        - <a id='DFiaSSMYE'/>The inspiration comes from close colleagues historian father, who had this system of writing his materials on perforated index cards and then using a steel rod to 'fish out' materials for a given lecture from a giant archive drawer. Basically, he had a mechanical tagging system and could prepare a lecture in a moment's notice with it.
-        - <a id='EynmxtCfE'/>A coherence is set of three or more topics with the curious property that any topic in a given coherence is entailed by the remaining topics. For example, the Topics {Function, Data, Transformation} form a coherence, since concepts of Function and Data imply a Transformation (of the data), Transformation and Data imply a Function (specifying the transformation) and Transformation and Function imply Data (to be transformed).
-        - <a id='YPADikapb'/>The idea seems to boil down to this: if the student knows some of the topics, an explanation for the unknown topics is implied by the coherence.
-        - <a id='_rPpMWr-7'/>**Gordon Pasks** **Conversation Theory** Pask arranges teaching materials into __**Entailment Meshes**__, which are build out of __Topics__ (comparable to zettels) and arranged (mainly) into overlapping __Coherences__.
-    - <a id='an4fBArhK'/><a id='hCcOo7G1y'/>Getting a sense of the power of Daily Notes. The way I am setting up my [[**Zettelkasten**-p]] now feels... daunting. I feel reticent to add to it, because I want the notes in there to be "permanent". Maybe this is a similar dynamic to **formalism considered harmful**? To support **Z1: levels of processing**,
-- <a id='CKdixajDr'/>Videos of workflows
-    - <a id='eMyMtVgUJ'/>- <a id='0PHa2Y_QR'/>**The Archive** by **André Chaperon**
-            - <a id='rIeBjh-KL'/>https://www.youtube.com/channel/UCtGCJRJqOVeJUkPkcdHwELw
-    - <a id='bUDunX4bB'/>[[**Zettelkasten**-p]] #video by **Shu Omi** #roam-workflow
-        - <a id='UaRtRG3d8'/>https://www.youtube.com/watch?v=rOSZOCoqOo8
-- <a id='uhYFSh56s'/>People/connections
-    - <a id='M6ZcbU5po'/>**Christian Wahl**
-        - <a id='D3Q-tb9Xe'/><a id='FWxjcMwu2'/>My interest in [[**Zettelkasten**-p]] lies in the connection between my use of systems theory and the personal aspect of using digital media.
+- #public<span id='tRARBNFl4'/>
+- Process log<span id='_fiud5Ish'/>
+    - Sorting through on **April 21st, 2020** while recording a video. Spent about 20 minutes to process 17 linked references. Feels a bit slow, but I see some interesting structure emerging.<span id='7YIL4-zRN'/>
+- Related concepts<span id='kiTjdRuXJ'/>
+    - **Evergreen Notes** [[Note taking]] **zettel**<span id='-mkGhgfmG'/>
+- Questions<span id='034EyoKfe'/>
+    - &#8203;<mark>How to position this note in relationship with [[Note taking]]? Merge with **Zettelkasten**?</mark>  #p<span id='Vniu79e6D'/><span id='XDNs0H-lN'/>
+- Invented by **Niklas Luhmann**<span id='p6P9Qsj03'/>
+    - Original writings<span id='ptgRUguju'/>
+        - http://luhmann.surge.sh/learning-how-to-read<span id='AwuWuqCH8'/>
+        - http://luhmann.surge.sh/communicating-with-slip-boxes<span id='3kcG4hApv'/>
+    - Videos<span id='u2yPWfUDt'/>
+        - Niklas Luhmann – 2016 – Ich denke ja nicht alles allein (Zettelkasten als Zweitgedächtnis)<span id='C0mGBxFuM'/>
+            - https://www.youtube.com/watch?v=NbncA7bDl70<span id='VOYEhFOTU'/>
+- Secondary literature<span id='AJvATnCfO'/>
+    - Books<span id='1-i32PkQL'/>
+        - Book: "**How to take smart notes**", Sonke Ahrens<span id='QD7eibwZI'/>
+        - Die Zettelkasten methode: Kontrolliere dein Wissen<span id='mitubUycT'/>
+            - by **Sascha Fast** and **Christian Tietze**<span id='zNhmBD68W'/>
+            - Souveränität ist *die* Schlüsselkompetenz in unserer modernen Welt im Umgang mit Wissen und Informationen. Dabei sind Schnelligkeit, Sicherheit und Flexibilität die entscheidenden Komponenten, um diese Souveränität für sich zu gewinnen. Die Zettelkastenmethode ist eine flexible und individuell anpassbare Technik mit Wissen umzugehen. Sie ist auf jeden System mit ein paar Handgriffen realisierbar, ohne dass man komplizierte Programme verstehen muss. In ihrer Einfachheit ist sie unübertroffen und ist der (fast) unsichtbare Helfer für dich im Umgang mit dem Wissen. Niklas Luhmann, einer der produktivsten Wissenschaftler aller Zeiten, sagte einmal, er müsse gar nicht schreiben, das mache der Zettelkasten für ihn. Als ich das Prinzip hinter seinem Zettelkasten, zusammen mit Christian Tietze, in die moderne Welt der digitalen Technik übertrug, war ich überrascht, wie viel Wahrheit in Luhmanns Aussage steckt.<span id='UfRWDYkcg'/>
+    - Blog posts<span id='IjzJ6gW6u'/>
+        - https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1#Very_Short_Summary<span id='V_UyLkKYo'/>
+- Places to discuss<span id='DWQkjaYy-'/>
+    - **Zettelkasten.de**<span id='gbOaF6kza'/>
+    - **TakingNoteNow** blog, lots of great insights around [[Note taking]] and Zettelkasten, also from many earlier than **Niklas Luhmann**<span id='0NwBghnAM'/>
+        - http://takingnotenow.blogspot.com/<span id='ZjmORXbeE'/>
+- Theory<span id='DtT1kSjpP'/>
+    - **Grunded theory** from **Ralf Westphal**<span id='jD63KzC6E'/>
+        - http://www.groundedtheory.com/what-is-gt.aspx<span id='Varofqyi8'/>
+    - **Rich picture**  from **Ralf Westphal**<span id='Onl9J8n8I'/>
+        - https://en.wikipedia.org/wiki/Rich_picture<span id='3XnyvB-Ij'/>
+    - Zettelkasten as a **lattice** of thoughts from **Zettelkasten.de** by **Gerrit Scholle**<span id='rgtfFBpR-'/>
+        - https://zettelkasten.de/posts/lattice-of-thoughts/<span id='9BJ3TNyZH'/>
+        - read **February 27th, 2020** **March 31st, 2020**<span id='XqqpTuofD'/>
+- Dangers / pitfalls<span id='xAAnhWeED'/>
+    - - Dangers with **Zettelkasten** #[[Note taking]] #p<span id='S6tbdS_D5'/>
+    - https://clerestory.netlify.com/zk1/<span id='5pVb1anky'/>
+    - He warns against the seduction of densely interconnecting ideas across domains, because it can create mental models so complex that they obscure reality and discourage reality-testing.<span id='S4ViKLR0k'/><span id='BfwML4qWt'/>
+    - **Collector's Fallacy** - trying to capture all of the original author's intention, instead of relying on my own voice and understanding. Pasting too much raw material. Worried about missing something.<span id='J5d_OHzNG'/><span id='zFoOedjn7'/>
+- Interfaces<span id='DBt-mayrY'/>
+    - Hierarchical (like Roam)<span id='diMjxDLtf'/>
+        - **Writing** using **outlines** - one sentence per bullet, hierarchy. Much easier to move things up and down (&#8203;<mark>but danger of disconnected text, like I found sometimes with **Scrivener** when I wrote each paragraph as a stand-alone piece</mark>) - but the hierarchy helps, because when you move something that has children, they come along. Can also use folding. #bullets<span id='TbLkQUZg5'/><span id='Ay5G_1l5w'/>
+    - Visual<span id='kYDDJqY86'/>
+        - - Different formats<span id='thpshQegz'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FhCzgo-uVs0?alt=media&token=767f87ab-0ef7-43f4-a973-d86478588666)<span id='T34wHZIIp'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fr6s-klNs8Y?alt=media&token=c2b0754f-0d2e-4b7b-8adb-0abaefbad8e4)<span id='efk8uysnu'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FixKcnFwehp?alt=media&token=deb2b19f-99bb-4f8d-9e83-c92fc012930b)<span id='YN2HksdUU'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fyn0A6NudQs?alt=media&token=28adeafc-753e-4941-a30e-4110dc8418a2)<span id='0tFKRvCsy'/><span id='2ND86udzv'/>
+    - **Knowledge Building** (with **rise aboves** etc) and [[**Zettelkasten**-p]] #Newsletter #juxtaposition<span id='VgF2tpaGI'/><span id='L6Vq0tlJv'/>
+- Tools<span id='YCCWs376T'/>
+    - Apps<span id='XloPWEY3P'/>
+        - Roam<span id='jnWl6f9b-'/>
+            - Roam as a **Slip box** from **David K. Laing**<span id='MCmLZFHmz'/>
+                - https://davidklaing.com/blog/2020/02/01/roam-as-a-slip-box.html<span id='uWBgUJRi1'/>
+                - Distinguishing two kinds of notes<span id='VgvMoXhOC'/>
+                    - literature notes (paraphrases of ideas and arguments encountered during reading)<span id='s6VIO999q'/>
+                    - permanent notes ("original" thoughts/insights)<span id='fe14UtyfX'/>
+                - __Both types of notes are written in publishable-quality prose, and each note is meant to include enough detail that it could be read and understood on its own.__<span id='4KWtQcLeD'/>
+                - Workflow<span id='AT8Ueeeet'/>
+                    - writes all his notes on **Daily notes**, tags litnote/permnote (sometimes in the same paragraph).<span id='SLjAfUN5-'/>
+            - https://shime.sh/how-i-apply-zettelkasten-to-roam #Newsletter #Zettelkasten<span id='npFmNjg9f'/>
+            - - [[**Zettelkasten**-p]] #video by **Shu Omi** #roam-workflow<span id='bUDunX4bB'/>
+        - https://www.youtube.com/watch?v=rOSZOCoqOo8<span id='UaRtRG3d8'/><span id='9bM7exu6M'/>
+        - - The Variable Schedule Reward **Zettelkasten**. A strategy for Memexing Twitter (to get better ideas, and build new relationships)<span id='ky6cQvIp9'/><span id='4Hu1nWdes'/>
+        - **Devonthink**<span id='If41Yn37A'/>
+            - http://www.organizingcreativity.com/2013/09/luhmanns-zettelkasten-with-devonthink/<span id='p-pngoz2z'/>
+        - **TinderBox** by **Beck Tench**<span id='UyVYKA61J'/>
+            - https://www.becktench.com/blog/2018/11/12/using-zettelkasten-and-tinderbox-to-document-a-literature-review<span id='gsYg7l2-j'/>
+        - **Notion**, moving from **The Archive** from **Zettelkasten.de** by **Ralf Westphal** (@ralfw)<span id='xwDAyYAqn'/>
+            - https://forum.zettelkasten.de/discussion/404/moving-on#latest<span id='RsYgrvSZH'/>
+            - https://forum.zettelkasten.de/discussion/446/views-of-a-zk#latest<span id='Ekl41m2yK'/>
+            - Twitter<span id='ucUbIo65W'/>
+                - https://twitter.com/houshuang/status/1232239406452531200 #myTwitterThreads<span id='mCZFIs-kf'/>
+            - Different formats<span id='thpshQegz'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FhCzgo-uVs0?alt=media&token=767f87ab-0ef7-43f4-a973-d86478588666)<span id='T34wHZIIp'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fr6s-klNs8Y?alt=media&token=c2b0754f-0d2e-4b7b-8adb-0abaefbad8e4)<span id='efk8uysnu'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FixKcnFwehp?alt=media&token=deb2b19f-99bb-4f8d-9e83-c92fc012930b)<span id='YN2HksdUU'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fyn0A6NudQs?alt=media&token=28adeafc-753e-4941-a30e-4110dc8418a2)<span id='0tFKRvCsy'/>
+            - Highlights ease of formatting, including images, and viewing the notes in different layouts.<span id='DalBsFC6v'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fj6sQoHP6OK?alt=media&token=42bf920e-3646-439b-85f7-7d6a67b0a686)<span id='M7QaRhcbK'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F7bna6XPFI4?alt=media&token=f0b9b59e-376a-41cd-8da7-9402890d2462)<span id='5xev05JMW'/>
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2Fhbq0xI5rP7?alt=media&token=0f8116ea-a8df-4cac-b67f-cd1f1b6cb98f)<span id='zXYGUL1Fh'/>
+        - **Hugo** (h/t **Christian Tietze**)<span id='RKV-VOSA-'/>
+            - https://bryanapperson.com/blog/creating-a-zettelkasten-with-hugo/<span id='LXaFj02dL'/>
+        - **Vim** (h/t **Christian Tietze**) based on **vimwiki**<span id='GyMuL0LBZ'/>
+            - https://www.bitchute.com/video/wlFZJ8ltQTgg/<span id='mU8KAPjxW'/>
+        - **The Archive** by **André Chaperon**<span id='0PHa2Y_QR'/>
+            - https://www.youtube.com/channel/UCtGCJRJqOVeJUkPkcdHwELw<span id='rIeBjh-KL'/>
+        - - **org-mode** by **Jethro Kuan**<span id='AcE-X_aty'/>
+        - https://blog.jethro.dev/posts/zettelkasten_with_org/<span id='VKPxU3zZg'/><span id='21FzmJeu2'/>
+    - Web-based tools<span id='NyNDowosR'/>
+        - **zettel.io** some kind of public Zettelkasten with **Twitter** integration?<span id='1RpCxyIql'/>
+            - https://zettel.io/kasten<span id='zUuGOGr6j'/>
+- Workflow<span id='xBtP_kiSw'/>
+    - From **Zettelkasten.de** (**discordian**) on how to use Zettelkasten to create lectures<span id='3cw8S71rp'/>
+        - https://forum.zettelkasten.de/discussion/865/introduction-teaching-using-zettelkasten-and-paskian-entailment-meshes#latest<span id='F6DB0ceAD'/>
+        - &#8203;<mark>There is a rich discussion in this thread that I haven't processed, worth coming back to</mark> Resurface **March 26th, 2020**<span id='qxmar4_10'/>
+        - The inspiration comes from close colleagues historian father, who had this system of writing his materials on perforated index cards and then using a steel rod to 'fish out' materials for a given lecture from a giant archive drawer. Basically, he had a mechanical tagging system and could prepare a lecture in a moment's notice with it.<span id='DFiaSSMYE'/>
+        - A coherence is set of three or more topics with the curious property that any topic in a given coherence is entailed by the remaining topics. For example, the Topics {Function, Data, Transformation} form a coherence, since concepts of Function and Data imply a Transformation (of the data), Transformation and Data imply a Function (specifying the transformation) and Transformation and Function imply Data (to be transformed).<span id='EynmxtCfE'/>
+        - The idea seems to boil down to this: if the student knows some of the topics, an explanation for the unknown topics is implied by the coherence.<span id='YPADikapb'/>
+        - **Gordon Pasks** **Conversation Theory** Pask arranges teaching materials into __**Entailment Meshes**__, which are build out of __Topics__ (comparable to zettels) and arranged (mainly) into overlapping __Coherences__.<span id='_rPpMWr-7'/>
+    - Getting a sense of the power of Daily Notes. The way I am setting up my [[**Zettelkasten**-p]] now feels... daunting. I feel reticent to add to it, because I want the notes in there to be "permanent". Maybe this is a similar dynamic to **formalism considered harmful**? To support **Z1: levels of processing**,<span id='hCcOo7G1y'/><span id='an4fBArhK'/>
+- Videos of workflows<span id='CKdixajDr'/>
+    - - **The Archive** by **André Chaperon**<span id='0PHa2Y_QR'/>
+            - https://www.youtube.com/channel/UCtGCJRJqOVeJUkPkcdHwELw<span id='rIeBjh-KL'/><span id='eMyMtVgUJ'/>
+    - [[**Zettelkasten**-p]] #video by **Shu Omi** #roam-workflow<span id='bUDunX4bB'/>
+        - https://www.youtube.com/watch?v=rOSZOCoqOo8<span id='UaRtRG3d8'/>
+- People/connections<span id='uhYFSh56s'/>
+    - **Christian Wahl**<span id='M6ZcbU5po'/>
+        - My interest in [[**Zettelkasten**-p]] lies in the connection between my use of systems theory and the personal aspect of using digital media.<span id='FWxjcMwu2'/><span id='D3Q-tb9Xe'/>

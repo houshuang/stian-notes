@@ -2,20 +2,20 @@
 title: "breakfast [[scones]]"
 ---
 
-- <a id='yfJKnxNhD'/>#recipe #public
-- <a id='tnwYgJh4l'/>source:
-    - <a id='wDZX6eEne'/>https://lisevonkrogh.wordpress.com/2016/10/11/herskapelig-frokost-grove-scones-med-havre-og-yoghurt/
-- <a id='pdgNP2kJE'/>Ingredients
-    - <a id='fjJfA0Qxs'/>200 g wheat
-    - <a id='KOoSMAQSy'/>100 g spelt
-    - <a id='bubPI6DYY'/>baking soda
-    - <a id='w29I6_Nom'/>salt
-    - <a id='5PAXhqtWB'/>1 ts salt
-    - <a id='kfYKvmUgp'/>30 g oats
-    - <a id='pY9EBn-oL'/>raisins, currents, pieces of dates (soak in hot water)
-    - <a id='-JhKqKS1h'/>0.3 l yoghurt
-    - <a id='L6b5zvCHP'/>0. 1 l milk
-    - <a id='0i6i9WsR7'/>Nuts, almonds, pecans, walnuts (cut in pieces and toast in oven)
-- <a id='mHun2yS4k'/>Approach
-    - <a id='RyNThjSWq'/>Mix everything well, bake at 200C about 20 minutes
-    - <a id='6piIgleSg'/>I usually take it out and let it bake longer. Today it was a bit not done - maybe should make it thinner and make smaller ones. Anyway delicious.
+- #recipe #public<span id='yfJKnxNhD'/>
+- source:<span id='tnwYgJh4l'/>
+    - https://lisevonkrogh.wordpress.com/2016/10/11/herskapelig-frokost-grove-scones-med-havre-og-yoghurt/<span id='wDZX6eEne'/>
+- Ingredients<span id='pdgNP2kJE'/>
+    - 200 g wheat<span id='fjJfA0Qxs'/>
+    - 100 g spelt<span id='KOoSMAQSy'/>
+    - baking soda<span id='bubPI6DYY'/>
+    - salt<span id='w29I6_Nom'/>
+    - 1 ts salt<span id='5PAXhqtWB'/>
+    - 30 g oats<span id='kfYKvmUgp'/>
+    - raisins, currents, pieces of dates (soak in hot water)<span id='pY9EBn-oL'/>
+    - 0.3 l yoghurt<span id='-JhKqKS1h'/>
+    - 0. 1 l milk<span id='L6b5zvCHP'/>
+    - Nuts, almonds, pecans, walnuts (cut in pieces and toast in oven)<span id='0i6i9WsR7'/>
+- Approach<span id='mHun2yS4k'/>
+    - Mix everything well, bake at 200C about 20 minutes<span id='RyNThjSWq'/>
+    - I usually take it out and let it bake longer. Today it was a bit not done - maybe should make it thinner and make smaller ones. Anyway delicious.<span id='6piIgleSg'/>
