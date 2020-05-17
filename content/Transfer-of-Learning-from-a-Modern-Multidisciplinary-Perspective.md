@@ -2,105 +2,105 @@
 title: "Transfer of Learning from a Modern Multidisciplinary Perspective"
 ---
 
-- #public
-- published 2005
-- by **Jose P. Mestre**
-- reading log
-    - **April 15th, 2020** until Historical Theories
-    - **April 16th, 2020** Trying to do 20 minutes, arrived at Chapter 5, p xxi
-- Introduction
-    - Transfer is a term that describes a situation where information learned at one point in time influences performance on information encountered at a later point in time.
-    - **Harald Høffding** (1892)
-        - learning event `A`
-        - stored internal representation when learned `a`
-        - internal representation of response to learned event `b`
-        - observable response `B`
-        - chain `A-a-b-B`
-            - event `A` triggers `a` leads to `B`
-        - what if you encounter `A'`? Will it still trigger `a`? How likely?
-            - &#8203;<mark>Isn't it also about how `b` can be applied in a different way to a slightly different problem? You wouldn't want an identical response? #q</mark>
-        - Ideal
-            - one learned event facilitates further learning
-            - extend the range of events to which learned material can be applied
-    - **Types of transfer**
-        - **Specific transfer**, **Near transfer** and **Literal Transfer** are similar
-        - [[**Lateral Transfer** and **Vertical Transfer** distinction]] made by **Robert M. Gagné**
-            - **Lateral Transfer**
-                - skill or knowledge influences more complex skill or knowledge later - precursor
-                - instruction should be arranged to take advantage of hierarchical structure of knowledge to be learnt
-                    - part of movement of
-                    - **task analysis**
-                        - begin with [[terminal **learning goals**]]
-                        - move backwards until you encountered **entering behaviours**
-                            - skills students had acquired before entering school
-                    - **mastery learning**
-            - **Vertical Transfer**
-                - "generalization that spreads over a broad set of situations at roughly the same level of complexity"n
-                - not well defined
-        - [[**Specific transfer** and **Nonspecific transfer** distinction]]
-            - **Specific transfer**
-                - clear similarity between stimulus complex in situation A and B
-            - **Nonspecific transfer**
-                - no obvious relationship, but acquisition of one influences the acquisition of the other
-                    - for example **learning to learn** (monkey experiments)
-                    - poorly defined
-        - [[**Near transfer** and **Far transfer** distinction]]
-            - Introduced by **Richard E. Mayer**
-                - level of similarity between conditions of original learning and in transfer learning (&#8203;<mark>how is this different from **Specific transfer**?</mark>)
-            - **James M. Royer**
-                - **school-learned events** and **out-of-school events** - applying something learnt at school in an out-of-school context is far transfer
-            - very difficult to define
-            - early thought: the far extreme of **stimulus generalization gradient** that will still activate a learned response
-            - category of real-world problems that could be solved through use of a mathematical operation like multiplication
-        - [[**Literal Transfer** and **Figural Transfer** distinction]] by **James M. Royer**
-            - **Literal Transfer**
-                - application of an intact bit of knowledge to a new learning event
-                    - example: calculating the area of a rectangle can be applied to determining size of a rug for a room
-            - **Figural Transfer**
-                - involving application of a segment of **world knowledge** as a tool for thinking about or learning about a new problem
-                    - **Metaphors** like "Encyclopaedias are gold mines"
-                - definition by example, and not very clear
-        - **Actor-oriented transfer**
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FHJTHoJF3Is?alt=media&token=1cead3ee-39b2-4c88-8c98-df4ce3a849a1)
-- First chapter by **Daniel Schwartz**, **John Bransford** and **David Sears**
-    - classic views of transfer measures transfer in ways that make people look dumb
-        - measure what is "transferred out" (whether people directly apply what they learned in one context to another), and not what is "transferred in"
-        - follow "sequestered problem-solving" paradigm, participants tested isolated from "contaminating" influences of information (colleagues, text, electronic resources)
-    - propose expanded definition of transfer: preparation for future learning (things you learnt help you learn new things more effectively) &#8203;<mark>pro-pedeutic?</mark>
-        - transfer is not as rare as previously assumed
-    - two-dimensional space of innovation and efficiency
-- Second chapter by **Christopher Wolfe**, **Valerie Reyna**, **Charles Brainerd**
-    - implications of **fuzzy trace theory** for transfer
-        - **dual-process** [[theory of **memory**]]
-            - explain surprising findings about relation between memory and cognitive processes
-            - two independent **memory systems**
-                - formed in parallel, but encoded and stored separately
-                - gist
-                    - used to reason and problem solve
-                    - nebulous patterns
-                    - underlying meanings and patterns
-                    - **more important for transfer**
-                - verbatim
-                    - used to answer questions about literal representations of knowledgesur
-                    - face details
-- Third chapter by **David Hammer**, **Andrew Elby**, **Rachel Scherr** and **Edward Redish**
-    - transfer as a concept is not useful.
-        - traditionally describes knowledge as unitary entity - learn in one context and apply in another
-    - propose a **manifold ontology**
-        - fine-grained resources that may or may not be activated by an individual in response to a context
-        - **learning** is a cognitive state in which several resources in the student's memory are activated and applied to deal with context under consideration
-            - not as acquisition or formation of a cognitive object
-- Fourth chapter by **Andrea diSessa** and **Joseph Wagner**
-    - view of knowledge as a complex system containing many kinds of elements and structures
-        - perspective of **coordination classes**
-            - a model of concepts as complex systems, and the principal function of the concept/system is to allow people read specific kinds of information out of situations in the world
-            - possessing a scientific concept and applying it flexibly means
-                - ability to coordinate large numbers of knowledge elements in various ways that accommodate wide range of contexts over which concept is applicable
-    - measure of transfer
-        - ability to apply knowledge flexibly across varying contexts
-    - **Types of transfer**
-        - **Expert-like transfer**
-            - ability to compile appropriate knowledge reliably for application in specific contexts (**concept projections**)
-        - Novices **concept projections** are extremely sensitive to context, and often result in unsuccessful performance.
-    - Necessary research
-        - Investigations that assess not just performance, but type of knowledge used by novices in early work in domain they are learning.
+- <a id='Wfick9TGN'/>#public
+- <a id='zJ8gY4aGu'/>published 2005
+- <a id='pnTLYY02N'/>by **Jose P. Mestre**
+- <a id='JTgjTq0QU'/>reading log
+    - <a id='egIayQcZF'/>**April 15th, 2020** until Historical Theories
+    - <a id='Oia3eNSAi'/>**April 16th, 2020** Trying to do 20 minutes, arrived at Chapter 5, p xxi
+- <a id='WWST-tLES'/>Introduction
+    - <a id='MG2UaVebV'/>Transfer is a term that describes a situation where information learned at one point in time influences performance on information encountered at a later point in time.
+    - <a id='sVcBg_UON'/>**Harald Høffding** (1892)
+        - <a id='O0kCXWL5P'/>learning event `A`
+        - <a id='YlJ95ln73'/>stored internal representation when learned `a`
+        - <a id='R8xzabWPs'/>internal representation of response to learned event `b`
+        - <a id='VSl6m_Wlb'/>observable response `B`
+        - <a id='nkOamdNfZ'/>chain `A-a-b-B`
+            - <a id='eJvyvb0rB'/>event `A` triggers `a` leads to `B`
+        - <a id='Xl2SELsKD'/>what if you encounter `A'`? Will it still trigger `a`? How likely?
+            - <a id='Zq6sE3e9C'/>&#8203;<mark>Isn't it also about how `b` can be applied in a different way to a slightly different problem? You wouldn't want an identical response? #q</mark>
+        - <a id='2tPn_7bug'/>Ideal
+            - <a id='8QSBgSkh0'/>one learned event facilitates further learning
+            - <a id='65aDLuCb8'/>extend the range of events to which learned material can be applied
+    - <a id='OnxlomVT-'/>**Types of transfer**
+        - <a id='rl5pI0Opj'/>**Specific transfer**, **Near transfer** and **Literal Transfer** are similar
+        - <a id='DsuU5UGDd'/>[[**Lateral Transfer** and **Vertical Transfer** distinction]] made by **Robert M. Gagné**
+            - <a id='bauIR4PXQ'/>**Lateral Transfer**
+                - <a id='rClwjTpK5'/>skill or knowledge influences more complex skill or knowledge later - precursor
+                - <a id='lajnIBmhb'/>instruction should be arranged to take advantage of hierarchical structure of knowledge to be learnt
+                    - <a id='DCSHT3Dkj'/>part of movement of
+                    - <a id='br1-xo5WZ'/>**task analysis**
+                        - <a id='Us_DdCCp0'/>begin with [[terminal **learning goals**]]
+                        - <a id='vAcf51CKx'/>move backwards until you encountered **entering behaviours**
+                            - <a id='NmY4rwdpE'/>skills students had acquired before entering school
+                    - <a id='o6EoL347g'/>**mastery learning**
+            - <a id='abmLUZTcs'/>**Vertical Transfer**
+                - <a id='TnVWJzB-h'/>"generalization that spreads over a broad set of situations at roughly the same level of complexity"n
+                - <a id='3iU44pIXK'/>not well defined
+        - <a id='TJ6tE7ksg'/>[[**Specific transfer** and **Nonspecific transfer** distinction]]
+            - <a id='EbS2Io5hS'/>**Specific transfer**
+                - <a id='N-QjoRwUL'/>clear similarity between stimulus complex in situation A and B
+            - <a id='CASYYuWpe'/>**Nonspecific transfer**
+                - <a id='1Gy_vLmLP'/>no obvious relationship, but acquisition of one influences the acquisition of the other
+                    - <a id='9d2Bpnk8q'/>for example **learning to learn** (monkey experiments)
+                    - <a id='KvpillloL'/>poorly defined
+        - <a id='-9uiObRL3'/>[[**Near transfer** and **Far transfer** distinction]]
+            - <a id='PpwdKq_lI'/>Introduced by **Richard E. Mayer**
+                - <a id='xEm3Xhn-h'/>level of similarity between conditions of original learning and in transfer learning (&#8203;<mark>how is this different from **Specific transfer**?</mark>)
+            - <a id='opo69UfBB'/>**James M. Royer**
+                - <a id='GVhVvIqJQ'/>**school-learned events** and **out-of-school events** - applying something learnt at school in an out-of-school context is far transfer
+            - <a id='Cw0JTws4T'/>very difficult to define
+            - <a id='eMQ5-HlZA'/>early thought: the far extreme of **stimulus generalization gradient** that will still activate a learned response
+            - <a id='T4lUUFdIa'/>category of real-world problems that could be solved through use of a mathematical operation like multiplication
+        - <a id='MMV1lXfrt'/>[[**Literal Transfer** and **Figural Transfer** distinction]] by **James M. Royer**
+            - <a id='ATnPfleef'/>**Literal Transfer**
+                - <a id='h-nf1uja7'/>application of an intact bit of knowledge to a new learning event
+                    - <a id='-EAa4zR4O'/>example: calculating the area of a rectangle can be applied to determining size of a rug for a room
+            - <a id='2cU9y7k-u'/>**Figural Transfer**
+                - <a id='_oRFDJyBj'/>involving application of a segment of **world knowledge** as a tool for thinking about or learning about a new problem
+                    - <a id='YARGeF59F'/>**Metaphors** like "Encyclopaedias are gold mines"
+                - <a id='bd_3IzLwH'/>definition by example, and not very clear
+        - <a id='li2m2MXBc'/>**Actor-oriented transfer**
+            - <a id='__OLE_ly2'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FHJTHoJF3Is?alt=media&token=1cead3ee-39b2-4c88-8c98-df4ce3a849a1)
+- <a id='jQrH8x_GD'/>First chapter by **Daniel Schwartz**, **John Bransford** and **David Sears**
+    - <a id='BIsgyN0Bu'/>classic views of transfer measures transfer in ways that make people look dumb
+        - <a id='aqq8iv46D'/>measure what is "transferred out" (whether people directly apply what they learned in one context to another), and not what is "transferred in"
+        - <a id='w9qojZwVI'/>follow "sequestered problem-solving" paradigm, participants tested isolated from "contaminating" influences of information (colleagues, text, electronic resources)
+    - <a id='8K1n6UPnQ'/>propose expanded definition of transfer: preparation for future learning (things you learnt help you learn new things more effectively) &#8203;<mark>pro-pedeutic?</mark>
+        - <a id='X3d-JTeD4'/>transfer is not as rare as previously assumed
+    - <a id='AbBr-U1iX'/>two-dimensional space of innovation and efficiency
+- <a id='f4PSKI4_-'/>Second chapter by **Christopher Wolfe**, **Valerie Reyna**, **Charles Brainerd**
+    - <a id='AKE61aGO6'/>implications of **fuzzy trace theory** for transfer
+        - <a id='-bQnI5jU1'/>**dual-process** [[theory of **memory**]]
+            - <a id='03FYhT2Ks'/>explain surprising findings about relation between memory and cognitive processes
+            - <a id='MxDeD1E2H'/>two independent **memory systems**
+                - <a id='kVeyizYrO'/>formed in parallel, but encoded and stored separately
+                - <a id='QX0RbTLQO'/>gist
+                    - <a id='sxgTAHMC2'/>used to reason and problem solve
+                    - <a id='LwD0VzZ6a'/>nebulous patterns
+                    - <a id='-XrlLz_rw'/>underlying meanings and patterns
+                    - <a id='1665-YRsm'/>**more important for transfer**
+                - <a id='TXpnm2TD8'/>verbatim
+                    - <a id='bDyPfnZ9W'/>used to answer questions about literal representations of knowledgesur
+                    - <a id='uz198b9w4'/>face details
+- <a id='RPPQBM0_s'/>Third chapter by **David Hammer**, **Andrew Elby**, **Rachel Scherr** and **Edward Redish**
+    - <a id='-2lGU0tY2'/>transfer as a concept is not useful.
+        - <a id='hQ79tGG-n'/>traditionally describes knowledge as unitary entity - learn in one context and apply in another
+    - <a id='N5GGrHWsK'/>propose a **manifold ontology**
+        - <a id='I430HKFqo'/>fine-grained resources that may or may not be activated by an individual in response to a context
+        - <a id='vnuXPQvJq'/>**learning** is a cognitive state in which several resources in the student's memory are activated and applied to deal with context under consideration
+            - <a id='j4HTjF9Ex'/>not as acquisition or formation of a cognitive object
+- <a id='w-mKbyHL6'/>Fourth chapter by **Andrea diSessa** and **Joseph Wagner**
+    - <a id='rN0-Q9dxl'/>view of knowledge as a complex system containing many kinds of elements and structures
+        - <a id='du5CJc-fu'/>perspective of **coordination classes**
+            - <a id='4f6HpB1lc'/>a model of concepts as complex systems, and the principal function of the concept/system is to allow people read specific kinds of information out of situations in the world
+            - <a id='9ecTmntlc'/>possessing a scientific concept and applying it flexibly means
+                - <a id='nea79XD4I'/>ability to coordinate large numbers of knowledge elements in various ways that accommodate wide range of contexts over which concept is applicable
+    - <a id='4pXefOhu7'/>measure of transfer
+        - <a id='2exYDx5NM'/>ability to apply knowledge flexibly across varying contexts
+    - <a id='yNSIxUEm0'/>**Types of transfer**
+        - <a id='kc6wB4-iR'/>**Expert-like transfer**
+            - <a id='VjgHktkPy'/>ability to compile appropriate knowledge reliably for application in specific contexts (**concept projections**)
+        - <a id='WQKdtAWQH'/>Novices **concept projections** are extremely sensitive to context, and often result in unsuccessful performance.
+    - <a id='q8QdKNqkN'/>Necessary research
+        - <a id='8IC5AWfTJ'/>Investigations that assess not just performance, but type of knowledge used by novices in early work in domain they are learning.

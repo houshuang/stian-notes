@@ -2,20 +2,20 @@
 title: "breakfast [[scones]]"
 ---
 
-- #recipe #public
-- source:
-    - https://lisevonkrogh.wordpress.com/2016/10/11/herskapelig-frokost-grove-scones-med-havre-og-yoghurt/
-- Ingredients
-    - 200 g wheat
-    - 100 g spelt
-    - baking soda
-    - salt
-    - 1 ts salt
-    - 30 g oats
-    - raisins, currents, pieces of dates (soak in hot water)
-    - 0.3 l yoghurt
-    - 0. 1 l milk
-    - Nuts, almonds, pecans, walnuts (cut in pieces and toast in oven)
-- Approach
-    - Mix everything well, bake at 200C about 20 minutes
-    - I usually take it out and let it bake longer. Today it was a bit not done - maybe should make it thinner and make smaller ones. Anyway delicious.
+- <a id='yfJKnxNhD'/>#recipe #public
+- <a id='tnwYgJh4l'/>source:
+    - <a id='wDZX6eEne'/>https://lisevonkrogh.wordpress.com/2016/10/11/herskapelig-frokost-grove-scones-med-havre-og-yoghurt/
+- <a id='pdgNP2kJE'/>Ingredients
+    - <a id='fjJfA0Qxs'/>200 g wheat
+    - <a id='KOoSMAQSy'/>100 g spelt
+    - <a id='bubPI6DYY'/>baking soda
+    - <a id='w29I6_Nom'/>salt
+    - <a id='5PAXhqtWB'/>1 ts salt
+    - <a id='kfYKvmUgp'/>30 g oats
+    - <a id='pY9EBn-oL'/>raisins, currents, pieces of dates (soak in hot water)
+    - <a id='-JhKqKS1h'/>0.3 l yoghurt
+    - <a id='L6b5zvCHP'/>0. 1 l milk
+    - <a id='0i6i9WsR7'/>Nuts, almonds, pecans, walnuts (cut in pieces and toast in oven)
+- <a id='mHun2yS4k'/>Approach
+    - <a id='RyNThjSWq'/>Mix everything well, bake at 200C about 20 minutes
+    - <a id='6piIgleSg'/>I usually take it out and let it bake longer. Today it was a bit not done - maybe should make it thinner and make smaller ones. Anyway delicious.

@@ -2,114 +2,114 @@
 title: "Knowledge Compressor"
 ---
 
-- #public
-- By **Joel Chan**'s lab
-- My thoughts and questions
-    - Is it open source? Why not? Plan for development - actually trying to make it useful or mostly to test hypotheses for papers?
-    - {{query: {and: {**Knowledge Compressor** {or: {**q** **Thoughts**}}}}}
-- Onboarding for students
-    - https://docs.google.com/document/d/1R5a88sZMv7PxivvNvqkNSNvrw9X6j3uJyHUSftDXaYg/edit
-- A literature review tool - Vimeo intro video
-    - https://vimeo.com/354474886
-    - struggling to annotate and organize key claims from academic papers
-    - based on screenshots, even of text - which you title with a short summary
-    - these claims, linked to screenshots (and page number)? are available for spatial organization and linking
-    - shares this with others, expanding annotations? flexible compression - zooming in and out?
-- Paper: **itunes2019qian**
-    - authors:: **Xin Qian**, **Aniket Kittur**, **Wayne G. Lutters**, **Joel Chan**
-    - Conducting an effective **literature review**
-        - What is currently known and unknown about topic?
-        - Crucial but difficult, especially cross-disciplinary
-        - **sensemaking** is a core subtask:
-            - researchers search for a new representation
-                - conceptual model
-                - theory
-                - argument
-            - that is based on existing ideas in the literature to guide their subsequent research
-            - The process of searching for these representations is highly iterative,
-                - involving multiple shifts in mental representations supported by reinterpretations of data
-            - Especially important for interdisciplinary research, where researchers cannot “hold the whole field” in their heads
-    - **Supporting the appropriate unit of interaction**
-        - **grounded claim** - concise statement linked to key contextual details (evidence) (ZK?)
-            - Grounded claims are: **concise statements - grounded in context**
-                - Our idea for grounded claims is rooted in **models of scientific argumentation** that also specify a scientific statement, linked to evidence, as a basic unit of scientific discourse [8, 9, 16].
-            - enabling user to:
-                - understand,
-                - interpret,
-                - judge,
-                - and use a claim
-            - Might be contextualized
-                - key point from CSCW research on knowledge reuse: knowledge items must be identified and evaluated, but also be recontextualized in order to be reused efectively [1].
-            - by:
-                - its evidence, such as a key figure or experiment details,
-                - or related claims that corroborate, oppose, or clarify a focal claim.
-                - The provenance of a claim, can be important context for understanding its validity and impact
-                    - its source collaboration networks,
-                    - institutional dynamics,
-                    - and prestige
-            - Figure
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FqRGYNNJvam?alt=media&token=a045010d-e2e5-4b20-861d-a53b8b4fafa8)
-            - Example (text of figure)
-                - Claim: Scientists primarily read specific fragments of articles
-                - Evidence: Online journal logs, scientists view only 1-3 pages on average
-                - Provenance
-                - Existing tools assume paper is unit of interaction (Mendeley, Zotero), iTunes for papers, tagging, citations etc.
-        - &#8203;<mark>Where do theories fit in? New theories, design methodologies, tools etc? These are not claims, but very important?</mark> #q
-        - &#8203;<mark>Relationship with [[Zettelkasten]] notes? Is each claim a Zettel?</mark> #q
-    - Existing workflows for working with grounded claims:
-        - spreadsheets
-        - QDA software
-        - text editors
-        - “micropublications” (bioinformatics)
-    - Creating these have cognitive and interaction costs? (What are interaction costs/unit of interaction?)
-        - cognitive cost of deciding in advance which details need to be retained as context for future reuse
-    - Using Knowledge Compressor to facilitate
-        - claims grounded by two kinds of context
-            - evidence: easily link to segments of PDF (text or graphs etc)
-            - related claims (connect explicitly or implicitly by spatial proximity) to other claims on claim canvas
-        - similar to argument diagramming / modelling software
-    - **slices are flexible**, can be adjusted by reuser, because they are live slices of the source PDF
-        - Flexible compression mechanism for lowering cost - similar to conventional annotation. Select segment, type text. But segments are flexible - can be adjusted/expanded by reuse, live slices (using pdfs). Can also link directly back to document in reading page.
-        - Eases cognitive cost of deciding which part of the document count as context, and interaction cost of precisely specifying contextual details.
-        - (So interaction costs are more UX interaction?)
-- Knowledge Compressor onboarding video
-    - https://www.youtube.com/watch?v=K7GfBj3Hk1M
-- Onboarding Google Doc
-    - https://docs.google.com/document/d/1R5a88sZMv7PxivvNvqkNSNvrw9X6j3uJyHUSftDXaYg/edit#
-    - Knowledge Compressor operates on a database of PDFs (basically a folder with PDFs and some other .json files in it). **We have preprocessed them for you.**
-        - &#8203;<mark>What's in the JSON, what's the pre-processing? It does work with any PDFs, right?</mark> #q
-- Video of **Joel Chan** annotating 22 research papers in real time #**Knowledge work showcase video**
-    - https://www.youtube.com/watch?v=h72JzSKPZ3Q
-    - Skimming very quickly through the paper, looking for claims and concepts
-    - **Thoughts**
-        - UI
-            - How does it scale, and how do you work with large projects - do you keep adding to the same base, or have multiple sub-bases. (Would be cool to be able to build, for example building up to a claim, based on many sub-claims that all have evidence, and then linking to that claim in a broader context)
-            - You're assuming that all relevant information is co-located, and can be selected - perhaps this is the hallmark of a good paper? What if it's scattered around, you need two different pieces to create a claim etc?
-            - How important is the zoomability? Have they done user-studies on this? Intuitively I feel like you get a lot of the "lossless compression" by automatically maintaining a link back to the original PDF and location, without offering the visual zooming, but I might be wrong
-        - Interoperability
-            - Are there ways of exporting this data in a format that could be read for example by Roam? Would be great to grab the text of PDFs selected too, but still keep the link back to where it came from
-            - Ways in which this could interact with Roam, if Roam had a nice API - bringing these highlights into Roam (how to serialize from a 2D space?), but also grabbing Roam bullets and letting users visualize, map, link
-        - Functionality/tech
-            - is there any kind of search (at least in the text you write yourself?) - apparently some newer version has search
-            - Why isn't it a web tool? Copyright? If just using pdfjs...
-            - Auto-extract bibliographic metadata, and data about users/process? Not sure how to display
-            - How to access synthesis interface, and automatically extracted strings which he shows in video?
-        - Other tools
-            - Should definitively look at **Knowledge Forum**, how they use backgrounds, different views, rise-aboves etc (and talk to **Bodong Chen**). Also things like **Compendium** from **Knowledge Cartography** (I should revisit that book as well)
-        - Collaboration
-            - Talking about sharing maps - give a new PhD student a map, this is what we know... Relevant to [[Three levels of Note taking]]. Social features, annotation, disagreement, discovery? Comparing between different graphs, linking to different graphs... 🤯
-                - One thing is sharing maps in a small community, but what about publishing - what would it be like to publish a literature review written in such a way, where every claim links back - **citation ontologies** etc? Automatically import a citation ontology from another paper into your map?
-                - Perhaps search engines could index your claims, and know which are the claims in a certain paper, which can help other people searching, even without you exposing your notes and thoughts directly to them
-    - Some research showing that if you create a mindmap of a vacation planning and you share with someone, the categories you have (things to do with kids, what to bring) are actually more useful to the other person, than the items you put in the buckets... So categories/landscape is important.
-    - In **bio-informatics** they have guidelines for how to write clear natural language summaries of research - relevant for how to best write the "labels" for these claims
-    - Also has a synthesis interface for writing, which can automatically search through your claims
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FNlTBhuzTMG?alt=media&token=021d977f-d889-49d1-9bdc-652ee649b956)
-- Demo video
-    - https://www.youtube.com/watch?v=08Ost65rB8c
-    - For knowledge to be useful
-        - compression
-            - decontextualized, small, separate from the paper
-            - so that you can work with many ideas at the same time, combine them, put them into larger structures, like arguments
-        - lossless, easy to recontextualize
-            - able to recover critical details/background
-    - &#8203;<mark>there is an element of "incremental reading" to this, in the sense that you don't decide up front what is important in terms of metadata, context etc</mark> #q
+- <a id='iVphBTdzx'/>#public
+- <a id='rFObX5bgg'/>By **Joel Chan**'s lab
+- <a id='b5MXe9e4Z'/>My thoughts and questions
+    - <a id='ghdhLZIyG'/>Is it open source? Why not? Plan for development - actually trying to make it useful or mostly to test hypotheses for papers?
+    - <a id='k4lA00RCJ'/>{{query: {and: {**Knowledge Compressor** {or: {**q** **Thoughts**}}}}}
+- <a id='XZcBzCfTq'/>Onboarding for students
+    - <a id='E-EK-UKEg'/>https://docs.google.com/document/d/1R5a88sZMv7PxivvNvqkNSNvrw9X6j3uJyHUSftDXaYg/edit
+- <a id='B1VaStHWf'/>A literature review tool - Vimeo intro video
+    - <a id='4Ku581Chw'/>https://vimeo.com/354474886
+    - <a id='_LgJ6xPgw'/>struggling to annotate and organize key claims from academic papers
+    - <a id='4L25XoxwX'/>based on screenshots, even of text - which you title with a short summary
+    - <a id='GqK_d4lZh'/>these claims, linked to screenshots (and page number)? are available for spatial organization and linking
+    - <a id='9D4_RGMvm'/>shares this with others, expanding annotations? flexible compression - zooming in and out?
+- <a id='qsfvqSuhI'/>Paper: **itunes2019qian**
+    - <a id='sdx802Dve'/>authors:: **Xin Qian**, **Aniket Kittur**, **Wayne G. Lutters**, **Joel Chan**
+    - <a id='t2li2j5hT'/>Conducting an effective **literature review**
+        - <a id='n68dmpXF1'/>What is currently known and unknown about topic?
+        - <a id='B2eXP24XJ'/>Crucial but difficult, especially cross-disciplinary
+        - <a id='LDpQcjZtG'/>**sensemaking** is a core subtask:
+            - <a id='gAgo8O8tB'/>researchers search for a new representation
+                - <a id='xnfkCz4Vj'/>conceptual model
+                - <a id='ezfdEhm39'/>theory
+                - <a id='p_SjFi3ST'/>argument
+            - <a id='j89Oe939f'/>that is based on existing ideas in the literature to guide their subsequent research
+            - <a id='_-C3RySGn'/>The process of searching for these representations is highly iterative,
+                - <a id='uz3k3qHBM'/>involving multiple shifts in mental representations supported by reinterpretations of data
+            - <a id='0YMILJCXP'/>Especially important for interdisciplinary research, where researchers cannot “hold the whole field” in their heads
+    - <a id='vuybli3tA'/>**Supporting the appropriate unit of interaction**
+        - <a id='tXbhv4HvT'/>**grounded claim** - concise statement linked to key contextual details (evidence) (ZK?)
+            - <a id='eKvUGLJKp'/>Grounded claims are: **concise statements - grounded in context**
+                - <a id='2lwP_NZWx'/>Our idea for grounded claims is rooted in **models of scientific argumentation** that also specify a scientific statement, linked to evidence, as a basic unit of scientific discourse [8, 9, 16].
+            - <a id='AZO0YfTCc'/>enabling user to:
+                - <a id='bZpKyXGuT'/>understand,
+                - <a id='UWxEu2PHg'/>interpret,
+                - <a id='NjlkHN-I6'/>judge,
+                - <a id='8QZ3WqOEN'/>and use a claim
+            - <a id='mQ3PgfOsH'/>Might be contextualized
+                - <a id='f_x6nsecd'/>key point from CSCW research on knowledge reuse: knowledge items must be identified and evaluated, but also be recontextualized in order to be reused efectively [1].
+            - <a id='T2JPnSZLx'/>by:
+                - <a id='bMU-vDx7Y'/>its evidence, such as a key figure or experiment details,
+                - <a id='neiwe3FQi'/>or related claims that corroborate, oppose, or clarify a focal claim.
+                - <a id='ykerNdqqc'/>The provenance of a claim, can be important context for understanding its validity and impact
+                    - <a id='N3CAeLfkA'/>its source collaboration networks,
+                    - <a id='fmxy6geNa'/>institutional dynamics,
+                    - <a id='sKeuWaZxb'/>and prestige
+            - <a id='sD9gukie5'/>Figure
+                - <a id='jjTE6OCy3'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FqRGYNNJvam?alt=media&token=a045010d-e2e5-4b20-861d-a53b8b4fafa8)
+            - <a id='7erlb86Gm'/>Example (text of figure)
+                - <a id='ZwNHUR8wG'/>Claim: Scientists primarily read specific fragments of articles
+                - <a id='uts9to-O2'/>Evidence: Online journal logs, scientists view only 1-3 pages on average
+                - <a id='94Q4spnRY'/>Provenance
+                - <a id='DPx3N-_w_'/>Existing tools assume paper is unit of interaction (Mendeley, Zotero), iTunes for papers, tagging, citations etc.
+        - <a id='8l5eBtL7A'/>&#8203;<mark>Where do theories fit in? New theories, design methodologies, tools etc? These are not claims, but very important?</mark> #q
+        - <a id='VJZMdlXRV'/>&#8203;<mark>Relationship with [[Zettelkasten]] notes? Is each claim a Zettel?</mark> #q
+    - <a id='pxDhw-34e'/>Existing workflows for working with grounded claims:
+        - <a id='Ps1hDcAfY'/>spreadsheets
+        - <a id='JkqthAcE1'/>QDA software
+        - <a id='CZIgLDy1X'/>text editors
+        - <a id='nM46gr5qJ'/>“micropublications” (bioinformatics)
+    - <a id='bxd7kSm5U'/>Creating these have cognitive and interaction costs? (What are interaction costs/unit of interaction?)
+        - <a id='ttExoIyPd'/>cognitive cost of deciding in advance which details need to be retained as context for future reuse
+    - <a id='8AFIr97Le'/>Using Knowledge Compressor to facilitate
+        - <a id='MS7poW9K7'/>claims grounded by two kinds of context
+            - <a id='TwhAj5NGY'/>evidence: easily link to segments of PDF (text or graphs etc)
+            - <a id='MkFpXzf4j'/>related claims (connect explicitly or implicitly by spatial proximity) to other claims on claim canvas
+        - <a id='4G6JVGAKF'/>similar to argument diagramming / modelling software
+    - <a id='hjENqVoh9'/>**slices are flexible**, can be adjusted by reuser, because they are live slices of the source PDF
+        - <a id='1NjzWk08v'/>Flexible compression mechanism for lowering cost - similar to conventional annotation. Select segment, type text. But segments are flexible - can be adjusted/expanded by reuse, live slices (using pdfs). Can also link directly back to document in reading page.
+        - <a id='OaGJ8RbqU'/>Eases cognitive cost of deciding which part of the document count as context, and interaction cost of precisely specifying contextual details.
+        - <a id='0v4Bh4xs-'/>(So interaction costs are more UX interaction?)
+- <a id='alfREJAt1'/>Knowledge Compressor onboarding video
+    - <a id='ifftYyeI_'/>https://www.youtube.com/watch?v=K7GfBj3Hk1M
+- <a id='oMXk87QbH'/>Onboarding Google Doc
+    - <a id='PYfQI0kUK'/>https://docs.google.com/document/d/1R5a88sZMv7PxivvNvqkNSNvrw9X6j3uJyHUSftDXaYg/edit#
+    - <a id='pG1Wa90Uq'/>Knowledge Compressor operates on a database of PDFs (basically a folder with PDFs and some other .json files in it). **We have preprocessed them for you.**
+        - <a id='gu0iGux_6'/>&#8203;<mark>What's in the JSON, what's the pre-processing? It does work with any PDFs, right?</mark> #q
+- <a id='zhlGUVs4K'/>Video of **Joel Chan** annotating 22 research papers in real time #**Knowledge work showcase video**
+    - <a id='PZJr9Bsw7'/>https://www.youtube.com/watch?v=h72JzSKPZ3Q
+    - <a id='dIgKkTz7N'/>Skimming very quickly through the paper, looking for claims and concepts
+    - <a id='NLiUfZCdx'/>**Thoughts**
+        - <a id='hgKdHtque'/>UI
+            - <a id='LaZklMJNh'/>How does it scale, and how do you work with large projects - do you keep adding to the same base, or have multiple sub-bases. (Would be cool to be able to build, for example building up to a claim, based on many sub-claims that all have evidence, and then linking to that claim in a broader context)
+            - <a id='eXtoQVYrZ'/>You're assuming that all relevant information is co-located, and can be selected - perhaps this is the hallmark of a good paper? What if it's scattered around, you need two different pieces to create a claim etc?
+            - <a id='y1ie7filH'/>How important is the zoomability? Have they done user-studies on this? Intuitively I feel like you get a lot of the "lossless compression" by automatically maintaining a link back to the original PDF and location, without offering the visual zooming, but I might be wrong
+        - <a id='xTporiMoh'/>Interoperability
+            - <a id='6tZOKScbd'/>Are there ways of exporting this data in a format that could be read for example by Roam? Would be great to grab the text of PDFs selected too, but still keep the link back to where it came from
+            - <a id='cidq-SvDc'/>Ways in which this could interact with Roam, if Roam had a nice API - bringing these highlights into Roam (how to serialize from a 2D space?), but also grabbing Roam bullets and letting users visualize, map, link
+        - <a id='czQPualL3'/>Functionality/tech
+            - <a id='xHNeQwQ07'/>is there any kind of search (at least in the text you write yourself?) - apparently some newer version has search
+            - <a id='s2-fDIh9t'/>Why isn't it a web tool? Copyright? If just using pdfjs...
+            - <a id='_lwaXuXex'/>Auto-extract bibliographic metadata, and data about users/process? Not sure how to display
+            - <a id='SaJ9XgK3i'/>How to access synthesis interface, and automatically extracted strings which he shows in video?
+        - <a id='9VIuKClZD'/>Other tools
+            - <a id='FepLwieNa'/>Should definitively look at **Knowledge Forum**, how they use backgrounds, different views, rise-aboves etc (and talk to **Bodong Chen**). Also things like **Compendium** from **Knowledge Cartography** (I should revisit that book as well)
+        - <a id='wJKegK2Ag'/>Collaboration
+            - <a id='5CSxIGQ5l'/>Talking about sharing maps - give a new PhD student a map, this is what we know... Relevant to [[Three levels of Note taking]]. Social features, annotation, disagreement, discovery? Comparing between different graphs, linking to different graphs... 🤯
+                - <a id='Jn7Kbowis'/>One thing is sharing maps in a small community, but what about publishing - what would it be like to publish a literature review written in such a way, where every claim links back - **citation ontologies** etc? Automatically import a citation ontology from another paper into your map?
+                - <a id='pP6Qd28Zp'/>Perhaps search engines could index your claims, and know which are the claims in a certain paper, which can help other people searching, even without you exposing your notes and thoughts directly to them
+    - <a id='q0fd-KPex'/>Some research showing that if you create a mindmap of a vacation planning and you share with someone, the categories you have (things to do with kids, what to bring) are actually more useful to the other person, than the items you put in the buckets... So categories/landscape is important.
+    - <a id='DdiAyqWro'/>In **bio-informatics** they have guidelines for how to write clear natural language summaries of research - relevant for how to best write the "labels" for these claims
+    - <a id='zBg_IUhXe'/>Also has a synthesis interface for writing, which can automatically search through your claims
+        - <a id='PFDqJg36M'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FNlTBhuzTMG?alt=media&token=021d977f-d889-49d1-9bdc-652ee649b956)
+- <a id='W399lEZNo'/>Demo video
+    - <a id='d-PRZzVEj'/>https://www.youtube.com/watch?v=08Ost65rB8c
+    - <a id='5vQesPT69'/>For knowledge to be useful
+        - <a id='BBdGwAs9B'/>compression
+            - <a id='HzSiAlApm'/>decontextualized, small, separate from the paper
+            - <a id='n3tEa26Fp'/>so that you can work with many ideas at the same time, combine them, put them into larger structures, like arguments
+        - <a id='RZ90NgdsD'/>lossless, easy to recontextualize
+            - <a id='Ej4MhTk37'/>able to recover critical details/background
+    - <a id='RK2W6tPVV'/>&#8203;<mark>there is an element of "incremental reading" to this, in the sense that you don't decide up front what is important in terms of metadata, context etc</mark> #q

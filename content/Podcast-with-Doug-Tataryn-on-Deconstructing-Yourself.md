@@ -2,57 +2,57 @@
 title: "Podcast with [[Doug Tataryn]] on [[Deconstructing Yourself]]"
 ---
 
-- #public
-- https://deconstructingyourself.com/meditation-emotions-bio-emotive-framework-douglas-tataryn.html
-- **Meditation**, **emotions**, and the **Bio-emotive framework** with Douglas Tataryn
-- Background:
-    - Started as 15 year old with breath work, meditating for several hours.
-    - Every day at university he got by with one hour of sleep extremely quickly going into meditative state that was very efficient at restoring.
-        - He had a lot of **samadhi** but not **sati**.
-    - His wife was teaching **sacred movement** in Manitoba. And there's a whole community there. And they're related to some kind of Tibetan lineage also worked with **Culadasa** and did a lot of research on psychology and became very strong at methodology.
-- **Ken Wilber** and four stages
-    - Enlightenment is not the end turn, you can still do dumb stuff
-        - sleeping with students
-        - abusing money
-    - So you need to #**Four Facets**
-        - **wake up**
-            - **Theravada Buddhism**
-        - **clean up**
-            - **Christianity**, **Mahayana Buddhism**
-            - We're able to observe our minds at a very deep level while we're [meditating](**Meditation**), but we're not able to be in those states, while we're interacting socially with others.
-                - &#8203;<mark>I thought that you kind of could get that kind of insight, with walking meditation and always seeing your emotions from a distance, but maybe those states are not as deep or, or pure. </mark>
-            - And so, some of this developmental and cleansing and stuff, it's possible that you kind of see through it and so it becomes invisible to the meditation and you can gain enlightenment without actually having to deal with it.
-                - Podcast about **Culadasa**, and his sex scandal
-        - **grow up**
-            - **developmental psychology**
-            - something new, that there isn't a good spiritual fit for
-        - **show up** (Doug says look around)
-            - **shamanism**, **Tibetan traditions**
-            - engaging with the whole cosmos and all the creatures and layers there.
-- **trauma**
-    - when you're **very young**
-        - we are very intimately in touch with our **emotions**
-        - When trauma happens, you tend to incorporate those emotion, **feeling beliefs**, into your **personality** at a level where it's very difficult to untangle
-        - Traditionally, people shut down emotionally at a certain age.
-        - Although they kept craving some kind of recognition or love, when they got that **it didn't update their core beliefs**, and it didn't heal, the kind of gap that they had.
-        - Younger generations tend to not have those same shutting down of emotions, which is causing other kinds of issues.
-            - &#8203;<mark>Is this specific to the US or certain groups in North America? What kinds of problems is it causing? #q</mark>
-    - things that happen later,
-        - you can process them through purification meditation.
-- There are four core emotions:
-    - happy
-    - sad
-    - angry
-    - fearful
-- But he came up with **nine types of feelings**.
-- And he also talks about a book, something like kindling. The apparently it's about affirmations and how they resonate with you.
-- Resources
-    - He has a lot of resources on this website
-        - book
-        - some online courses six stage,
-        - An **Nedera Process** to work through your emotion
-- Concept of **circling**, which apparently is big in the Bay Area, and how that can leave people in a very raw and vulnerable state without a way of healing (without guidance)
-- **Developmental stages** from **Hanzi Freinacht**
-    - Pre-modern
-    - modern
-    - postmodern
+- <a id='hB9eSPWD5'/>#public
+- <a id='3G1o4Gh-2'/>https://deconstructingyourself.com/meditation-emotions-bio-emotive-framework-douglas-tataryn.html
+- <a id='DBB_SPZ0q'/>**Meditation**, **emotions**, and the **Bio-emotive framework** with Douglas Tataryn
+- <a id='BPVepQjI6'/>Background:
+    - <a id='_1ocbbNxp'/>Started as 15 year old with breath work, meditating for several hours.
+    - <a id='n84-h2q6K'/>Every day at university he got by with one hour of sleep extremely quickly going into meditative state that was very efficient at restoring.
+        - <a id='_W5esYy-y'/>He had a lot of **samadhi** but not **sati**.
+    - <a id='-62Q3BL1W'/>His wife was teaching **sacred movement** in Manitoba. And there's a whole community there. And they're related to some kind of Tibetan lineage also worked with **Culadasa** and did a lot of research on psychology and became very strong at methodology.
+- <a id='19DWjXiF1'/>**Ken Wilber** and four stages
+    - <a id='k0hGc2gJ-'/>Enlightenment is not the end turn, you can still do dumb stuff
+        - <a id='mxT5VXOBj'/>sleeping with students
+        - <a id='GlOxjgGv4'/>abusing money
+    - <a id='fyCQDKhOz'/>So you need to #**Four Facets**
+        - <a id='rkCcgiaQd'/>**wake up**
+            - <a id='y-Om9TUBO'/>**Theravada Buddhism**
+        - <a id='XBPhvQShZ'/>**clean up**
+            - <a id='t03OcB69Z'/>**Christianity**, **Mahayana Buddhism**
+            - <a id='HjMEvsi7b'/>We're able to observe our minds at a very deep level while we're [meditating](**Meditation**), but we're not able to be in those states, while we're interacting socially with others.
+                - <a id='6K6wZHgTb'/>&#8203;<mark>I thought that you kind of could get that kind of insight, with walking meditation and always seeing your emotions from a distance, but maybe those states are not as deep or, or pure. </mark>
+            - <a id='vvL5yMRog'/>And so, some of this developmental and cleansing and stuff, it's possible that you kind of see through it and so it becomes invisible to the meditation and you can gain enlightenment without actually having to deal with it.
+                - <a id='54qJOwYyb'/>Podcast about **Culadasa**, and his sex scandal
+        - <a id='m2BaULMTV'/>**grow up**
+            - <a id='Mbgx9I9YU'/>**developmental psychology**
+            - <a id='zbCEX9OZd'/>something new, that there isn't a good spiritual fit for
+        - <a id='7ocrDJNKd'/>**show up** (Doug says look around)
+            - <a id='MX1J7MEKp'/>**shamanism**, **Tibetan traditions**
+            - <a id='JZP9c2JR0'/>engaging with the whole cosmos and all the creatures and layers there.
+- <a id='KHPDC2BIk'/>**trauma**
+    - <a id='ULRHy7u2r'/>when you're **very young**
+        - <a id='8tCMBFc2y'/>we are very intimately in touch with our **emotions**
+        - <a id='5A28Objc2'/>When trauma happens, you tend to incorporate those emotion, **feeling beliefs**, into your **personality** at a level where it's very difficult to untangle
+        - <a id='IYvelmqEu'/>Traditionally, people shut down emotionally at a certain age.
+        - <a id='cczGKA2o2'/>Although they kept craving some kind of recognition or love, when they got that **it didn't update their core beliefs**, and it didn't heal, the kind of gap that they had.
+        - <a id='LSqCODy-m'/>Younger generations tend to not have those same shutting down of emotions, which is causing other kinds of issues.
+            - <a id='EiBPUWtIe'/>&#8203;<mark>Is this specific to the US or certain groups in North America? What kinds of problems is it causing? #q</mark>
+    - <a id='TuUh6csUQ'/>things that happen later,
+        - <a id='XKffi0wID'/>you can process them through purification meditation.
+- <a id='HyGYvOO5P'/>There are four core emotions:
+    - <a id='ziVEDQQNr'/>happy
+    - <a id='WGPJfSL5m'/>sad
+    - <a id='cndhWnoFl'/>angry
+    - <a id='ZLgMbBD6l'/>fearful
+- <a id='4RHVZguwv'/>But he came up with **nine types of feelings**.
+- <a id='oz5NBnBcN'/>And he also talks about a book, something like kindling. The apparently it's about affirmations and how they resonate with you.
+- <a id='cNXzIagiq'/>Resources
+    - <a id='CebJa0PgE'/>He has a lot of resources on this website
+        - <a id='mrK24Ox1M'/>book
+        - <a id='Br4iC-k4i'/>some online courses six stage,
+        - <a id='NGg0IkPot'/>An **Nedera Process** to work through your emotion
+- <a id='-k97O5snH'/>Concept of **circling**, which apparently is big in the Bay Area, and how that can leave people in a very raw and vulnerable state without a way of healing (without guidance)
+- <a id='Z9BV7p65X'/>**Developmental stages** from **Hanzi Freinacht**
+    - <a id='ygSk5KQEK'/>Pre-modern
+    - <a id='vSVEmxMWx'/>modern
+    - <a id='4MVsAdZz0'/>postmodern

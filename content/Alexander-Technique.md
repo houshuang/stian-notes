@@ -2,57 +2,57 @@
 title: "Alexander Technique"
 ---
 
-- #public
-- Invented by **F. M. Alexander** - (1869-1955)**  an Australian actor
-- https://www.youtube.com/watch?v=MoLkPRatnwc
-- Origin story
-    - He began to experience chronic laryngitis whenever he performed Shakespeare
-        - context specific about speaking on stage
-        - excess tension in neck and body
-    - Observed himself with mirrors from multiple angles
-    - Clearly wrong behaviour felt right - even when he tried to stop, he couldn't
-        - Try as he might, whenever he started speaking as if on stage, his pattern of habits would kick in, outside of his conscious control.
-- an educational process that brings the cessation of such
-    - automatic habits
-        - unhelpful and oftentimes damaging habitual patterns of being that have built up over the course of your life – through no fault of your own besides a lack of awareness of this process happening.
-            - Examples
-                - You're a child at school. A teacher yells at you to 'pay attention'. What do you do?
-                    - Try concentrating really hard without tightening any muscles in your face, particularly around your eyes, or without breathing any differently.
-                        - Muscular effects of concentration
-                            - **Lulie**: I've always found it strange that people furrow their brow when they are thinking. It reads as pain. As if concentrating isn't nice.
-                                - I think my face gets *more* relaxed when concentrating. (Possible exception: when drawing a tensed face.) Breath may still slow/pause though.
-                                    - Interestingly the "why do you frown when you think?" challenge often triggers defensiveness.
-                                - The breathing one is interesting - I suspect that again most do that without realising it.
-                                    - **Lulie**: Pausing breathing while drawing may simply be to reduce movement and stabilise the pencil. (One is explicitly taught to hold one's breath when taking a photo without a tripod — same principle.)
-                                        - But it seems broader. Not sure this is true, but interesting: https://web.archive.org/web/20160104211733/http://www.winwenger.com/ebooks/guaran3.htm
-                    - You respond with muscles. You furrow your brow, you sit up more straight. You're anxious so your breathing becomes shallow.
-                    - What do muscles have to do with attention?
-                - It's your early teens and the idea of 'cool' enters your mind. You want to look cool, perhaps a cool walk? How does a cool person walk?
-                    - Your conscious mind intervenes in your walking.** 'You' start 'doing' walking, where before it was natural.**
-                    - A new habit is formed.
-            - We have endless internal stimuli that trigger this kind of 'unnatural' habitual behaviour.
-                - We walk, sit, stand, talk and breathe in the suboptimal ways our conscious minds once learned to do these things.
-    - into conscious control.
-        - Your system knows how to walk, sit, stand, talk and breathe without 'you' getting involved.
-            - "If you stop doing the wrong thing the right thing does itself" – F.M. Alexander
-        - In the world of AT this is called '**inhibition**',
-            - the skill to widen the space between stimulus and response – a path to freedom.
-            - which pre-dates Freud's use of the word.
-            - “Between **stimulus and response** there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” – **Viktor Frankl**
-                - **🍕**: Love this quote. I have used the (self-discovered, I thought!) technique of "intentionally inserting myself" into that space to great effect. My view on what about myself is "nature" and what "nurture" has shifted dramatically because of this practice 👍🏻
-            - Inhibition is a momentary thought that precedes the action itself, in order for the movement to occur with less muscular interference in the body. Inhibition is a pause to allow for a change in the approach to an action. Imagine that you are craning your head and neck forward to see the computer screen, with your shoulders lifted and tension in your neck. Instead of just pulling your shoulders down (merely tightening other muscles around the shoulder blades), allow for a moment of pause or nondoing. Let your breathing become apparent. You may sense the body naturally releasing tension around the neck and this in turn invites you to bring the head, neck, and shoulders into a place of reduced strain.
-        - I have a theory here inspired by **Alan Watts**.
-            - "It's a chronic habitual sense of muscular strain which we were taught in the whole process of doing spontaneous things to order." [6:30]
-            - The effect of Alexander Technique is to undo all of that.
-                - As we loosen the grip of the chronic muscular pushes and pulls of "I', we in turn loosen the grip of the "I" itself.
-                - This is why I think AT is so profound and why I'm keen to share this perspective on it.
-- State of consciousness
-    - This can feel...strange.
-        - You catch a ball flawlessly, elegantly and with no effort, but it's like you watch it happen. You set an intention to catch the ball and your hand and arm just reach out, perfectly. #**holding an intention**
-        - When we enter such a state naturally we call it "beginners' luck".
-    - There's a particular state of consciousness that comes about through practice of Alexander Technique – a kind of very pleasant, wide open three dimensional spatial awareness.
-        - We use similar language to that used in **Zen**. The barriers between Self and the world break down.
-- Link with other theories/frameworks
-    - potential connections to **Iain McGilchrist**'s **brain hemisphere model**, sort of a "walking on the right side of the brain" parallel to the book "**Drawing on the Right Side of the Brain**" (h/t **Sarah McManus**)
-    - For those familiar with **Taoism**, such spontaneous action may sound familiar as **wu wei**.
-        - Alexander Technique, then, is a 'western' framework in which to explore and cultivate non-doing.
+- <a id='t_K-sN69d'/>#public
+- <a id='nHZz_tTp-'/>Invented by **F. M. Alexander** - (1869-1955)**  an Australian actor
+- <a id='0wY518JTh'/>https://www.youtube.com/watch?v=MoLkPRatnwc
+- <a id='1qnHSDVfi'/>Origin story
+    - <a id='FHNImqqvp'/>He began to experience chronic laryngitis whenever he performed Shakespeare
+        - <a id='nGVQnlHz7'/>context specific about speaking on stage
+        - <a id='9z01zfnZw'/>excess tension in neck and body
+    - <a id='saq5tx1BF'/>Observed himself with mirrors from multiple angles
+    - <a id='RHfxYNlH9'/>Clearly wrong behaviour felt right - even when he tried to stop, he couldn't
+        - <a id='_12M_apPS'/>Try as he might, whenever he started speaking as if on stage, his pattern of habits would kick in, outside of his conscious control.
+- <a id='Y3PaEj9Lb'/>an educational process that brings the cessation of such
+    - <a id='VICwQEg54'/>automatic habits
+        - <a id='zc9cJp6uD'/>unhelpful and oftentimes damaging habitual patterns of being that have built up over the course of your life – through no fault of your own besides a lack of awareness of this process happening.
+            - <a id='xT_OCK1C5'/>Examples
+                - <a id='NrSWqHiUW'/>You're a child at school. A teacher yells at you to 'pay attention'. What do you do?
+                    - <a id='e9b8IbqVl'/>Try concentrating really hard without tightening any muscles in your face, particularly around your eyes, or without breathing any differently.
+                        - <a id='lXUPgeZcN'/>Muscular effects of concentration
+                            - <a id='uHM5Rp9ph'/>**Lulie**: I've always found it strange that people furrow their brow when they are thinking. It reads as pain. As if concentrating isn't nice.
+                                - <a id='MTBXPAf84'/>I think my face gets *more* relaxed when concentrating. (Possible exception: when drawing a tensed face.) Breath may still slow/pause though.
+                                    - <a id='knrgXjsYv'/>Interestingly the "why do you frown when you think?" challenge often triggers defensiveness.
+                                - <a id='yD17SDVhp'/>The breathing one is interesting - I suspect that again most do that without realising it.
+                                    - <a id='W_-ndKFRy'/>**Lulie**: Pausing breathing while drawing may simply be to reduce movement and stabilise the pencil. (One is explicitly taught to hold one's breath when taking a photo without a tripod — same principle.)
+                                        - <a id='zUh-rZcY3'/>But it seems broader. Not sure this is true, but interesting: https://web.archive.org/web/20160104211733/http://www.winwenger.com/ebooks/guaran3.htm
+                    - <a id='V5i4rKAo8'/>You respond with muscles. You furrow your brow, you sit up more straight. You're anxious so your breathing becomes shallow.
+                    - <a id='F6lZo9Fvj'/>What do muscles have to do with attention?
+                - <a id='_eUt1QSGn'/>It's your early teens and the idea of 'cool' enters your mind. You want to look cool, perhaps a cool walk? How does a cool person walk?
+                    - <a id='ZxwdVOX76'/>Your conscious mind intervenes in your walking.** 'You' start 'doing' walking, where before it was natural.**
+                    - <a id='4QpHVxzUV'/>A new habit is formed.
+            - <a id='8waGWSBOV'/>We have endless internal stimuli that trigger this kind of 'unnatural' habitual behaviour.
+                - <a id='FR853rIWc'/>We walk, sit, stand, talk and breathe in the suboptimal ways our conscious minds once learned to do these things.
+    - <a id='2GBMscWy8'/>into conscious control.
+        - <a id='i2brSgzsU'/>Your system knows how to walk, sit, stand, talk and breathe without 'you' getting involved.
+            - <a id='O0V-TnRjN'/>"If you stop doing the wrong thing the right thing does itself" – F.M. Alexander
+        - <a id='6apa-xkzk'/>In the world of AT this is called '**inhibition**',
+            - <a id='J-Z2RnGtU'/>the skill to widen the space between stimulus and response – a path to freedom.
+            - <a id='AOFuP1-Ox'/>which pre-dates Freud's use of the word.
+            - <a id='z9m8wtsf4'/>“Between **stimulus and response** there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” – **Viktor Frankl**
+                - <a id='ItfElS5qQ'/>**🍕**: Love this quote. I have used the (self-discovered, I thought!) technique of "intentionally inserting myself" into that space to great effect. My view on what about myself is "nature" and what "nurture" has shifted dramatically because of this practice 👍🏻
+            - <a id='GXhFdei40'/>Inhibition is a momentary thought that precedes the action itself, in order for the movement to occur with less muscular interference in the body. Inhibition is a pause to allow for a change in the approach to an action. Imagine that you are craning your head and neck forward to see the computer screen, with your shoulders lifted and tension in your neck. Instead of just pulling your shoulders down (merely tightening other muscles around the shoulder blades), allow for a moment of pause or nondoing. Let your breathing become apparent. You may sense the body naturally releasing tension around the neck and this in turn invites you to bring the head, neck, and shoulders into a place of reduced strain.
+        - <a id='CTyACuPp6'/>I have a theory here inspired by **Alan Watts**.
+            - <a id='CRuHDVLaW'/>"It's a chronic habitual sense of muscular strain which we were taught in the whole process of doing spontaneous things to order." [6:30]
+            - <a id='UF65CFo_H'/>The effect of Alexander Technique is to undo all of that.
+                - <a id='6Q_JtP-0R'/>As we loosen the grip of the chronic muscular pushes and pulls of "I', we in turn loosen the grip of the "I" itself.
+                - <a id='Yva40-xec'/>This is why I think AT is so profound and why I'm keen to share this perspective on it.
+- <a id='X7HBnxUTj'/>State of consciousness
+    - <a id='p3iqtO0XZ'/>This can feel...strange.
+        - <a id='G2f8xdWKh'/>You catch a ball flawlessly, elegantly and with no effort, but it's like you watch it happen. You set an intention to catch the ball and your hand and arm just reach out, perfectly. #**holding an intention**
+        - <a id='lS246OVA-'/>When we enter such a state naturally we call it "beginners' luck".
+    - <a id='LeAx6uZG1'/>There's a particular state of consciousness that comes about through practice of Alexander Technique – a kind of very pleasant, wide open three dimensional spatial awareness.
+        - <a id='oPNT1Yc8c'/>We use similar language to that used in **Zen**. The barriers between Self and the world break down.
+- <a id='j6SGaa--Z'/>Link with other theories/frameworks
+    - <a id='3OXY-VbPn'/>potential connections to **Iain McGilchrist**'s **brain hemisphere model**, sort of a "walking on the right side of the brain" parallel to the book "**Drawing on the Right Side of the Brain**" (h/t **Sarah McManus**)
+    - <a id='lWGwDcQM3'/>For those familiar with **Taoism**, such spontaneous action may sound familiar as **wu wei**.
+        - <a id='pl4bovNT6'/>Alexander Technique, then, is a 'western' framework in which to explore and cultivate non-doing.

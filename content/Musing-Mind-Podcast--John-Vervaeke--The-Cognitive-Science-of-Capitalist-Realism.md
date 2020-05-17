@@ -2,37 +2,37 @@
 title: "[[Musing Mind Podcast]]: [[John Vervaeke]]: The Cognitive Science of [[Capitalist Realism]]"
 ---
 
-- #Podcast #public
-- https://musingmind.org/podcasts/john-vervaeke
-- Related to **Capitalist Realism: Is There No Alternative** by **Mark Fisher**
-- This podcast seems to be taking a little bit **metamodernism** as a guiding framework, but thinking about not just how individuals can engage in spiritual practices, mindfulness practices and so on, but how the whole structure of society can change for everyone to improve the conditions under which we try to improve ourselves.
-- John: what is kind of the central question motivating you working on these projects? - interested in **general intelligence**, what is it that makes us good problem solvers. So this seems like a really interesting connection to **far transfer** and Minerva research
-- So talking about insight, coming into a room, ways of knowing, and **salience realization**.
-    - How our minds make certain things salient:
-        - our memory,
-        - our frames,
-    - and then all the connections to
-        - altered states of minds,
-        - flow state
-        - wisdom, and so on.
-    - And so there's,
-        - on the one hand, an aspect of problem solving how out of these millions of different directions and actions we're able to effectively come up with novel solutions to novel problems.
-        - But there is something deeper going on about how this whole process is making us connected to the world and giving our lives meaning
-    - The podcast host asked, well if this is all about problem solving what if there aren't any problems to solve, but the point is that the total information that's constantly surrounding us is so overwhelming that we're always dealing with only a tiny sliver of it, and then making sense of it as the process of living
-- He spent a lot of time meeting with people, like monks or people in different communities, and giving them a vocabulary and grammar to discuss their practices and insights. And he calls it reconstructive something. So he's very interested in beyond his the specific arguments that he is making, broadening the field and bring these different voices in dialogue with each other, which is why he prioritizes meeting with people and communities. And this might be the reason why he has chosen to engage in the ways that he has with with a lot of podcasts and YouTube lecture series, and so on.
-- contrasting the meaning crisis with the Renaissance view of progress by **Steven Pinker** and so on showing that everything's going better for the last few hundred years.
-    - **John Vervaeke** talks about distinguishing between
-        - subjective well being which is this kind of head hedonistic. Yeah, I'm doing okay I'm happy I'm I'm kind of good and demeaning sense. And so for last few hundred years of the development has had a huge impact on the subjective well being, because if you're poor, and you suffer, then getting more money is a good thing.
-        - But basically, above certain income, you need huge increases in wealth to gains any kind of increase in subjective well being so money is a wealth doesn't buy happiness but poverty buys misery.
-    - An example of divergence between subjective, subjective well being and meaning in life is having a child. So obviously, all of the subjective well being factors go down, but meaning in life goes way up.
-        - So, having a child gives you meaning in a number of different ways. There is love that is not egoistic, **agape**. You want to see this, this small person grow and develop.
-        - There is a sense of purpose and a long trajectory because again you want to see this person, grow and develop, you want to have the best conditions for that gives a different time perspective to your life.
-        - It is humbling, because it tears you out of this egocentric mind state that suddenly someone else is more important than you and is the center of attention.
-        - It is a deep connection both with the child and with perhaps a community and it's a sense of purpose and contributing to something greater.
-- He's working with **Jordan Hall** on this **religion that is no religion**. This project on how to give meaning in life
-    - The word **religion** might come from the concept of binding together and connecting.
-        - &#8203;<mark>By the way I have I'm reminded of **Zamenhof**'s project to have a kind of religious house in every city that would be somehow agnostic. And I was always kind of it appealed to me that idea because I have sometimes been a bit jealous of people like Kristin or my friend in Indonesia because I felt like they were getting such a deep and profound community out of religion that multi generational Much more diverse than and committed than the community that you would normally find otherwise #meta</mark>
-    - Because humans are these complex **autopoietic systems**, we can do a single intervention. That's why we have **the Eightfold Path**. So we need **a complex ecosystem of interventions** that can couple and interact with the complexity of human life.
-    - So, all religions come from the **axial worldview** of the two worlds and the need for **transcendence**. And I love the developments like the **secularization**, the **Protestant Reformation**, **scientific worldview** have kind of meant that **it's not so much to question whether we believe in God or not. That's the wrong question. It's more do we feel at home, in the religion?**
-        - I am curious if you expand a lot more on the specific elements of religion that are important because I have generally a fairly negative view of religion as deception. And there's obviously a whole set of stories of holy texts of art, of myths, of rituals, of hierarchy and and they are also extremely different even though there are similarities. And so it would be interesting to know which aspects he feels are really positive. #q
-        - And he also talks about it all secular alternatives, basically ideologies like Naziism and communism that killed a lot of people. It seems a little bit too facile but until then the question switches from these kinds of communities that are trying to innovate, like **Monastic Academy**, to the kind of economic or social policies that could be seen as a form of the psycho technology and he's quoting a German philosopher and I'm going to end for tonight here. #q
+- <a id='vI5SiqbDw'/>#Podcast #public
+- <a id='G0dyKACkf'/>https://musingmind.org/podcasts/john-vervaeke
+- <a id='-T537mLsT'/>Related to **Capitalist Realism: Is There No Alternative** by **Mark Fisher**
+- <a id='fW9UzJ-Tq'/>This podcast seems to be taking a little bit **metamodernism** as a guiding framework, but thinking about not just how individuals can engage in spiritual practices, mindfulness practices and so on, but how the whole structure of society can change for everyone to improve the conditions under which we try to improve ourselves.
+- <a id='c5Zd0lJd9'/>John: what is kind of the central question motivating you working on these projects? - interested in **general intelligence**, what is it that makes us good problem solvers. So this seems like a really interesting connection to **far transfer** and Minerva research
+- <a id='GHPuTLXfA'/>So talking about insight, coming into a room, ways of knowing, and **salience realization**.
+    - <a id='CcqtzGbnH'/>How our minds make certain things salient:
+        - <a id='R4Ywt_-ts'/>our memory,
+        - <a id='aBDHA4QRG'/>our frames,
+    - <a id='HX7nO6zrA'/>and then all the connections to
+        - <a id='KtKVZ7De4'/>altered states of minds,
+        - <a id='NH6nNdeYG'/>flow state
+        - <a id='J7CopuYLd'/>wisdom, and so on.
+    - <a id='lSdI2SbPD'/>And so there's,
+        - <a id='BmBU7ScYi'/>on the one hand, an aspect of problem solving how out of these millions of different directions and actions we're able to effectively come up with novel solutions to novel problems.
+        - <a id='azo34LfXP'/>But there is something deeper going on about how this whole process is making us connected to the world and giving our lives meaning
+    - <a id='Ddn-4x1Xy'/>The podcast host asked, well if this is all about problem solving what if there aren't any problems to solve, but the point is that the total information that's constantly surrounding us is so overwhelming that we're always dealing with only a tiny sliver of it, and then making sense of it as the process of living
+- <a id='JYccyO558'/>He spent a lot of time meeting with people, like monks or people in different communities, and giving them a vocabulary and grammar to discuss their practices and insights. And he calls it reconstructive something. So he's very interested in beyond his the specific arguments that he is making, broadening the field and bring these different voices in dialogue with each other, which is why he prioritizes meeting with people and communities. And this might be the reason why he has chosen to engage in the ways that he has with with a lot of podcasts and YouTube lecture series, and so on.
+- <a id='ixHhDmI4N'/>contrasting the meaning crisis with the Renaissance view of progress by **Steven Pinker** and so on showing that everything's going better for the last few hundred years.
+    - <a id='ScAxxumTY'/>**John Vervaeke** talks about distinguishing between
+        - <a id='QyA_b46UI'/>subjective well being which is this kind of head hedonistic. Yeah, I'm doing okay I'm happy I'm I'm kind of good and demeaning sense. And so for last few hundred years of the development has had a huge impact on the subjective well being, because if you're poor, and you suffer, then getting more money is a good thing.
+        - <a id='miQlW97YH'/>But basically, above certain income, you need huge increases in wealth to gains any kind of increase in subjective well being so money is a wealth doesn't buy happiness but poverty buys misery.
+    - <a id='z5T-AXgGN'/>An example of divergence between subjective, subjective well being and meaning in life is having a child. So obviously, all of the subjective well being factors go down, but meaning in life goes way up.
+        - <a id='xn6eHdMxI'/>So, having a child gives you meaning in a number of different ways. There is love that is not egoistic, **agape**. You want to see this, this small person grow and develop.
+        - <a id='rstDqPHwV'/>There is a sense of purpose and a long trajectory because again you want to see this person, grow and develop, you want to have the best conditions for that gives a different time perspective to your life.
+        - <a id='MmnFDVyIj'/>It is humbling, because it tears you out of this egocentric mind state that suddenly someone else is more important than you and is the center of attention.
+        - <a id='00LQdiA1N'/>It is a deep connection both with the child and with perhaps a community and it's a sense of purpose and contributing to something greater.
+- <a id='zzejq-5LI'/>He's working with **Jordan Hall** on this **religion that is no religion**. This project on how to give meaning in life
+    - <a id='tF5fHf-KT'/>The word **religion** might come from the concept of binding together and connecting.
+        - <a id='jH1pTD5Iv'/>&#8203;<mark>By the way I have I'm reminded of **Zamenhof**'s project to have a kind of religious house in every city that would be somehow agnostic. And I was always kind of it appealed to me that idea because I have sometimes been a bit jealous of people like Kristin or my friend in Indonesia because I felt like they were getting such a deep and profound community out of religion that multi generational Much more diverse than and committed than the community that you would normally find otherwise #meta</mark>
+    - <a id='VPMiQGl1l'/>Because humans are these complex **autopoietic systems**, we can do a single intervention. That's why we have **the Eightfold Path**. So we need **a complex ecosystem of interventions** that can couple and interact with the complexity of human life.
+    - <a id='-BpWIgGbd'/>So, all religions come from the **axial worldview** of the two worlds and the need for **transcendence**. And I love the developments like the **secularization**, the **Protestant Reformation**, **scientific worldview** have kind of meant that **it's not so much to question whether we believe in God or not. That's the wrong question. It's more do we feel at home, in the religion?**
+        - <a id='uUoIRgzAr'/>I am curious if you expand a lot more on the specific elements of religion that are important because I have generally a fairly negative view of religion as deception. And there's obviously a whole set of stories of holy texts of art, of myths, of rituals, of hierarchy and and they are also extremely different even though there are similarities. And so it would be interesting to know which aspects he feels are really positive. #q
+        - <a id='3pGTU-tqD'/>And he also talks about it all secular alternatives, basically ideologies like Naziism and communism that killed a lot of people. It seems a little bit too facile but until then the question switches from these kinds of communities that are trying to innovate, like **Monastic Academy**, to the kind of economic or social policies that could be seen as a form of the psycho technology and he's quoting a German philosopher and I'm going to end for tonight here. #q

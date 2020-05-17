@@ -2,46 +2,46 @@
 title: "Three levels of [[Note taking]]"
 ---
 
-- Public link: https://roamresearch.com/#/app/stian-research/page/Aoq0x-csu
-- My concept of three levels (from **Roam meetup**)
-    - curious about note taking and knowledge organizing in social contexts - how to move across/between #[[Note taking]]
-        - individually - **Building a Second Brain** (**Tiago Forte**), [[Zettelkasten]] (Luhmann) etc
-            - journaling
-            - common place books in the middle ages
-            - Bullet Journaling
-        - in small groups - **Marlene Scardamalia** and **Knowledge Building**/**Knowledge Forum**, a lot of **Computer Supported Collaborative Learning** in general, focusing on use of **wikis** in classrooms etc. **Group cognition**, **shared epistemic responsability**. "What does the group know?"
-            - visualizations, **Knowledge Cartography** - **Issue Based Information System**
-        - in networks - **Michael Nielsen**'s **Reinventing Discovery**, **George Siemens** and **Stephen Downes**' **Connectivism** for learning networks etc.
-    - But in addition, how does this interact with the design of artefacts
-        - what does it mean for learning and teaching? A lot of texts about note taking etc focus on individual students in a traditional system, but how would you redesign the actual education experience around students "building second brains" etc?
-            - example of the iversity MOOC on math (I think I have a blog post?)
-        - what is the future of the **non-fiction book** etc?
-            - re Question about communication - compression and expansion/serialization (#narrative), like two amazing AIs who have to communicate through morse signals. Also link between note taking and cognitive structures - what does it mean to have learnt something?
-    - This tension between designing for certain interactions, and excluding other/narrowing the space
-        - link to **over-scripting** and fading **scaffolding**?
-        - also **Distributed cognition** - some things it's OK to always leave outside / **digital prosthesis**
-        - **Dan Suthers** and **salience** (**suthers2008empirical**)
-- Granularity
-    - Thinking about the framework of note taking across multiple dimensions also in terms of time, and granularity size.
-        - I used to have theories of **granularity of collaboration**, and also **crowdsourcing**
-            - things like Wikipedia and **Yochai Benkler**.
-            - And of course, it also connects to **collaborative writing**, and the research both on **live synchronous collaboration** and academic collaboration.
-        - also curious about how people show off their knowledge processes.  #**Knowledge work showcase**
-        - So sharing drafts and rounds of revisions from journals
-            - like the comparative education journals,
-            - people showing their process like crafts, drawing and painting
-                - the English portrait artist show,
-            - although you cannot replicate the method, but it gives you a much deeper understanding because you see the layers and it might also help you better appreciate when you see things,
-                - both in terms of a painting to see the different layers and the processes,
-                - but also for a chair for example, to see the **structural functional composition** maybe
-                - and the way they felt about the design, the sketches.
-            - Architects often publish books, about sketches. Are there any other disciplines
-            - The revision process of writing fiction or nonfiction, the research process.
-                - There are not many people sharing their process. I would love to see
-                - **Joel Chan**, **John Vervaeke**, **MIchael Nielsen**, **Andy Matuschak**.
-                    - To not just hear them talk about it but actually see it
-                    - Of course, it's not as visual.
-                    - But it could be, you could imagine a TV show
-                        - the great English essay, where people are given a certain amount of time to do research and come up with policy recommendations for a topic.
-                        - They know nothing about talking about research, finding sources, structuring them.
-                    - There was some suggestion about this on Twitter, but it was more around debates and using different knowledge tools. Of course, many of these processes last for extremely long periods of time.
+- <a id='YsATRjRBf'/>Public link: https://roamresearch.com/#/app/stian-research/page/Aoq0x-csu
+- <a id='up0dcx3UL'/>My concept of three levels (from **Roam meetup**)
+    - <a id='qH1rneTOE'/>curious about note taking and knowledge organizing in social contexts - how to move across/between #[[Note taking]]
+        - <a id='kohE3ySLn'/>individually - **Building a Second Brain** (**Tiago Forte**), [[Zettelkasten]] (Luhmann) etc
+            - <a id='V2YUg-YiW'/>journaling
+            - <a id='DMkv-kFQI'/>common place books in the middle ages
+            - <a id='srEBa5j59'/>Bullet Journaling
+        - <a id='qFSLMH_tW'/>in small groups - **Marlene Scardamalia** and **Knowledge Building**/**Knowledge Forum**, a lot of **Computer Supported Collaborative Learning** in general, focusing on use of **wikis** in classrooms etc. **Group cognition**, **shared epistemic responsability**. "What does the group know?"
+            - <a id='54gElOzK6'/>visualizations, **Knowledge Cartography** - **Issue Based Information System**
+        - <a id='x0Zw-vyAo'/>in networks - **Michael Nielsen**'s **Reinventing Discovery**, **George Siemens** and **Stephen Downes**' **Connectivism** for learning networks etc.
+    - <a id='JMGoSBFQD'/>But in addition, how does this interact with the design of artefacts
+        - <a id='IX_eONeax'/>what does it mean for learning and teaching? A lot of texts about note taking etc focus on individual students in a traditional system, but how would you redesign the actual education experience around students "building second brains" etc?
+            - <a id='7UAa3y4bG'/>example of the iversity MOOC on math (I think I have a blog post?)
+        - <a id='47jwWZj5E'/>what is the future of the **non-fiction book** etc?
+            - <a id='CtCq5XgTb'/>re <a id='nHaqQY_7b'/>Question about communication - compression and expansion/serialization (#narrative), like two amazing AIs who have to communicate through morse signals. Also link between note taking and cognitive structures - what does it mean to have learnt something?
+    - <a id='jm4NVdyoP'/>This tension between designing for certain interactions, and excluding other/narrowing the space
+        - <a id='N4jVqCq4w'/>link to **over-scripting** and fading **scaffolding**?
+        - <a id='MWAXEu_iS'/>also **Distributed cognition** - some things it's OK to always leave outside / **digital prosthesis**
+        - <a id='6W94y2kaG'/>**Dan Suthers** and **salience** (**suthers2008empirical**)
+- <a id='8vG_xmp3n'/>Granularity
+    - <a id='wn1ORYTwo'/>Thinking about the framework of note taking across multiple dimensions also in terms of time, and granularity size.
+        - <a id='I2it-gqBi'/>I used to have theories of **granularity of collaboration**, and also **crowdsourcing**
+            - <a id='cQx3H-0Co'/>things like Wikipedia and **Yochai Benkler**.
+            - <a id='qwx7aIdC6'/>And of course, it also connects to **collaborative writing**, and the research both on **live synchronous collaboration** and academic collaboration.
+        - <a id='2Lo2Nd7bH'/>also curious about how people show off their knowledge processes.  #**Knowledge work showcase**
+        - <a id='ndYukEeYf'/>So sharing drafts and rounds of revisions from journals
+            - <a id='25s3sREZl'/>like the comparative education journals,
+            - <a id='XNZAdWvpq'/>people showing their process like crafts, drawing and painting
+                - <a id='8gaNUPzzm'/>the English portrait artist show,
+            - <a id='Ea5dR4_m7'/>although you cannot replicate the method, but it gives you a much deeper understanding because you see the layers and it might also help you better appreciate when you see things,
+                - <a id='MzuiS-wpW'/>both in terms of a painting to see the different layers and the processes,
+                - <a id='cla2_Zc1N'/>but also for a chair for example, to see the **structural functional composition** maybe
+                - <a id='3o9rrEaH9'/>and the way they felt about the design, the sketches.
+            - <a id='aDEMsb4Xx'/>Architects often publish books, about sketches. Are there any other disciplines
+            - <a id='fWsIP7V8i'/>The revision process of writing fiction or nonfiction, the research process.
+                - <a id='oKz6ZTNst'/>There are not many people sharing their process. I would love to see
+                - <a id='VuEPVZtg1'/>**Joel Chan**, **John Vervaeke**, **MIchael Nielsen**, **Andy Matuschak**.
+                    - <a id='Tv1fkz8DH'/>To not just hear them talk about it but actually see it
+                    - <a id='6-2YKjFtI'/>Of course, it's not as visual.
+                    - <a id='AgNxBc_OS'/>But it could be, you could imagine a TV show
+                        - <a id='5JJkL3HfY'/>the great English essay, where people are given a certain amount of time to do research and come up with policy recommendations for a topic.
+                        - <a id='uVvfzjW-D'/>They know nothing about talking about research, finding sources, structuring them.
+                    - <a id='UUBla3fDV'/>There was some suggestion about this on Twitter, but it was more around debates and using different knowledge tools. Of course, many of these processes last for extremely long periods of time.

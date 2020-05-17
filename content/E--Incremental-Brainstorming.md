@@ -2,34 +2,34 @@
 title: "E: Incremental Brainstorming"
 ---
 
-- #public
-- the concept of effective incremental collaborative brainstorming... I know I've seen mockups of a mix between Slack and Roam, Twitter and Roam etc...
-- **Basically there is a linear/time-based perspective (because we live in a time-based world), a threaded perspective (I say something, you respond etc) and a networked (something I say is related to tons of other stuff)...**
-    - How can we do this over time?
-        - Right now I'm slowly getting better at having small incremental processes that let me do a bit of foraging, a bit of chewing, a bit of digestion, etc every day, and feel that things gradually get better - even as I sneak these into gaps in my time at work, with family etc. (No more a PHD student where this is my full-time job)...
-        - However, I haven't found great ways of doing this with friends... The granularity is off, and of course the interoperability...
-            - big emails which sit around for a while, then get a big confusing answer across multiple channels... I'm now trying to capture more of what I write (and interesting stuff other people write) into Roam. Very small percentage of my emails that have interesting stuff, but what I'm writing right now is absolutely feeding one of my evolving concepts, and I'd be silly not to keep it (which is what I've been doing for the last 30 years of course, I was silly :))
-            - quick messages (Roam, DMs, Facebook etc) - disconnected, don't "accrete"
-            - more public brainstorms on Twitter - so many ideas across the screen, but usually when I post something I don't get a very useful insight (or maybe I get a link to an essay back but now I have a ton of work making sense of that)
-            - video meetings - either in pairs or bigger. I've started recording these and running them through Otter - generate a ton of content (if good), but again you talk about tons of ideas over an hour, then meet again in a month, or never.
-            - Google docs that someone goes in and comments on (very common in companies and academia)
-- Postal chess idea
-    - taking a few minutes every single day to write down an idea or a question,
-    - something that doesn't take much time, but an has a back and forth.
-    - Kind of like postal chess.
-    - **But somehow accumulates, and not just linearly **
-    - voice is powerful.
-    - Text.
-    - There's a linear aspect to time,
-    - combined with a concept map.
-        - Could there be a concept map with voice messages
-        - or Twitter integration
-        - or messages
-        - And Google Docs, with comments.
-        - What are other tools that people use to build from scratch.
-            - The letter exchanges on **LetterWiki**.
-                - But they don't accumulate. There is no conclusion. And they're quite long and written to be read publicly.
-                - **Ivan Illich** would walk into the room and lie down, and ask "what are you working on", and give a response (reference?).
-                - How can we replicate that in a more distributed fashion.
-                    - Both mentorship from above, and vertical or horizontal.
-                    - That could be an interesting Twitter thread.
+- <a id='xGipZqT3R'/>#public
+- <a id='0IjtruWc9'/>the concept of effective incremental collaborative brainstorming... I know I've seen mockups of a mix between Slack and Roam, Twitter and Roam etc...
+- <a id='68HAoTusj'/>**Basically there is a linear/time-based perspective (because we live in a time-based world), a threaded perspective (I say something, you respond etc) and a networked (something I say is related to tons of other stuff)...**
+    - <a id='wQb_w4Sh0'/>How can we do this over time?
+        - <a id='Nun8cPz7r'/>Right now I'm slowly getting better at having small incremental processes that let me do a bit of foraging, a bit of chewing, a bit of digestion, etc every day, and feel that things gradually get better - even as I sneak these into gaps in my time at work, with family etc. (No more a PHD student where this is my full-time job)...
+        - <a id='TNoFEBpcE'/>However, I haven't found great ways of doing this with friends... The granularity is off, and of course the interoperability...
+            - <a id='rt1ehhn5E'/>big emails which sit around for a while, then get a big confusing answer across multiple channels... I'm now trying to capture more of what I write (and interesting stuff other people write) into Roam. Very small percentage of my emails that have interesting stuff, but what I'm writing right now is absolutely feeding one of my evolving concepts, and I'd be silly not to keep it (which is what I've been doing for the last 30 years of course, I was silly :))
+            - <a id='ADNAZvOyd'/>quick messages (Roam, DMs, Facebook etc) - disconnected, don't "accrete"
+            - <a id='cLW9hIVWM'/>more public brainstorms on Twitter - so many ideas across the screen, but usually when I post something I don't get a very useful insight (or maybe I get a link to an essay back but now I have a ton of work making sense of that)
+            - <a id='PvcJscdrg'/>video meetings - either in pairs or bigger. I've started recording these and running them through Otter - generate a ton of content (if good), but again you talk about tons of ideas over an hour, then meet again in a month, or never.
+            - <a id='g3a27Hqw0'/>Google docs that someone goes in and comments on (very common in companies and academia)
+- <a id='ykH215Ked'/>Postal chess idea
+    - <a id='B7chOO5LX'/>taking a few minutes every single day to write down an idea or a question,
+    - <a id='pgTu4AhmV'/>something that doesn't take much time, but an has a back and forth.
+    - <a id='lcUmp_Amc'/>Kind of like postal chess.
+    - <a id='Dk6fBVrYd'/>**But somehow accumulates, and not just linearly **
+    - <a id='NqdiVUaUU'/>voice is powerful.
+    - <a id='lOfCnbe7X'/>Text.
+    - <a id='YABBOCrY5'/>There's a linear aspect to time,
+    - <a id='oKWbpTI7G'/>combined with a concept map.
+        - <a id='RtZ2irOpH'/>Could there be a concept map with voice messages
+        - <a id='D6dTMMQPY'/>or Twitter integration
+        - <a id='-a3OZ43o2'/>or messages
+        - <a id='xcMqOuTte'/>And Google Docs, with comments.
+        - <a id='nLH-ja2Ya'/>What are other tools that people use to build from scratch.
+            - <a id='IbRAzrePi'/>The letter exchanges on **LetterWiki**.
+                - <a id='_fS8X2ffp'/>But they don't accumulate. There is no conclusion. And they're quite long and written to be read publicly.
+                - <a id='7JnYD1yiL'/>**Ivan Illich** would walk into the room and lie down, and ask "what are you working on", and give a response (reference?).
+                - <a id='VW_8pwu6D'/>How can we replicate that in a more distributed fashion.
+                    - <a id='Wn7Hghp-z'/>Both mentorship from above, and vertical or horizontal.
+                    - <a id='j0w9ApjAp'/>That could be an interesting Twitter thread.

@@ -42,6 +42,10 @@ const BrainNote = ({ note }) => {
         <meta charSet="utf-8" />
         <title>{note.title} - Stian's notes</title>
         <script defer src="https://cdn.commento.io/js/commento.js"></script>
+        <meta
+          name="google-site-verification"
+          content="43CoF-ACCt1toVlxdwGIfGwAvA0VdLRQHdWpWIa99hk"
+        />
       </Helmet>
       <div
         id="brainNote"

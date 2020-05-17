@@ -2,345 +2,345 @@
 title: "Just-in-Time Project Management"
 ---
 
-- #public
-- Link:: https://praxis.fortelabs.co/series/just-in-time-project-management/
-- blogged http://reganmian.net/blog/2020/01/31/note-taking-with-roam/
-- **Key questions/observations:**
-    - are there still valuable intermediate packets that are not public (ie. [[Zettelkasten]], also ref ((Ce2MvOaCb))
-    - &#8203;<mark>This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?</mark>
-    - Attempt many different projects network etc, however &#8203;<mark>However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.</mark>
-- Key metric, **Return-on-Attention**
-    - based on **Return-on-Investment**, which assumes abundance of projects, choose best one
-    - **now**, we have to nurture **promising projects** - but this takes an incredible amount of sustained attention
-        - **Projects**
-            - have become non-linear, complex emergent phenomena
-            - **understanding projects takes as many units of attention as acting on them - makes more sense to plunge in with exploratory action, instead of trying to predict what will happen**
-                - &#8203;<mark>similar to "fail fast" etc</mark>
-            - &#8203;<mark>we need systems for managing our attention that produce value __now__, not eventually</mark>
-    - &#8203;<mark>attention is the scarcest resource for knowledge workers</mark>
-        - ****attention****
-            - units of attention are not created equal
-                - one minute of deep, tranquil state worth 100 minutes waiting in line
-                - one hour of close collaboration vs 100 hours of small-chat
-                - **state of mind/mood shapes quality of attention**
-- State of **flow** - __startup costs are high, so we need to work on **Intermediate Deliverables** and **Placeholders**__
-    - cognitive processes
-        - "transient hypofrontality" - prefrontal cortex, seat of higher level thinking, which also contains inner critic, goes dormant #mind
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FsDpffhdrUi?alt=media&token=6040b2e3-c75d-4a27-bf31-d8e803ba9a9f)
-        - Cascade of neurochemicals, each kicking off the next
-            - **Norepinephrine** tightens focus, as we lose track of time and our surroundings and that attention is redirected to the task at hand
-            - **Dopamine** makes us anticipate the next discovery with excitement, while also improving the pattern recognition essential to creativity
-            - **Anandamide** improves lateral thinking, helping us route around obstacles in our thinking
-            - **Nitric oxide** suppresses the stress response that comes with creative risk-taking
-            - **Endorphins** give us a sense of inner tranquility and enjoyment as our efforts begin to pay off
-    - benefits
-        - intersection of peak enjoyment, performance and learning
-        - satisfaction in work/life related to time spent in flow - [studies](https://books.google.pt/books?id=lNt6bdfoyxQC&pg=PA312&lpg=PA312&dq=time+spent+in+flow+correlated+with+work+satisfaction&source=bl&ots=kaJzlqh3Dd&sig=KeW4kFPuXUHznS37jpIk3Om_uMc&hl=en&sa=X&ved=0ahUKEwiUmYr16ZHbAhWr0aYKHXbDBNwQ6AEIPzAD#v=onepage&q=time%20spent%20in%20flow%20correlated%20with%20work%20satisfaction&f=false)
-        - humans operating at the edge of intellectual capability - fulfilling potential.
-    - how?
-        - [[Deep Work]] by **Cal Newport**
-            - __heavy lifts__
-                - blocking off long, uninterrupted stretches of focus time
-                - single-tasking for as long as possible
-                - back-to-back “sprints”
-                - managing the work-in-process in your head.
-            - they are socially isolating, take a toll on bodies and mind.
-        - alternative?
-            - triggers don't require minimum block of time?
-                - **internal**
-                    - clear goals
-                    - immediate feedback
-                    - challenge-skill ratio
-                        - easier to calibrate with smaller undertaking
-                - **external**
-                    - presence of risk
-                        - substitute risk of not delivering on something large, with creative risk on going deeper on something small
-                    - deep embodiment ??
-                        - outsourcing memory to software frees you up to be present in the moment
-                    - rich environment
-                        - brain as pattern recognizer - trigger ideas based on existing thoughts, notes, media, sketches
-            - Work phases
-                - Setup/startup/warmup
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F0iqwxwjvqz?alt=media&token=0dbfbdd8-ec46-4380-a4a5-1f410ac925a5)
-                    - environment
-                    - mental
-                    - emotional
-                - Four stages of **flow**
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FZSSje4m6V2?alt=media&token=c56b32ee-d95b-4f5b-b2cd-03398d382d09)
-                    - struggle Setup/startup/warmup
-                        - creative risk experienced as physical risk - **cortisol**, **adrenaline** - stress and anxiety rises when you sit down to perform focused work
-                        - getting into flow is very __expensive__ - **are you sure this is worth getting into flow for?**
-                            - **neurochemically** - brain burns neurotransmitters faster than it can produce them?
-                                - multiple layers of cortical neurons have to build up their action potentials as they recognize patterns and make connections, which takes energy. **A Pattern Recognition Theory of Mind**
-                            - **in evolutionary terms**, as you lose awareness of your surroundings and thus become more vulnerable to threats in the environment.
-                            - **in terms of opportunity cost**, as you push aside competing options and dedicate hours to a single pursuit.
-                    - release
-                    - flow
-                    - recovery
-- Problem with focusing on big end-product
-    - But all the products, the value you create, is created at the very end.
-        - And you might not succeed - all that risk, with nothing to show for it.
-    - And you loose all context the moment you step away
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FLgW0xwVTNW?alt=media&token=f2549434-fd28-44dc-86e3-30449d4b6930)
-        - __As soon as you step away from your desk, all the knowledge you spent so much attention to “load” into your mind – the ideas, priorities, questions, concerns, objectives, problems, potential solutions, examples – promptly gets “unloaded.”__
-        - __As you step away for lunch, all those potential connections and jumping off points you spent so much attention to acquire just dissolve away. All the intermediate artifacts from that mental labor – the notes, drafts, outlines, files, brainstorms, rough sketches, websites, research, illustrations, screenshots, statistics, mindmaps, diagrams, articles – if we keep them at all, remain disconnected, fragmented, and hidden, scattered across dozens of different apps and folders.__
-- **Intermediate Deliverables** (/Packets)
-    - goal is having a **personal knowledge base** which grows over time
-        - reuse past work
-        - draw from past experiences
-        - build products and services out of knowledge
-    - structure your work as a series of **Intermediate Deliverables**
-        - __Instead of delivering one big lump of value at the very end, you stage your progress in a series of short, intense sprints, ending each one with a tangible, intermediate deliverable, like a set of notes, a brainstorm, a series of examples, an outline, a prototype, or a draft.__
-    - Advantages:
-        - You become **"interruption proof"** (don't need to load entire project in your mind at once)
-        - More frequent opportunities for **feedback**
-            - people give better feedback on rough drafts or outlines, than on highly polished work
-        - you can create **value** in any span of time
-            - mood-based productivity
-            - context-based (reading Kindle on the subway etc)
-        - **big projects are less intimidating**
-        - **ability to reuse previously built packets for new projects**
-            - &#8203;<mark>does [[Zettelkasten]] notes qualify as packets?</mark>
-            - &#8203;<mark>are packets always public (or shared with colleagues)? Producing something for others as motivation to synthesize</mark>
-        - link to criteria for Flow - triggers don't require minimum block of time?
-                - **internal**
-                    - clear goals
-                    - immediate feedback
-                    - challenge-skill ratio
-                        - easier to calibrate with smaller undertaking
-                - **external**
-                    - presence of risk
-                        - substitute risk of not delivering on something large, with creative risk on going deeper on something small
-                    - deep embodiment ??
-                        - outsourcing memory to software frees you up to be present in the moment
-                    - rich environment
-                        - brain as pattern recognizer - trigger ideas based on existing thoughts, notes, media, sketches
-    - Small batch sizes
-        - **Toyota Production System**
-        - **continuous integration** in **software development**
-        - **The Lean Startup** - fail quickly
-    - a dashboard for meta-work
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F5oEhvIzGjT?alt=media&token=7ab415de-a2f3-4221-92b4-6e73a345d321)
-        - iron triangle of **Project management** - traditionally workers had little control - but now projects have become non-linear, complex emergent phenomena
-            - time
-                - the deadline. **now**: downscope into small parts, work evenings and weekends
-            - budget
-                - central - **now**: lack funding for big, downscope, create something you can charge for, raise funds for the bigger version
-            - scope
-                - specific spec from management - **now**: can change at any time.
-    - Attitude towards information
-        - consumption
-            - information intake
-            - planning stage
-                - make decisions
-            - implementation stage
-        - we need to collapse these, **constructivism**, learning is an active process. Put something on the line, allow yourself to fail.
-            - &#8203;<mark>There's a strong bias in academia for not publishing something if it is not genuinely new, or you have a very strong grounding. Even in blogosphere, I might feel that there's no point in me writing about productivity if Tiago has written a much better post, that I can link to.</mark>
-            - &#8203;<mark>Perhaps one way of overcoming this is making the format of publication intentionally "draft-y". But will this get readers/feedback, and will it be a good enough motivation to actually put effort into synthesizing, or just dumping my notes?</mark>
-            - &#8203;<mark>Easier trade-off for entrepreneurs who live on their own reputation and SEO etc, but for someone working in a company, trade-off with how much time you spend on this</mark>
-            - &#8203;<mark>Also question about context - if I am taking notes for myself, I assume all of my own knowledge. If I share with a few colleagues, I assume a lot of shared context. One way of adding value might be to write it up in a way that it was actually understandable by others, outside of my field. But huge effort. On the other hand, potentially very helpful to aid genuine understanding?</mark>
-        - products (generative)
-            - writing, tweeting etc
-            - making diagrams, sketches and visual overviews - &#8203;<mark>I could experiment more with this</mark>
-            - performing - recording video, presenting at local meetup etc.
-            - producing (&#8203;<mark>how is this different from writing? more finished product?</mark>)
-            - translating into a different product (&#8203;<mark>what I'm doing right now with my notes from Tiago's blog series?</mark>)
-        - selling
-            - most powerful - puts you in direct contact with reality. **Can include any exchange of value, not just financial** (I guess this includes pitching something internally?)
-- Workflow
-    - (see Workflow strategies below)
-    - get started
-        - people wait with getting started until they have enough time/money. Downscope.
-    - maintain momentum
-        - modulate progress depending on how other things are going. Make progress in smaller chunks.
-    - test assumptions - **a learning process** - &#8203;<mark>design your deliverables/packets specifically to learn/test certain assumptions</mark>
-        - **questions** to be answered
-        - **assumptions** to be tested
-        - **hypotheses** to be proven
-        - **there is always a smaller/simpler version of whatever you're seeking to create**
-        - &#8203;<mark>This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?</mark>
-- Divergence and convergence #**divergence** #**Emergent Productivity** #**Productivity Research**
-    - overview
-        - concept from **design thinking**
-        - all creative work completed in these two modes, alternating
-            - relationship to **mood-based productivity**
-        - **divergence** (scope of work expanding)
-            - widening the range of possibilities, options, ideas, pathways
-            - consuming, investigating, experimenting
-        - **convergence**
-            - conclusion, decision, deliverable
-            - focus, discarding, eliminating, producing, converging
-    - **Placeholders**
-        - we need better placeholders - preserves the current state of project so we can switch away without losing our progress
-        - examples
-            - short summaries of websites you found, and why you think they are useful
-            - assigning action items after a meeting
-            - outline of top learnings from conference/event
-            - review of book on Goodreads
-            - photos of best slides from a presentation, with some comments
-        - are **Intermediate Deliverables**
-        - can only be done in **convergence** mode - need to end each session with a quick bout of convergence (**summary/conclusion**)
-            - structure everything you do as an intermediate packet,
-            - end each work session with a clear deliverable,
-            - send them off for feedback whenever possible,
-            - offload to your digital notes every possible bit of thinking during this entire process.
-- **Just-in-Time** paradigm
-    - best to do most tasks "as late as possible"
-        - **late starts** (**Critical Chain Project Management**)
-            - developed by **Eliyahu Goldratt**, based on **Theory of Constraints**
-            - **attention** and **people** are the most important constraints in projects, not **time**, **machines** or **raw material**
-            - **critical path**
-                - dependencies between tasks
-                - tells us **where to start**, **what to prioritize**, **soonest possible completion date**
-                - in project with many collaborators, everyone starts off full speed - but might not be best way to spend resources (maybe research initially takes a long time, should be done by one person)
-                    - **By pulling many people onto the project early, the total cost balloons immediately, raising the stakes for “getting it right” and possibly stifling experimentation**
-                - **Parkinson's Principle**
-                - related to **procrastinate**, everyone works close to deadline anyway
-    - **structure** can be added later - restructuring not only possible, but best possible way
-        - re **Progressive summarization**, **Progressive formalization** by **Joel Chan**
-        - &#8203;<mark>but what if you never create structure, like my photos?</mark>
-    - **Features** can also be added later - __release early, release often__
-        - &#8203;<mark>difference between blog post and wiki though... who wants to come back to a half-assed blog post when it has been improved?</mark>
-        - launch a **container**, and fill it slowly over time via **releases** - discrete packets of incremental value. (&#8203;<mark>Like the course that **Lukas Kawerau** released... or an MVP website that only takes sign-ups and has no product</mark>)
-            - called **versioning**, powerful form of downscoping
-    - **purpose** can be added later
-        - (&#8203;<mark>[[Zettelkasten]], gathering without a purpose - but sometimes it's more powerful to be guided by various projects in progress - of course they can be modified as you learn more</mark>)
-        - __You can write an email to a colleague explaining how to use an internal software program, and suddenly realize it could easily be turned into a wiki for future employee reference.__
-            - &#8203;<mark>This is powerful, I have so many notes, emails and videos laying around. How can I effectively reuse them, and make them shared more widely? And how can I be more effective going forwards - linking to public notes, instead of writing long emails?</mark>
-    - **Only possible and humane if**
-        - downscoping and upscoping (****flexible scope****)
-        - **Placeholders**
-        - **Intermediate Deliverables**
-        - **E: Convergence and divergence**
-    - **Culture change in teams**
-        - **implicit trust** (sacrifice own productivity to enable others on critical path)
-        - **strong alignment and buy-in on purpose**, late starts prioritize overall project at expense of any single component
-        - trust in **ability to self-manage/responsibility**
-        - **openess/candor**
-    - **Risk**
-        - working digitally, it's easy to start things and hard to finish
-            - **Intermediate Deliverables** as one solution
-            - **convergence**
-- What should I work on now?
-    - &#8203;<mark>Nothing here on goals, reviews etc - I guess that's orthogonal, lot's of great points below on how to take goals and actually make progress. But would have been nice to mention.</mark>
-    - From **GTD** to the possibility of working on anything anywhere
-    - **Create subcomponents as early as possible**
-        - inherently valuable piece of potential future project
-        - low-risk time consuming activities early
-            - &#8203;<mark>danger of analysis paralysis? PhD students spending four years on literature review -- even if they wrote some great blog posts, still not good for career</mark>
-        - **component thinking** / modularity
-            - each gives **optionality**
-            - can be **reused**
-            - can **remove uncertainty**
-        - solving through **analysis** - separating problem into smaller part, or **synthesis**, making things and putting them together (**E: Convergence and divergence**)
-    - &#8203;<mark>Seems like a lot of repetition from earlier writings about **Intermediate Deliverables**</mark>
-    - **Packet switching** as metaphor to increase "bandwidth" of productivity (using same packets for multiple tasks)
-        - nodes also include other people (including networks, Twitter followers etc), and software/services
-        - shift from **knowledge worker**, doing one task at a time at fixed rate, to **knowledge manager**, routing jobs to the best nodes
-    - **Multithreading** - rapidly switching between projects, making progress on many fronts simultaneously
-        - projects often have delays
-            - roadblocks
-            - blind alleys
-            - communication loops (waiting on response)
-            - require feedback/testing
-        - opportunities are **non-linear** and **assymetric**
-            - the one in hundred that takes off could produce more return than the 99 others. Downside of failing is ever smaller, upside of winning ever higher.
-            - &#8203;<mark>However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.</mark>
-    - Thinking of yourself as **project portfolio manager**
-        - which projects to start ("promisingness")
-            - Natural to focus on **throughput**, but should focus on **throughput per **constraint unit**** - related to **mood-based productivity**
-                - if you only have 3 hours of Flow time per week, but 20 hours of superficial attention, the 3 hours are the constraint, so choose the project with the highest pay-off per hour of Flow, not hour in general
-            - **Good inputs**:
-                - expand how many **constraint units** we have available (establishing repeatable process)
-                - prioritize projects that take **constraint unit**s to build, and are self-perpetuating
-                - kill projects that require too many **constraint unit**s per output
-                - use mild focus time on things that improve quality of constraint units, like meal planning, exercise
-                - collaborate with others, trading our light focus time for their deep focus (and vice versa)
-        - maximizing project completion
-- **State of Mind** (re **mood-based productivity**)
-    - Characteristics
-        - difficult or expensive to reproduce (in contrast to simple emotions)
-            - often requiring long spans of time, certain substances, rituals, or environments to reproduce. A week in meditation, cancelled meetings, an assistant to deal with bureaucratic work.
-        - primarily somatic and affective, not intellectual (in contrast to belief systems or worldviews)
-        - temporary and ephemeral (in contrast to mindsets or attitudes)
-        - unpredictable
-            - you can set up the right conditions, but cannot force it
-        - leverage
-            - dramatically influence how much energy it takes to complete a given task
-                - When you’re in Errand Mode, running an additional errand doesn’t take much extra energy. But if you’re in the middle of a deep focus session, even the simplest errand can feel like a harsh imposition.
-        - &#8203;<mark>how is this affected by meditation, and other kinds of exercises? Better ability to control state of mind? More time spent in productive states of mind in general?</mark>
-    - **Motivational waves** #motivation
-        - humans are wired for **rhytm**, **cycles**
-        - motivation is not a single phenomenon of high/low, but has a directionality
-            - &#8203;<mark>link to **willpower**, [[willpower **depletion**]], **Habit Formation**</mark>
-        - "routing jobs through time"
-        - **Function of mood is to create momentum in the mind**
-            - #toRead http://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6#title-footnote-tb0015
-            - in nature, sources of reward are correlated (find three apples in short period of time) - moods drive us to act opportunistically
-                - __Our brain extrapolates that what has just happened will keep happening, forms expectations of the rewards it will encounter, generating anticipation, which is the key motivator of action.__
-                - __This is the source of the advice to **“fake it till you make it,”** which absolutely works. We can essentially trick ourselves into a certain mood by creating a series of small wins, which put us “in the mood” to pursue even more, which generates more wins, which further puts us in the mood. By taking some action, however superficial or insecure, you “prime the pump” of your emotions in a certain direction. Action primes emotion, and then emotion primes further action, in a feedback loop.__
-            - **Psychological capital**
-                - “Psychological capital is developed through a pattern of investment of psychic resources that results in **obtaining experiential rewards from the present moment** while also **increasing the likelihood of future benefit**.”
-                    - #toRead https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1010&context=leadershipfacpub **Mihaly Csikszentmihalyi**
-            - Generate momentum by
-                - Structuring our work to produce value __now__
-                - And also produce value __in the future__
-            - you quickly start benefitting both from information you are consuming now, and the information you've consumed in the past (compound/accelerating returns)
-                - __The brain detects the beginnings of this exponential curve, and extrapolates it forward, giving you anticipation, desire, excitement, and motivation – the crown jewels of creative productivity. In effect, the brain imagines a future based on the present, which then becomes a self-fulfilling prophecy.__
-                - Link to **Progressive summarization** - each layer of summarization is exponentially faster than the previous one
-    - **Emotional agility**
-        - **Daniel Goleman**'s book proposed **Emotional intelligence** but Tiago thinks  agility more important
-        - You have to wear many hats, not just knowledge but also __ways of being__ required for each of them differ
-- Speed
-    - information decays
-        - **accuracy** - more accurate understanding replaces previous state of knowledge
-        - **relevance** - some things change more quickly than others
-        - **awareness** - information gets unloaded from our brains as we move to other tasks
-        - **memory** - our memory fades over time
-    - because of the time required to create **placeholders**, and the **startup cost**, there's a positive feedback loop on how much time is required
-    - **speed** - **acceleration**
-        - cultivating ability to **change** speed and direction, modulating as you go
-        - trying to avoid bridging costs, and instead always focusing on small deliverables
-        - not starting things at the end of a work session (&#8203;<mark>even though some authors will always leave themselves a few pages into the next page, to make it easier to start the next morning</mark>)
-- Workflow strategies
-    - Planning
-        - **Archipelago of ideas**
-            - Instead of starting with a terrifying blank page, Archipelago of Ideas has you collect a batch of starting ideas from the most relevant notebooks, which you then just have to string together. You can collect these ideas in your notes slowly over time, summarizing the words or phrases that resonate the most, and when the time comes to put them to use, create an outline with the ideas that seem relevant for the project at hand.
-        - **Headings first** (outline)
-    - Offloading
-        - **Color commentary**
-            - adding thoughts/ideas directly where they were sparked (&#8203;<mark>that's what I'm doing</mark>)
-        - **Status summary**
-            - summarize in plain language the current status, for the benefit of your future self
-                - details
-                - remaining tasks
-                - next steps
-                - open questions
-                - observations
-    - Tracking
-        - **Meta-plan**
-            - A list of tasks you'll complete on the way to completing deliverable, "making a plan for making a plan", like list of sources to review. Gives sense of progress.
-        - **Temporary tags**
-            - Add tags such as reviewed, that are only used in one project, to track how you're reviewing notes etc.
-        - Interlinking, hierarchy of tags etc
-    - Searching
-        - **Brainsweep**
-            - search for a broad topic like "marketing" in your second brain
-    - Adapting
-        - **Dial down the scope**
-            - Staging work as series of short sprints
-        - **Context switch**
-            - When you are stuck. Switch locations, state of mind, or switch project to work on. See it through the eyes of another person - share with a colleague.
-    - Remixing
-        - **Sentence hacking**
-            - Extract and combine text from an article according to your perspective, to add new insight/links
-        - **Function follows form**
-            - Often, they key to a breakthrough is reframing what you're looking at
-                - **Chronologically**: put a series of ideas or steps in chronological order
-                - **Prioritized**: sort a list by priority, or importance, or urgency
-                - **Sequentially**: put items in order by function, or by stages in a workflow
-                - **By objective**: put each item in a list under its objective or desired outcome
-                - **By size**: order items from largest to smallest, or the reverse
-                - **By theme**: re-order a list by theme or topic, looking for patterns or groupings you didn’t see before
-                - **Question-answer**: rewrite your ideas in the form of questions and answers
-                - **By shape**: try mapping your ideas to different shapes like a circle, square, triangle, or hexagon, looking for any interesting patterns
+- <a id='KV-CjxuY5'/>#public
+- <a id='d36ClZWVZ'/>Link:: https://praxis.fortelabs.co/series/just-in-time-project-management/
+- <a id='mWVGpOTWu'/>blogged http://reganmian.net/blog/2020/01/31/note-taking-with-roam/
+- <a id='_Cl5ZslUZ'/>**Key questions/observations:**
+    - <a id='zhiFOzlWr'/>are there still valuable intermediate packets that are not public (ie. [[Zettelkasten]], also ref ((Ce2MvOaCb))
+    - <a id='SFC6CzQVU'/><a id='UWWz3uJJC'/>&#8203;<mark>This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?</mark>
+    - <a id='9WAoGcrO1'/>Attempt many different projects network etc, however <a id='u6mTtGbNz'/>&#8203;<mark>However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.</mark>
+- <a id='1T_J043QO'/>Key metric, **Return-on-Attention**
+    - <a id='oTeM2-N9i'/>based on **Return-on-Investment**, which assumes abundance of projects, choose best one
+    - <a id='Obf44JgJS'/>**now**, we have to nurture **promising projects** - but this takes an incredible amount of sustained attention
+        - <a id='D8wJVdjSl'/>**Projects**
+            - <a id='dPpldnE8K'/>have become non-linear, complex emergent phenomena
+            - <a id='zNnjWF-5i'/>**understanding projects takes as many units of attention as acting on them - makes more sense to plunge in with exploratory action, instead of trying to predict what will happen**
+                - <a id='V4OAcP9Sv'/>&#8203;<mark>similar to "fail fast" etc</mark>
+            - <a id='xXSjvnMN_'/>&#8203;<mark>we need systems for managing our attention that produce value __now__, not eventually</mark>
+    - <a id='k9OrjT8wB'/>&#8203;<mark>attention is the scarcest resource for knowledge workers</mark>
+        - <a id='mC7eUkptE'/>****attention****
+            - <a id='srmVjAMpX'/>units of attention are not created equal
+                - <a id='IjIm7myDc'/>one minute of deep, tranquil state worth 100 minutes waiting in line
+                - <a id='2oxazzonJ'/>one hour of close collaboration vs 100 hours of small-chat
+                - <a id='LTrPJAgvm'/>**state of mind/mood shapes quality of attention**
+- <a id='zTEUg0h7v'/>State of **flow** - __startup costs are high, so we need to work on **Intermediate Deliverables** and **Placeholders**__
+    - <a id='XhO_ys5BQ'/>cognitive processes
+        - <a id='4lqrtllhy'/>"transient hypofrontality" - prefrontal cortex, seat of higher level thinking, which also contains inner critic, goes dormant #mind
+        - <a id='gEYYVdgX4'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FsDpffhdrUi?alt=media&token=6040b2e3-c75d-4a27-bf31-d8e803ba9a9f)
+        - <a id='i_d0qL3mN'/>Cascade of neurochemicals, each kicking off the next
+            - <a id='QtpO9PVxc'/>**Norepinephrine** tightens focus, as we lose track of time and our surroundings and that attention is redirected to the task at hand
+            - <a id='E4gUiOMTf'/>**Dopamine** makes us anticipate the next discovery with excitement, while also improving the pattern recognition essential to creativity
+            - <a id='fE91eKP83'/>**Anandamide** improves lateral thinking, helping us route around obstacles in our thinking
+            - <a id='9L3qoYgKT'/>**Nitric oxide** suppresses the stress response that comes with creative risk-taking
+            - <a id='9tsxFK8vx'/>**Endorphins** give us a sense of inner tranquility and enjoyment as our efforts begin to pay off
+    - <a id='AwXGhuw4G'/>benefits
+        - <a id='nB-rvLTqt'/>intersection of peak enjoyment, performance and learning
+        - <a id='msioTktJT'/>satisfaction in work/life related to time spent in flow - [studies](https://books.google.pt/books?id=lNt6bdfoyxQC&pg=PA312&lpg=PA312&dq=time+spent+in+flow+correlated+with+work+satisfaction&source=bl&ots=kaJzlqh3Dd&sig=KeW4kFPuXUHznS37jpIk3Om_uMc&hl=en&sa=X&ved=0ahUKEwiUmYr16ZHbAhWr0aYKHXbDBNwQ6AEIPzAD#v=onepage&q=time%20spent%20in%20flow%20correlated%20with%20work%20satisfaction&f=false)
+        - <a id='QAL-2tzJO'/>humans operating at the edge of intellectual capability - fulfilling potential.
+    - <a id='NCtAgAO6S'/>how?
+        - <a id='YJDwTvo0f'/>[[Deep Work]] by **Cal Newport**
+            - <a id='taLudDBz0'/>__heavy lifts__
+                - <a id='lAOS5Zw7C'/>blocking off long, uninterrupted stretches of focus time
+                - <a id='73MZB6wCt'/>single-tasking for as long as possible
+                - <a id='UDH0f4w5G'/>back-to-back “sprints”
+                - <a id='anjTHncYa'/>managing the work-in-process in your head.
+            - <a id='yOPk_whNO'/>they are socially isolating, take a toll on bodies and mind.
+        - <a id='LT7jeDiqp'/>alternative?
+            - <a id='bEQ-KP3tU'/>triggers don't require minimum block of time?
+                - <a id='WOs2yyxQm'/>**internal**
+                    - <a id='7C5K6M7D4'/>clear goals
+                    - <a id='cZc_Weabj'/>immediate feedback
+                    - <a id='y00ZbTirK'/>challenge-skill ratio
+                        - <a id='T7O7DdWvV'/>easier to calibrate with smaller undertaking
+                - <a id='Ic0yINmUv'/>**external**
+                    - <a id='EvSbc1j3U'/>presence of risk
+                        - <a id='tLLX_7Y2X'/>substitute risk of not delivering on something large, with creative risk on going deeper on something small
+                    - <a id='YvxmgGrHG'/>deep embodiment ??
+                        - <a id='q1auhDIL4'/>outsourcing memory to software frees you up to be present in the moment
+                    - <a id='xc8SWhM-M'/>rich environment
+                        - <a id='aEBVoWLVb'/>brain as pattern recognizer - trigger ideas based on existing thoughts, notes, media, sketches
+            - <a id='Xp_WweuON'/>Work phases
+                - <a id='dway6PJ1h'/>Setup/startup/warmup
+                    - <a id='twVV2cN2P'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F0iqwxwjvqz?alt=media&token=0dbfbdd8-ec46-4380-a4a5-1f410ac925a5)
+                    - <a id='vf_x0WWrd'/>environment
+                    - <a id='VhvsvNCca'/>mental
+                    - <a id='Qkfza7T7u'/>emotional
+                - <a id='mVpdJqMMp'/>Four stages of **flow**
+                    - <a id='P1DuxAmjT'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FZSSje4m6V2?alt=media&token=c56b32ee-d95b-4f5b-b2cd-03398d382d09)
+                    - <a id='s34nFxJU6'/>struggle <a id='dway6PJ1h'/>Setup/startup/warmup
+                        - <a id='WYk0bdsEz'/>creative risk experienced as physical risk - **cortisol**, **adrenaline** - stress and anxiety rises when you sit down to perform focused work
+                        - <a id='EyodUja9y'/>getting into flow is very __expensive__ - **are you sure this is worth getting into flow for?**
+                            - <a id='W8zpoRvNL'/>**neurochemically** - brain burns neurotransmitters faster than it can produce them?
+                                - <a id='0EIqfjTz9'/>multiple layers of cortical neurons have to build up their action potentials as they recognize patterns and make connections, which takes energy. **A Pattern Recognition Theory of Mind**
+                            - <a id='JI4XKdDtb'/>**in evolutionary terms**, as you lose awareness of your surroundings and thus become more vulnerable to threats in the environment.
+                            - <a id='OTUZzOj5F'/>**in terms of opportunity cost**, as you push aside competing options and dedicate hours to a single pursuit.
+                    - <a id='4BzcGR9fO'/>release
+                    - <a id='qNcwNzC17'/>flow
+                    - <a id='vNrunctYL'/>recovery
+- <a id='PPmcW31K1'/>Problem with focusing on big end-product
+    - <a id='D6JpDZ84B'/>But all the products, the value you create, is created at the very end.
+        - <a id='6RYCGNVyn'/>And you might not succeed - all that risk, with nothing to show for it.
+    - <a id='ubMyu4V4r'/>And you loose all context the moment you step away
+        - <a id='83-gz_A-s'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FLgW0xwVTNW?alt=media&token=f2549434-fd28-44dc-86e3-30449d4b6930)
+        - <a id='rzYCZo37r'/>__As soon as you step away from your desk, all the knowledge you spent so much attention to “load” into your mind – the ideas, priorities, questions, concerns, objectives, problems, potential solutions, examples – promptly gets “unloaded.”__
+        - <a id='B8xBGpH68'/>__As you step away for lunch, all those potential connections and jumping off points you spent so much attention to acquire just dissolve away. All the intermediate artifacts from that mental labor – the notes, drafts, outlines, files, brainstorms, rough sketches, websites, research, illustrations, screenshots, statistics, mindmaps, diagrams, articles – if we keep them at all, remain disconnected, fragmented, and hidden, scattered across dozens of different apps and folders.__
+- <a id='8uQzIwuVr'/>**Intermediate Deliverables** (/Packets)
+    - <a id='Zdfs-ebfq'/>goal is having a **personal knowledge base** which grows over time
+        - <a id='Q5vb_CBkI'/>reuse past work
+        - <a id='Mhw-FM6ck'/>draw from past experiences
+        - <a id='dfxa8umvi'/>build products and services out of knowledge
+    - <a id='crOHoRBSI'/>structure your work as a series of **Intermediate Deliverables**
+        - <a id='gv2qpyJ3r'/>__Instead of delivering one big lump of value at the very end, you stage your progress in a series of short, intense sprints, ending each one with a tangible, intermediate deliverable, like a set of notes, a brainstorm, a series of examples, an outline, a prototype, or a draft.__
+    - <a id='q6wiKbK5m'/>Advantages:
+        - <a id='iSlZreFdC'/>You become **"interruption proof"** (don't need to load entire project in your mind at once)
+        - <a id='mrReOYKw9'/>More frequent opportunities for **feedback**
+            - <a id='AzN6jphfV'/>people give better feedback on rough drafts or outlines, than on highly polished work
+        - <a id='hcXUR2uyc'/>you can create **value** in any span of time
+            - <a id='jPHzxe-sI'/>mood-based productivity
+            - <a id='HHgXUOWgL'/>context-based (reading Kindle on the subway etc)
+        - <a id='H3S7Ny794'/>**big projects are less intimidating**
+        - <a id='_yVWkagXQ'/>**ability to reuse previously built packets for new projects**
+            - <a id='aqOLSYFFR'/>&#8203;<mark>does [[Zettelkasten]] notes qualify as packets?</mark>
+            - <a id='PnplUDP_h'/>&#8203;<mark>are packets always public (or shared with colleagues)? Producing something for others as motivation to synthesize</mark>
+        - <a id='mUOunTSwX'/>link to criteria for Flow - <a id='bEQ-KP3tU'/>triggers don't require minimum block of time?
+                - <a id='WOs2yyxQm'/>**internal**
+                    - <a id='7C5K6M7D4'/>clear goals
+                    - <a id='cZc_Weabj'/>immediate feedback
+                    - <a id='y00ZbTirK'/>challenge-skill ratio
+                        - <a id='T7O7DdWvV'/>easier to calibrate with smaller undertaking
+                - <a id='Ic0yINmUv'/>**external**
+                    - <a id='EvSbc1j3U'/>presence of risk
+                        - <a id='tLLX_7Y2X'/>substitute risk of not delivering on something large, with creative risk on going deeper on something small
+                    - <a id='YvxmgGrHG'/>deep embodiment ??
+                        - <a id='q1auhDIL4'/>outsourcing memory to software frees you up to be present in the moment
+                    - <a id='xc8SWhM-M'/>rich environment
+                        - <a id='aEBVoWLVb'/>brain as pattern recognizer - trigger ideas based on existing thoughts, notes, media, sketches
+    - <a id='HJggGXPnQ'/>Small batch sizes
+        - <a id='iqvsIViEt'/>**Toyota Production System**
+        - <a id='7aPMwiHv9'/>**continuous integration** in **software development**
+        - <a id='3zaOeT3KD'/>**The Lean Startup** - fail quickly
+    - <a id='iZdf8R2fH'/>a dashboard for meta-work
+        - <a id='YWVYlhrwO'/>![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F5oEhvIzGjT?alt=media&token=7ab415de-a2f3-4221-92b4-6e73a345d321)
+        - <a id='TwVSMgCBN'/>iron triangle of **Project management** - traditionally workers had little control - but now projects <a id='dPpldnE8K'/>have become non-linear, complex emergent phenomena
+            - <a id='040CBrM7k'/>time
+                - <a id='gXSN1fzvX'/>the deadline. **now**: downscope into small parts, work evenings and weekends
+            - <a id='nJLAx7hiZ'/>budget
+                - <a id='WbUICcFSN'/>central - **now**: lack funding for big, downscope, create something you can charge for, raise funds for the bigger version
+            - <a id='Vh9DXYxmJ'/>scope
+                - <a id='HV65XV8Pn'/>specific spec from management - **now**: can change at any time.
+    - <a id='ImG29c5wv'/>Attitude towards information
+        - <a id='P8eeYdIKM'/>consumption
+            - <a id='ECO9B0cK3'/>information intake
+            - <a id='SNO_6XyJA'/>planning stage
+                - <a id='1DaELs9sG'/>make decisions
+            - <a id='IoId63URI'/>implementation stage
+        - <a id='thkGTLqAJ'/>we need to collapse these, **constructivism**, learning is an active process. Put something on the line, allow yourself to fail.
+            - <a id='3NEmV2Jls'/>&#8203;<mark>There's a strong bias in academia for not publishing something if it is not genuinely new, or you have a very strong grounding. Even in blogosphere, I might feel that there's no point in me writing about productivity if Tiago has written a much better post, that I can link to.</mark>
+            - <a id='P08uVaZwt'/>&#8203;<mark>Perhaps one way of overcoming this is making the format of publication intentionally "draft-y". But will this get readers/feedback, and will it be a good enough motivation to actually put effort into synthesizing, or just dumping my notes?</mark>
+            - <a id='0qd720CrW'/>&#8203;<mark>Easier trade-off for entrepreneurs who live on their own reputation and SEO etc, but for someone working in a company, trade-off with how much time you spend on this</mark>
+            - <a id='Pp-i3_Dbi'/>&#8203;<mark>Also question about context - if I am taking notes for myself, I assume all of my own knowledge. If I share with a few colleagues, I assume a lot of shared context. One way of adding value might be to write it up in a way that it was actually understandable by others, outside of my field. But huge effort. On the other hand, potentially very helpful to aid genuine understanding?</mark>
+        - <a id='w38AEmH1P'/>products (generative)
+            - <a id='3EOI6ddW1'/>writing, tweeting etc
+            - <a id='xXbtdsF-7'/>making diagrams, sketches and visual overviews - &#8203;<mark>I could experiment more with this</mark>
+            - <a id='GJdqBoPYa'/>performing - recording video, presenting at local meetup etc.
+            - <a id='TId0EiIiZ'/>producing (&#8203;<mark>how is this different from writing? more finished product?</mark>)
+            - <a id='Lpk1k69vM'/>translating into a different product (&#8203;<mark>what I'm doing right now with my notes from Tiago's blog series?</mark>)
+        - <a id='Oe2HQ99S6'/>selling
+            - <a id='ThdXxQBpl'/>most powerful - puts you in direct contact with reality. **Can include any exchange of value, not just financial** (I guess this includes pitching something internally?)
+- <a id='mcgcXwkHS'/>Workflow
+    - <a id='EOK7ygRIe'/>(see <a id='ksMuLSOsv'/>Workflow strategies below)
+    - <a id='g_lsIeQuq'/>get started
+        - <a id='IqsMU66Se'/>people wait with getting started until they have enough time/money. Downscope.
+    - <a id='57YF0Z95Y'/>maintain momentum
+        - <a id='gRlga4Gd6'/>modulate progress depending on how other things are going. Make progress in smaller chunks.
+    - <a id='PZzg3mzuL'/>test assumptions - **a learning process** - &#8203;<mark>design your deliverables/packets specifically to learn/test certain assumptions</mark>
+        - <a id='RhZEI8pxf'/>**questions** to be answered
+        - <a id='BRZtXSYaR'/>**assumptions** to be tested
+        - <a id='GG_xNdNuy'/>**hypotheses** to be proven
+        - <a id='epZcQyd5n'/>**there is always a smaller/simpler version of whatever you're seeking to create**
+        - <a id='UWWz3uJJC'/>&#8203;<mark>This is assuming you have an audience - easy for Tiago to put something out there, even a tweetstorm. If I publish a blog, and nobody reads it? If I write something, and nobody in my company has the time to provide feedback? If the people I need feedback from (academic colleagues) are too busy to provide feedback on drafts?</mark>
+- <a id='ueWoq_quP'/>Divergence and convergence #**divergence** #**Emergent Productivity** #**Productivity Research**
+    - <a id='WgG-mBvGN'/>overview
+        - <a id='UBa4rErOg'/>concept from **design thinking**
+        - <a id='EX-OoNTpp'/>all creative work completed in these two modes, alternating
+            - <a id='Kt44mfKF6'/>relationship to **mood-based productivity**
+        - <a id='zqtqpK2xb'/>**divergence** (scope of work expanding)
+            - <a id='ahkK5osTn'/>widening the range of possibilities, options, ideas, pathways
+            - <a id='ok3ycRvlq'/>consuming, investigating, experimenting
+        - <a id='BzsFAv29F'/>**convergence**
+            - <a id='LAxzzSn7I'/>conclusion, decision, deliverable
+            - <a id='PzuloapP6'/>focus, discarding, eliminating, producing, converging
+    - <a id='a3WVhgkgw'/>**Placeholders**
+        - <a id='42GVUKsXm'/>we need better placeholders - preserves the current state of project so we can switch away without losing our progress
+        - <a id='nlrFHxJ6a'/>examples
+            - <a id='lWmnHNFid'/>short summaries of websites you found, and why you think they are useful
+            - <a id='NQPguOhFf'/>assigning action items after a meeting
+            - <a id='XKiCQbpIt'/>outline of top learnings from conference/event
+            - <a id='OFmBtyTmn'/>review of book on Goodreads
+            - <a id='COPYI519B'/>photos of best slides from a presentation, with some comments
+        - <a id='sSJDaFU5B'/>are **Intermediate Deliverables**
+        - <a id='lF5PA-ugj'/>can only be done in **convergence** mode - need to end each session with a quick bout of convergence (**summary/conclusion**)
+            - <a id='earEup407'/>structure everything you do as an intermediate packet,
+            - <a id='QCz63GaII'/>end each work session with a clear deliverable,
+            - <a id='X0X89n4E2'/>send them off for feedback whenever possible,
+            - <a id='RuuxoOzvY'/>offload to your digital notes every possible bit of thinking during this entire process.
+- <a id='US3HIyJ3S'/>**Just-in-Time** paradigm
+    - <a id='XTYzFyvdn'/>best to do most tasks "as late as possible"
+        - <a id='iDsp9iaX9'/>**late starts** (**Critical Chain Project Management**)
+            - <a id='3TbP48Y-Y'/>developed by **Eliyahu Goldratt**, based on **Theory of Constraints**
+            - <a id='VVgcYwL9i'/>**attention** and **people** are the most important constraints in projects, not **time**, **machines** or **raw material**
+            - <a id='U5C9pve6t'/>**critical path**
+                - <a id='PHF3tuRsd'/>dependencies between tasks
+                - <a id='L7P12o4ps'/>tells us **where to start**, **what to prioritize**, **soonest possible completion date**
+                - <a id='TjwkOVQNW'/>in project with many collaborators, everyone starts off full speed - but might not be best way to spend resources (maybe research initially takes a long time, should be done by one person)
+                    - <a id='rpD-tI4-w'/>**By pulling many people onto the project early, the total cost balloons immediately, raising the stakes for “getting it right” and possibly stifling experimentation**
+                - <a id='K4Uh1madz'/>**Parkinson's Principle**
+                - <a id='s_JXBieuH'/>related to **procrastinate**, everyone works close to deadline anyway
+    - <a id='RDONwzfcI'/>**structure** can be added later - restructuring not only possible, but best possible way
+        - <a id='GHJKGcLbq'/>re **Progressive summarization**, **Progressive formalization** by **Joel Chan**
+        - <a id='j3NOoQYpz'/>&#8203;<mark>but what if you never create structure, like my photos?</mark>
+    - <a id='omYPB3vRr'/>**Features** can also be added later - __release early, release often__
+        - <a id='hZP7_rqdT'/>&#8203;<mark>difference between blog post and wiki though... who wants to come back to a half-assed blog post when it has been improved?</mark>
+        - <a id='vAlSkFxZ_'/>launch a **container**, and fill it slowly over time via **releases** - discrete packets of incremental value. (&#8203;<mark>Like the course that **Lukas Kawerau** released... or an MVP website that only takes sign-ups and has no product</mark>)
+            - <a id='bax0IHXYm'/>called **versioning**, powerful form of downscoping
+    - <a id='wPsPecHXf'/>**purpose** can be added later
+        - <a id='7pHVz9Adk'/>(&#8203;<mark>[[Zettelkasten]], gathering without a purpose - but sometimes it's more powerful to be guided by various projects in progress - of course they can be modified as you learn more</mark>)
+        - <a id='z-fK_YZVB'/>__You can write an email to a colleague explaining how to use an internal software program, and suddenly realize it could easily be turned into a wiki for future employee reference.__
+            - <a id='Efa8sIg0j'/>&#8203;<mark>This is powerful, I have so many notes, emails and videos laying around. How can I effectively reuse them, and make them shared more widely? And how can I be more effective going forwards - linking to public notes, instead of writing long emails?</mark>
+    - <a id='wIsgMNrcE'/>**Only possible and humane if**
+        - <a id='6QH0cFdER'/>downscoping and upscoping (****flexible scope****)
+        - <a id='mO2bGMIP-'/>**Placeholders**
+        - <a id='ABtav3w3l'/>**Intermediate Deliverables**
+        - <a id='j9487N01n'/>**E: Convergence and divergence**
+    - <a id='gClwF2q4f'/>**Culture change in teams**
+        - <a id='PRTRWwuJy'/>**implicit trust** (sacrifice own productivity to enable others on critical path)
+        - <a id='afaO8uo5w'/>**strong alignment and buy-in on purpose**, late starts prioritize overall project at expense of any single component
+        - <a id='Q33Q9jJxU'/>trust in **ability to self-manage/responsibility**
+        - <a id='UEWMMf3rF'/>**openess/candor**
+    - <a id='3IourgPbB'/>**Risk**
+        - <a id='Qqfdju2He'/>working digitally, it's easy to start things and hard to finish
+            - <a id='MIUYa8vEJ'/>**Intermediate Deliverables** as one solution
+            - <a id='yXWZIwS18'/>**convergence**
+- <a id='J8oyCjIKB'/>What should I work on now?
+    - <a id='DCXgiJRrR'/>&#8203;<mark>Nothing here on goals, reviews etc - I guess that's orthogonal, lot's of great points below on how to take goals and actually make progress. But would have been nice to mention.</mark>
+    - <a id='ozkGqdjZg'/>From **GTD** to the possibility of working on anything anywhere
+    - <a id='05QoyOC_E'/>**Create subcomponents as early as possible**
+        - <a id='MUrDS5TSo'/>inherently valuable piece of potential future project
+        - <a id='pn_lDkgRT'/>low-risk time consuming activities early
+            - <a id='QHU9EdbrL'/>&#8203;<mark>danger of analysis paralysis? PhD students spending four years on literature review -- even if they wrote some great blog posts, still not good for career</mark>
+        - <a id='TzYr0x41m'/>**component thinking** / modularity
+            - <a id='ogrdqSdlA'/>each gives **optionality**
+            - <a id='XgVbWYW9t'/>can be **reused**
+            - <a id='nbFWHzyCp'/>can **remove uncertainty**
+        - <a id='kLDllZHI2'/>solving through **analysis** - separating problem into smaller part, or **synthesis**, making things and putting them together (**E: Convergence and divergence**)
+    - <a id='WwpukSY5M'/>&#8203;<mark>Seems like a lot of repetition from earlier writings about **Intermediate Deliverables**</mark>
+    - <a id='ougC2hfd7'/>**Packet switching** as metaphor to increase "bandwidth" of productivity (using same packets for multiple tasks)
+        - <a id='IqUR5E_ri'/>nodes also include other people (including networks, Twitter followers etc), and software/services
+        - <a id='8dMh4rBZS'/>shift from **knowledge worker**, doing one task at a time at fixed rate, to **knowledge manager**, routing jobs to the best nodes
+    - <a id='XikuiWHBg'/>**Multithreading** - rapidly switching between projects, making progress on many fronts simultaneously
+        - <a id='p1ZWzPr7N'/>projects often have delays
+            - <a id='DsxbndTEk'/>roadblocks
+            - <a id='t3ULwIHV7'/>blind alleys
+            - <a id='8oIyJ914e'/>communication loops (waiting on response)
+            - <a id='lfxkFO0Ij'/>require feedback/testing
+        - <a id='F1fv8umLe'/>opportunities are **non-linear** and **assymetric**
+            - <a id='JxDGHSJxC'/>the one in hundred that takes off could produce more return than the 99 others. Downside of failing is ever smaller, upside of winning ever higher.
+            - <a id='u6mTtGbNz'/>&#8203;<mark>However, definitively danger in spreading yourself too thin, getting involved in too many networks. At least in academia, visibility etc are all good, but at the end of the day, only journal articles count. Probably different for entrepreneurs. Even there though - being known as an expert on something, as opposed to knowing a bit of everything, in this world where there are so many experts on everything... Finding a niche.</mark>
+    - <a id='-6UGeWsZ3'/>Thinking of yourself as **project portfolio manager**
+        - <a id='GIJ1WulOs'/>which projects to start ("promisingness")
+            - <a id='4WrX8LfXD'/>Natural to focus on **throughput**, but should focus on **throughput per **constraint unit**** - related to **mood-based productivity**
+                - <a id='D9RCZRRje'/>if you only have 3 hours of Flow time per week, but 20 hours of superficial attention, the 3 hours are the constraint, so choose the project with the highest pay-off per hour of Flow, not hour in general
+            - <a id='pn2edqahr'/>**Good inputs**:
+                - <a id='4EuJ2nN3m'/>expand how many **constraint units** we have available (establishing repeatable process)
+                - <a id='D48ZoV1-6'/>prioritize projects that take **constraint unit**s to build, and are self-perpetuating
+                - <a id='cREyDSIXj'/>kill projects that require too many **constraint unit**s per output
+                - <a id='khh7VmHEW'/>use mild focus time on things that improve quality of constraint units, like meal planning, exercise
+                - <a id='YAXODCU1-'/>collaborate with others, trading our light focus time for their deep focus (and vice versa)
+        - <a id='bAuK3jGK2'/>maximizing project completion
+- <a id='DqmZkPQDU'/>**State of Mind** (re **mood-based productivity**)
+    - <a id='TknV2uBHk'/>Characteristics
+        - <a id='jx3xXWFBb'/>difficult or expensive to reproduce (in contrast to simple emotions)
+            - <a id='cMcPNh5ON'/>often requiring long spans of time, certain substances, rituals, or environments to reproduce. A week in meditation, cancelled meetings, an assistant to deal with bureaucratic work.
+        - <a id='bUjQ8Q2_y'/>primarily somatic and affective, not intellectual (in contrast to belief systems or worldviews)
+        - <a id='_TGgZRHxm'/>temporary and ephemeral (in contrast to mindsets or attitudes)
+        - <a id='stIkQPuJM'/>unpredictable
+            - <a id='Cw9yuBZHF'/>you can set up the right conditions, but cannot force it
+        - <a id='BRE8-bDeg'/>leverage
+            - <a id='lnEk0kDn7'/>dramatically influence how much energy it takes to complete a given task
+                - <a id='kLNEFnW00'/>When you’re in Errand Mode, running an additional errand doesn’t take much extra energy. But if you’re in the middle of a deep focus session, even the simplest errand can feel like a harsh imposition.
+        - <a id='qgH2ONyit'/>&#8203;<mark>how is this affected by meditation, and other kinds of exercises? Better ability to control state of mind? More time spent in productive states of mind in general?</mark>
+    - <a id='AclYkmGkR'/>**Motivational waves** #motivation
+        - <a id='GCywjvld2'/>humans are wired for **rhytm**, **cycles**
+        - <a id='CMh18u07t'/>motivation is not a single phenomenon of high/low, but has a directionality
+            - <a id='1cgFw0Aem'/>&#8203;<mark>link to **willpower**, [[willpower **depletion**]], **Habit Formation**</mark>
+        - <a id='vA-xFEL3b'/>"routing jobs through time"
+        - <a id='B7HhO-_yl'/>**Function of mood is to create momentum in the mind**
+            - <a id='oaY9PHWy3'/>#toRead http://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6#title-footnote-tb0015
+            - <a id='UD73dOzoO'/>in nature, sources of reward are correlated (find three apples in short period of time) - moods drive us to act opportunistically
+                - <a id='avM8tq2an'/>__Our brain extrapolates that what has just happened will keep happening, forms expectations of the rewards it will encounter, generating anticipation, which is the key motivator of action.__
+                - <a id='LYyUqniZr'/>__This is the source of the advice to **“fake it till you make it,”** which absolutely works. We can essentially trick ourselves into a certain mood by creating a series of small wins, which put us “in the mood” to pursue even more, which generates more wins, which further puts us in the mood. By taking some action, however superficial or insecure, you “prime the pump” of your emotions in a certain direction. Action primes emotion, and then emotion primes further action, in a feedback loop.__
+            - <a id='v6QxD1Eov'/>**Psychological capital**
+                - <a id='tZR-j5THs'/>“Psychological capital is developed through a pattern of investment of psychic resources that results in **obtaining experiential rewards from the present moment** while also **increasing the likelihood of future benefit**.”
+                    - <a id='Urs3Q6r3U'/>#toRead https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1010&context=leadershipfacpub **Mihaly Csikszentmihalyi**
+            - <a id='8lRLypbKv'/>Generate momentum by
+                - <a id='IQ1zm6cec'/>Structuring our work to produce value __now__
+                - <a id='_ZGP_bNwb'/>And also produce value __in the future__
+            - <a id='4Wl22wIvj'/>you quickly start benefitting both from information you are consuming now, and the information you've consumed in the past (compound/accelerating returns)
+                - <a id='J1B3c7o8e'/>__The brain detects the beginnings of this exponential curve, and extrapolates it forward, giving you anticipation, desire, excitement, and motivation – the crown jewels of creative productivity. In effect, the brain imagines a future based on the present, which then becomes a self-fulfilling prophecy.__
+                - <a id='ZhDOKeyQM'/>Link to **Progressive summarization** - each layer of summarization is exponentially faster than the previous one
+    - <a id='wohsELicv'/>**Emotional agility**
+        - <a id='AL7UE95WR'/>**Daniel Goleman**'s book proposed **Emotional intelligence** but Tiago thinks  agility more important
+        - <a id='1JkZhAt8L'/>You have to wear many hats, not just knowledge but also __ways of being__ required for each of them differ
+- <a id='NzPgjcVi6'/>Speed
+    - <a id='aw5DXMkKL'/>information decays
+        - <a id='SI1_L8kk5'/>**accuracy** - more accurate understanding replaces previous state of knowledge
+        - <a id='yfhVZshMW'/>**relevance** - some things change more quickly than others
+        - <a id='g9nZZovbv'/>**awareness** - information gets unloaded from our brains as we move to other tasks
+        - <a id='5qkkWY2zl'/>**memory** - our memory fades over time
+    - <a id='Zn_HI3Dh6'/>because of the time required to create **placeholders**, and the **startup cost**, there's a positive feedback loop on how much time is required
+    - <a id='6kPNseAXU'/>**speed** -> **acceleration**
+        - <a id='h7gRgtjJj'/>cultivating ability to **change** speed and direction, modulating as you go
+        - <a id='WVNbAK4-K'/>trying to avoid bridging costs, and instead always focusing on small deliverables
+        - <a id='qNDaA2RNM'/>not starting things at the end of a work session (&#8203;<mark>even though some authors will always leave themselves a few pages into the next page, to make it easier to start the next morning</mark>)
+- <a id='ksMuLSOsv'/>Workflow strategies
+    - <a id='0WV3tnBrc'/>Planning
+        - <a id='t6f2FNsvx'/>**Archipelago of ideas**
+            - <a id='8F1gbfPmz'/>Instead of starting with a terrifying blank page, Archipelago of Ideas has you collect a batch of starting ideas from the most relevant notebooks, which you then just have to string together. You can collect these ideas in your notes slowly over time, summarizing the words or phrases that resonate the most, and when the time comes to put them to use, create an outline with the ideas that seem relevant for the project at hand.
+        - <a id='kiLpCNg7-'/>**Headings first** (outline)
+    - <a id='mmsrop6RQ'/>Offloading
+        - <a id='Uq5015Mwe'/>**Color commentary**
+            - <a id='O7xE3-Xlm'/>adding thoughts/ideas directly where they were sparked (&#8203;<mark>that's what I'm doing</mark>)
+        - <a id='6fuJ8_oGs'/>**Status summary**
+            - <a id='DptuGV-b_'/>summarize in plain language the current status, for the benefit of your future self
+                - <a id='QN-S849AM'/>details
+                - <a id='cuhqiXRE_'/>remaining tasks
+                - <a id='h2fVKG5dm'/>next steps
+                - <a id='eofjXHN53'/>open questions
+                - <a id='r1x-R9X0S'/>observations
+    - <a id='tLd6BHAES'/>Tracking
+        - <a id='dHctLliTp'/>**Meta-plan**
+            - <a id='p-zUDAjdF'/>A list of tasks you'll complete on the way to completing deliverable, "making a plan for making a plan", like list of sources to review. Gives sense of progress.
+        - <a id='xB_ChMSvN'/>**Temporary tags**
+            - <a id='lhTqiMCJe'/>Add tags such as reviewed, that are only used in one project, to track how you're reviewing notes etc.
+        - <a id='OQtfJ70eU'/>Interlinking, hierarchy of tags etc
+    - <a id='dYdATkPuz'/>Searching
+        - <a id='c2dObSGim'/>**Brainsweep**
+            - <a id='8HZKs169v'/>search for a broad topic like "marketing" in your second brain
+    - <a id='dYDf6cSAW'/>Adapting
+        - <a id='t2Ns6lGzg'/>**Dial down the scope**
+            - <a id='1jjk6QyQ6'/>Staging work as series of short sprints
+        - <a id='HJi06zs8j'/>**Context switch**
+            - <a id='KYMySY2f5'/>When you are stuck. Switch locations, state of mind, or switch project to work on. See it through the eyes of another person - share with a colleague.
+    - <a id='exASMYA_j'/>Remixing
+        - <a id='Uwz0V3kST'/>**Sentence hacking**
+            - <a id='RLfkQfKD-'/>Extract and combine text from an article according to your perspective, to add new insight/links
+        - <a id='Lg5vubDy8'/>**Function follows form**
+            - <a id='i7cJEuJVP'/>Often, they key to a breakthrough is reframing what you're looking at
+                - <a id='02vTwyk8e'/>**Chronologically**: put a series of ideas or steps in chronological order
+                - <a id='Ul4FUHDui'/>**Prioritized**: sort a list by priority, or importance, or urgency
+                - <a id='78OJrjYr5'/>**Sequentially**: put items in order by function, or by stages in a workflow
+                - <a id='6Yeifwx6S'/>**By objective**: put each item in a list under its objective or desired outcome
+                - <a id='14n9zC3Nn'/>**By size**: order items from largest to smallest, or the reverse
+                - <a id='Hpq-rJImT'/>**By theme**: re-order a list by theme or topic, looking for patterns or groupings you didn’t see before
+                - <a id='DK9Pulu8N'/>**Question-answer**: rewrite your ideas in the form of questions and answers
+                - <a id='UCnZtJvSK'/>**By shape**: try mapping your ideas to different shapes like a circle, square, triangle, or hexagon, looking for any interesting patterns

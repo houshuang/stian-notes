@@ -2,30 +2,30 @@
 title: "How I learned 1500 Chinese Characters in a Month - Heisig Method Review"
 ---
 
-- #public
-- [link](https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review/) #instapaper by **Pavel Danov**
-- #memory
-    - &#8203;<mark>How do memories transition from **memory palaces** to normal memory? Hack to get it into long term memory.</mark> #n
-- [[Remembering Simplified Hanzi]]
-    - I think it's a groundbreaking book and an amazing method because it broke down a certain wall that was hindering my desire and drive to learn the Chinese language for a long time.
-    - The book is based on the experience and method of **James Heisig**, who while visiting Japan for the first time years ago created the method and learned 1900 **Kanji** in a month with a full day of studying.
-- Biases
-    - Yet another bias that needs uprooting is the idea that characters can only be mastered through constant drill and repetition. Traditional methods for approaching the Chinese writing system have been the same as those for learning alphabets: practice writing the characters one by one, over and over again, for as long as it takes
-    - One bias circulating among teachers and students of the Chinese language is that a character’s meaning, pronunciation, and writing need to be learned at the same time
-- Pleco
-    - I've used Pleco's SRS (Spaced Repetition System) for my daily reviews. I have found a full card list for both tomes of Remembering Simplified Hanzi here
-- His approach
-    - Essentially I've locked 3 slots during the day for reviews. One in the morning, one at noon and one in the evening. In each of these slots I did all reviews that Pleco gave me **E: Micro-spacing**
-    - My review cards have only the keyword as an indication on them and** it was part of my review to recall the primitives and the shape of the character. If both of these were correct and I could clearly see the character in my mind's eye, then I deemed the review successful.** If some primitives were missing or the position of an element was at the wrong place I considered that a mistake and marked it as such in Pleco
-    - his data
-        - My own data confirms his claim that the method (now refined after years) does work! I have learned 1500 Chinese characters in 31 days with less than 2 hours of studying every day while working full time as a Software Engineer.
-            - 5% average success rate from Pleco reviews
-                - 2867 character reviews in total in the course of 31 days
-            - In 31 consecutive days I've spent:
-                - 38.72 hours in total of studying + reviewing
-                - 27.965 hours for studying
-                - 10.759 hours for reviewing
-                - 1.249 hours on average per day for studying + reviewing
-                - 99.673 seconds on average per character
-- example **mnemonic**
-    - 敬 - with keyword revere = flower + sentence + taskmaster; A mob goon pleading with Tony via flowery sentences (left part of the character)
+- <a id='qxpTPntS4'/>#public
+- <a id='w96eHYFUi'/>[link](https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review/) #instapaper by **Pavel Danov**
+- <a id='qoMeiIx0Z'/>#memory
+    - <a id='RcwTQNTMu'/>&#8203;<mark>How do memories transition from **memory palaces** to normal memory? Hack to get it into long term memory.</mark> #n
+- <a id='T2ogCy3MP'/>[[Remembering Simplified Hanzi]]
+    - <a id='OnevCRFIs'/>I think it's a groundbreaking book and an amazing method because it broke down a certain wall that was hindering my desire and drive to learn the Chinese language for a long time.
+    - <a id='6H_Hbo8_4'/>The book is based on the experience and method of **James Heisig**, who while visiting Japan for the first time years ago created the method and learned 1900 **Kanji** in a month with a full day of studying.
+- <a id='wCgu0krOT'/>Biases
+    - <a id='lNMwG9ile'/>Yet another bias that needs uprooting is the idea that characters can only be mastered through constant drill and repetition. Traditional methods for approaching the Chinese writing system have been the same as those for learning alphabets: practice writing the characters one by one, over and over again, for as long as it takes
+    - <a id='YHd1OY6id'/>One bias circulating among teachers and students of the Chinese language is that a character’s meaning, pronunciation, and writing need to be learned at the same time
+- <a id='sqLN9-8eU'/>Pleco
+    - <a id='7SEobTGTG'/>I've used Pleco's SRS (Spaced Repetition System) for my daily reviews. I have found a full card list for both tomes of Remembering Simplified Hanzi here
+- <a id='ZObj9TU_g'/>His approach
+    - <a id='ycGXL7FaS'/>Essentially I've locked 3 slots during the day for reviews. One in the morning, one at noon and one in the evening. In each of these slots I did all reviews that Pleco gave me **E: Micro-spacing**
+    - <a id='klxxgxP7k'/>My review cards have only the keyword as an indication on them and** it was part of my review to recall the primitives and the shape of the character. If both of these were correct and I could clearly see the character in my mind's eye, then I deemed the review successful.** If some primitives were missing or the position of an element was at the wrong place I considered that a mistake and marked it as such in Pleco
+    - <a id='wdb9vt2dQ'/>his data
+        - <a id='rCY5JxcGU'/>My own data confirms his claim that the method (now refined after years) does work! I have learned 1500 Chinese characters in 31 days with less than 2 hours of studying every day while working full time as a Software Engineer.
+            - <a id='F2BNSkrRm'/>5% average success rate from Pleco reviews
+                - <a id='FzcBbCnni'/>2867 character reviews in total in the course of 31 days
+            - <a id='-KQWf8SpI'/>In 31 consecutive days I've spent:
+                - <a id='jsXYZWBci'/>38.72 hours in total of studying + reviewing
+                - <a id='LmpeXNja3'/>27.965 hours for studying
+                - <a id='vzyGr-Y-g'/>10.759 hours for reviewing
+                - <a id='oy-G7Mm2I'/>1.249 hours on average per day for studying + reviewing
+                - <a id='YcisqqxwD'/>99.673 seconds on average per character
+- <a id='GDNnnuV3O'/>example **mnemonic**
+    - <a id='mBfOni_Sn'/>敬 - with keyword revere = flower + sentence + taskmaster; A mob goon pleading with Tony via flowery sentences (left part of the character)

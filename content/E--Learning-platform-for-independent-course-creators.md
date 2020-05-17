@@ -2,23 +2,23 @@
 title: "E: Learning platform for independent course creators"
 ---
 
-- #E #p #public
-- People use **Skillshare** or **Teachable** for things like **roam-course**s
-- &#8203;<mark>Why are people able to command such a premium for such courses, especially if they are mainly collections of videos?</mark>
-- Basically just a Youtube playlist with payment/accounts? Why doesn't **Youtube** offer this?
-- Others, like **Write of passage** and **BASB-course** use a custom stack - payment, membership, Zoom, mailing lists etc?
-- None of the MOOC providers (Course, EdX, Udacity) want to work with individuals (also not Minerva currently)
-- Things people want
-    - easy set up, payment, promotion etc
-    - white label - not "one more course on X platform", but "awesomecourse.com"
-    - hosting video and curriculum (mostly video)
-    - mailing lists / discussion forums
-    - cohort functionality
-- One possibility would be for someone to use **OpenEdX** to set up a **Software-as-a-Service** for independent course creators, with payment etc integrated (**Stripe**?)
-    - Authoring courses is a hassle, not sure it's worth it, given the small numbers.
-    - Maybe something like Canvas?
-- Some of these courses also offer live video (Zoom etc) - what would it look like for Minerva to offer our services? Ideally through a reseller who could offer all of the other functionality, and bundle Forum access and training with payment, discussion forums, promotion, etc...
-- Examples:
-    - **Nat Eliason** has made $50,000 on a course on Roam Research which is basically just 20 short videos (95$ fee).
-    - **Tiago Forte** has taught 800 people on his Building a Second Brain course, minimum price is 999$.
-    - &#8203;<mark>Other examples - how big a market is this, and how many would be interested in Teachables-style courses or a bit more interactive, versus full-on video etc?</mark>
+- <a id='z8r7TpcGo'/>#E #p #public
+- <a id='DZadDu7w8'/>People use **Skillshare** or **Teachable** for things like **roam-course**s
+- <a id='nDl0n_yXs'/>&#8203;<mark>Why are people able to command such a premium for such courses, especially if they are mainly collections of videos?</mark>
+- <a id='1obFB0Y4c'/>Basically just a Youtube playlist with payment/accounts? Why doesn't **Youtube** offer this?
+- <a id='mSV8LRd4T'/>Others, like **Write of passage** and **BASB-course** use a custom stack - payment, membership, Zoom, mailing lists etc?
+- <a id='Df8TVQ7Ba'/>None of the MOOC providers (Course, EdX, Udacity) want to work with individuals (also not Minerva currently)
+- <a id='uuIqGADpI'/>Things people want
+    - <a id='c-ldzTmFq'/>easy set up, payment, promotion etc
+    - <a id='0fzGh4TIc'/>white label - not "one more course on X platform", but "awesomecourse.com"
+    - <a id='FFjmnZzIf'/>hosting video and curriculum (mostly video)
+    - <a id='1ed-Y9SWK'/>mailing lists / discussion forums
+    - <a id='A9SZWNaMH'/>cohort functionality
+- <a id='_2Trb2HCV'/>One possibility would be for someone to use **OpenEdX** to set up a **Software-as-a-Service** for independent course creators, with payment etc integrated (**Stripe**?)
+    - <a id='OXDYJf-Bh'/>Authoring courses is a hassle, not sure it's worth it, given the small numbers.
+    - <a id='MRI70m9Bc'/>Maybe something like Canvas?
+- <a id='k5OBFxjSR'/>Some of these courses also offer live video (Zoom etc) - what would it look like for Minerva to offer our services? Ideally through a reseller who could offer all of the other functionality, and bundle Forum access and training with payment, discussion forums, promotion, etc...
+- <a id='t9ydd5G_m'/>Examples:
+    - <a id='25XqmUG8F'/>**Nat Eliason** has made $50,000 on a course on Roam Research which is basically just 20 short videos (95$ fee).
+    - <a id='vlrfM6V4f'/>**Tiago Forte** has taught 800 people on his Building a Second Brain course, minimum price is 999$.
+    - <a id='7tfQXyC-F'/>&#8203;<mark>Other examples - how big a market is this, and how many would be interested in Teachables-style courses or a bit more interactive, versus full-on video etc?</mark>

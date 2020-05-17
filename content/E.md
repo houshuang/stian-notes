@@ -2,33 +2,33 @@
 title: "E"
 ---
 
-- #public
-- Emerging ideas/concepts
-    - Note taking
-        - **E: Sharing your own reflections and links are more useful than summaries**
-        - [[E: Better note taking can be taught interactively]]
-        - **E: Compression and decompression**
-        - **E: Convergence and divergence**
-        - **E: Writing quality**
-        - [[E: Automatic mailing list for incremental brainstorming]]
-    - Collaboration
-        - [[E: Incremental Brainstorming]]
-    - Learning
-        - Social
-            - [[E: Learning platform for independent course creators]]
-            - [[E: Ad hoc book clubs]]
-        - [[E: The goal of learning should be producing]]
-        - [[E: Naming concepts like a hook]]
-        - **E: Limiting external input when thinking**
-        - **E: Learning broadly or deeply**
-        - **E: Spaced everything**
-        - **E: How is designing for learning different**
-        - **E: Reorganizability of ideas**
-    - Research
-        - **E: Being an embedded researcher**
-        - **E: Academic writing 2.0**
-        - **E: Structuring literature overview**
-    - Life
-        - **E: Be careful with monetizing your hobbies**
-- Meta:
-    - not sure about naming. complex links are harder to type, and now I get all the references to individual green notes in the linked references on this page too... Perhaps using E: and tagging with E once to make sure it ends up on a manually curated list is better.
+- <a id='ddvAWMQBW'/>#public
+- <a id='fpPIgpG_d'/>Emerging ideas/concepts
+    - <a id='76EkeKcV3'/>Note taking
+        - <a id='83-2bqe1B'/>**E: Sharing your own reflections and links are more useful than summaries**
+        - <a id='JS5AawawZ'/>[[E: Better note taking can be taught interactively]]
+        - <a id='VmJVqnMMr'/>**E: Compression and decompression**
+        - <a id='Q1ewIc8oX'/>**E: Convergence and divergence**
+        - <a id='SdDlS05Q4'/>**E: Writing quality**
+        - <a id='swN4JrNgM'/>[[E: Automatic mailing list for incremental brainstorming]]
+    - <a id='pDGh6Ek0_'/>Collaboration
+        - <a id='mQ3r_0MDv'/>[[E: Incremental Brainstorming]]
+    - <a id='qY2uwtx5U'/>Learning
+        - <a id='7OJRHVe0R'/>Social
+            - <a id='UfDTR50pc'/>[[E: Learning platform for independent course creators]]
+            - <a id='8StAMp252'/>[[E: Ad hoc book clubs]]
+        - <a id='ZLIYlgl9U'/>[[E: The goal of learning should be producing]]
+        - <a id='7QTgrQQJO'/>[[E: Naming concepts like a hook]]
+        - <a id='2umEgSXZG'/>**E: Limiting external input when thinking**
+        - <a id='2cMa_h0su'/>**E: Learning broadly or deeply**
+        - <a id='Pg7TOZ7Cv'/>**E: Spaced everything**
+        - <a id='2dPh3x4b_'/>**E: How is designing for learning different**
+        - <a id='cnusPiKzu'/>**E: Reorganizability of ideas**
+    - <a id='L0ZXCequx'/>Research
+        - <a id='2Urj3Uugb'/>**E: Being an embedded researcher**
+        - <a id='aGksC0Q5e'/>**E: Academic writing 2.0**
+        - <a id='HSsEBAS5m'/>**E: Structuring literature overview**
+    - <a id='mdPmv5tIg'/>Life
+        - <a id='5HOiap7iw'/>**E: Be careful with monetizing your hobbies**
+- <a id='AOqu2AvfI'/>Meta:
+    - <a id='4fnznGaFz'/>not sure about naming. complex links are harder to type, and now I get all the references to individual green notes in the linked references on this page too... Perhaps using E: and tagging with E once to make sure it ends up on a manually curated list is better.
