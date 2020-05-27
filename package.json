@@ -15,7 +15,7 @@
     "gatsby": "^2.21.24",
     "gatsby-plugin-google-analytics": "^2.3.1",
     "gatsby-plugin-postcss": "^2.2.4",
-    "gatsby-theme-andy": "houshuang/gatsby-theme-andy#155877e9c7d4cd929996006acf0d1574852c26dd",
+    "gatsby-theme-andy": "https://github.com/houshuang/gatsby-theme-andy/tarball/155877e9c7d4cd929996006acf0d1574852c26dd/gatsby-theme-andy.tar.gz",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0"

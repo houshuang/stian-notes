@@ -5188,9 +5188,9 @@ gatsby-telemetry@^1.3.9:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-andy@houshuang/gatsby-theme-andy#155877e9c7d4cd929996006acf0d1574852c26dd:
+"gatsby-theme-andy@https://github.com/houshuang/gatsby-theme-andy/tarball/155877e9c7d4cd929996006acf0d1574852c26dd/gatsby-theme-andy.tar.gz":
   version "0.1.2"
-  resolved "https://codeload.github.com/houshuang/gatsby-theme-andy/tar.gz/155877e9c7d4cd929996006acf0d1574852c26dd"
+  resolved "https://github.com/houshuang/gatsby-theme-andy/tarball/155877e9c7d4cd929996006acf0d1574852c26dd/gatsby-theme-andy.tar.gz#b7b7ed39a0625c791e2000c34ffb2c604b555a52"
   dependencies:
     "@aengusm/gatsby-theme-brain" "1.0.11"
     "@tippyjs/react" "^4.0.2"
