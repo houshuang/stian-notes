@@ -1,4 +1,4 @@
-# notes.aravindballa.com
+# notes.reganmian.net
 
 Uses https://github.com/aravindballa/gatsby-theme-andy/
 
