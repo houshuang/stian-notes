@@ -115,3 +115,6 @@ public
 .pnp.*
 
 *.DS_Store
+
+# Local Netlify folder
+.netlify
