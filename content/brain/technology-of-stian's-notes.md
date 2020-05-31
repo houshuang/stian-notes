@@ -12,7 +12,7 @@ title: "technology of stian's notes"
         - for pages that are not part of the export, either convert internal URLs to external URLs, or turn them bold (to distinguish from links that actually go to internal pages with content)<span id='pIKhKnNSM'/>
     - automatically determine pages to export<span id='ntOCgFubp'/>
         - right now, it exports all pages linked directly from the about page, as well as any page or block that has the `public` tag. (If the tag is top-level on a page, the whole page is exported, but if I have a block on a daily page I want to export, I can just add that tag, and the whole block+children is exported as a page)<span id='FHd2AEO1N'/>
-- Finally, I send the output to Gatsby, using a **Aengus McMillin**'s **gatsby-theme-brain** and **Aravind Balla's** **gatsby-theme-andy**, which gives the nice theme and automatic link preview.<span id='hM65n3Zyx'/>
+- Finally, I send the output to Gatsby, using a **Aengus McMillin**'s **gatsby-theme-brain** and **Aravind Balla**'s **gatsby-theme-andy**, which gives the nice theme and automatic link preview.<span id='hM65n3Zyx'/>
 - I have many ideas on how to improve this<span id='WBcspecE5'/>
     - Commenting, maybe even inline (using **Hypothes.is** or something else?)<span id='QkFnDSM3Z'/>
     - Tag some pages as blog posts, which get a date, a stream of posts, an RSS feed etc<span id='Uq3tmD9MC'/>
