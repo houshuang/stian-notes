@@ -66,3 +66,7 @@ pre > code {
 .highlight {
   @apply bg-yellow-200 px-1 -mx-1 rounded;
 }
+
+html {
+background-color: #fffff8;
+}
