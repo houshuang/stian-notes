@@ -1,0 +1,122 @@
+---
+title: "Branding"
+---
+
+- #public<span id='dFi6DSHOE'/>
+- Defining the product<span id='2xkNPCc0k'/>
+    - Levitt, T. (1980). [Marketing success through differentiation-of anything. Harvard Business Review.](https://hbr.org/1980/01/marketing-success-through-differentiation-of-anything)<span id='vTpNEoeZD'/>
+        - **there is no such thing as a commodity**<span id='s7JmmPlV3'/>
+        - __Levitt argues that anything, including a commodity, can be differentiated when it is sold. Write down Levitt's definition of a product in your own words. Also, be sure you can explain the differences amongst: the generic product, the expected product, the augmented product, and the potential product.__<span id='i3uojqC5K'/>
+            - notes<span id='UUdrTHw9f'/>
+                - product differentiation<span id='YObyTU0CG'/>
+                    - distinguishable (auto)<span id='8SxLDLogj'/>
+                    - indistinguishable (detergent)<span id='MQFtCqxzM'/>
+                        - we think that with indistinguishable products like coffee, a tiny difference in price makes the difference - but not so<span id='FuF4Wm633'/>
+                            - Detroit auto steel - grade suppliers on price, flexibility, quality but even new ideas for parts redesign etc<span id='7xPNz42iK'/>
+            - product<span id='s-jrZ1ELm'/>
+                - definition<span id='llPpsNSL7'/>
+                    - tangible + intangible (symbol, delivery, service, application, knowledge)<span id='s-OR9F78_'/>
+                    - **The ‘product’…is the total package of benefits the customer receives when he or she buys.”**<span id='Kskdm1yI2'/>
+                - types<span id='TriuzQEX1'/>
+                    - **generic**<span id='q3tXKY0-m'/>
+                        - table stakes, the fundamental rudimentary thing<span id='yVc5bhZQJ'/>
+                    - **expected**<span id='s4ZdyFYL5'/>
+                        - customer's minimal purchase condition - logistics, terms, support<span id='T2dr6D6WN'/>
+                    - **augmented**<span id='610gkD7sS'/>
+                        - exceeding the normal expectations<span id='jHTfAoxqa'/>
+                        - &#8203;<mark>but is there a process where things that were augmented gradually become expected? Examples of things going in the other direction? (Less luxury with airline flights)</mark><span id='yPzrmrW0Y'/>
+                        - as seller expands market by teaching customer to use product, becomes more vulnerable to losing them<span id='Zrv26YS0p'/>
+                        - product maturity - just as price competition heightens, and cost reduction becomes important, seller needs to spend costs on new product augmentation<span id='3xO2Gr6Zh'/>
+                    - **potential**<span id='KD8ChTEnQ'/>
+                        - everything that might be done to attract or hold customers<span id='bxbUVHFrw'/>
+            - management<span id='EYRDLBsep'/>
+                - brand management<span id='pyAc0uoiX'/>
+                - product management<span id='sTYm8FTBG'/>
+                - market management<span id='4rTVUi7jw'/>
+                    - when a product or intangible is used in many different industries, but requires different price strategies and engagement models<span id='XE6w4pBeu'/>
+- Brand asset<span id='6XmiLv8cz'/>
+    - [Young & Rubicam BrandAsset Valuator Overview.](https://course-resources.minerva.kgi.edu/uploaded_files/production/00023654-5178/lesson-1-brand-bav-concept.pdf)<span id='fRKZQosI0'/>
+        - A Cognitive Framework for Evaluating and Measuring Brand Value<span id='XkHiaECnV'/>
+            - result of factor analysis<span id='xp6_IC3rh'/>
+            - Brand Vitality<span id='Tx69Xw2tU'/>
+                - Differentiation<span id='o2A8cXVvA'/>
+                    - ability to capture attention in the cultural landscape - relative to other things that could capture your attention<span id='XmYzfWM9d'/>
+                - Relevance<span id='LwORPSNih'/>
+                    - appropriate/meaningful a brand to an audience<span id='XJ9tJ_vhZ'/>
+            - Brand Stature<span id='SydKoDTeH'/>
+                - Esteem<span id='Ev_RjUal4'/>
+                    - highly regarded, promises aligned with delivery<span id='RwPPzm9EM'/>
+                - Knowledge<span id='6bUvU-obY'/>
+                    - awareness and depth of understanding among customers, both of positive and negative characteristics<span id='fh3pZmJdM'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FuvYo_qAOOH?alt=media&token=4b6a40a1-d183-40bc-9c28-f0f0bd02557c)<span id='PyGa1V-sf'/>
+    - Feloni, R. (2016, February 19). [7 strategies **Coca-Cola** used to become one of the world's most recognizable brands. Business Insider.](https://www.businessinsider.com/strategies-coca-cola-used-to-become-an-iconic-brand-2016-2#3-it-was-distributed-in-a-proprietary-bottle-3)<span id='omROYI0EO'/>
+        - This article describes how Coca-cola created an iconic brand. All seven strategies contributed to their success, but which strategy stands out as more important than the others? Why does this strategy resonate more than other strategies?<span id='cbNMkYkGw'/>
+- Purpose/mission:<span id='Txs3ePRcf'/>
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FYUu7sS4zpB?alt=media&token=147268d8-25a8-400e-8e33-7dabd18cd89a)<span id='CDCtR6dcJ'/><span id='l006D7Ero'/>
+    - Sullivan<span id='rL4-ZnNnQ'/>
+        - the best stories are ones you can visualize in the retelling - feel as if you're there, experiencing the events firsthand<span id='Kwi54do5h'/>
+        - **emotional engagement** matters more than **customer satisfaction**, drives **brand loyalty**<span id='tfjkve0cO'/>
+        - people want to be heard - communicating in a relevant, empathetic, human way.<span id='DTseU3BpB'/>
+        - **mirror neurons** - becoming a reflection of your customer is the quickest route to establishing trust (&#8203;<mark>how can you do this and maintain trust with very diverse groups?</mark>)<span id='T76e12PW5'/>
+        - **brand personality** - human characteristics, emotions and attributes. tone, voice, vibe. brand periphery and brand repelling customers.<span id='9V3zUXhTv'/>
+        - [[**Jennifer Aaker**'s Five Dimensions of Brand Personality]]<span id='7IJQw4cul'/>
+            - five dimensions to personality, each a set of facets, facets have traits<span id='e4doY1c3z'/>
+            - Sincerity, excitement, competence, sophistication, ruggedness<span id='PuVZO0eP3'/>
+            - &#8203;<mark>How did she come up with just these five?</mark><span id='P_RAvR55Z'/>
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FeQSGTBgwn2?alt=media&token=35d850fe-7586-4210-9ffd-2a063d41d7d6)<span id='Cn6k35_2z'/>
+        - [[**Carl Jung**'s 12 archetypes]]<span id='BFzjx3ps3'/>
+            - Four essential goals<span id='pydXfZFNr'/>
+                - Yearn for paradise, driven by our quest for freedom<span id='Kh6aJU-sV'/>
+                - Make our mark, driven by our ego<span id='RBG-9aAZ8'/>
+                - Connect with others, driven by social desire, comfort, and emotional connection<span id='AQCcO4JvQ'/>
+                - Provide structure to the world, driven by a need for rules and order<span id='4FYOa3Y-r'/>
+            - 12 main archetypes.<span id='iYWgD5JbT'/>
+                - **Innocent: **The Innocent is the one sharing optimistic quotes on Instagram. They’re romantics, dreamers, and they ache for the traditional and nostalgic. Brand example: Little Debbie exemplifies nostalgia to the core with their name and iconic 1950s packaging.<span id='wQ3wbmdSV'/>
+                - **Sage: **The Sage hunts for the truth and believes in self-reflection. Hungry for knowledge in all its forms, they’re detectives, scholars, academics, philosophers, thinkers, and data junkies. Brand examples: Harvard, Stanford, and Cambridge Universities (and research facilities) epitomize the perennial student and information-seekers.<span id='_m8e6jDrr'/>
+                - **Explorer: **The Explorer eschews boundaries and limits. Don’t ever box them in. They’re nonconformists, iconoclasts, nomads, and pilgrims. Brand example: Harley Davidson attracts older men with sleeve tattoos as well as millennial weekend warriors. At the core of their brand promise is freedom—their customers can go wherever they want, whenever they want.<span id='d-WNxr2a1'/>
+                - **Outlaw: **The Outlaw wants to fight the system. They’re rule-breakers and misfits who want to disrupt, shock, and destroy the status quo. Brand example: When Apple launched iTunes, iPods, and iPhones, they revolutionized how people purchase, collect, and listen to music; they transformed the phone into a pocket computer.<span id='fcEL4F47V'/>
+                - **Magician: **The Magician is about making magic happen. They’re charismatic visionaries who make their wildest dreams a reality. The magician is an inventor, healer, doctor, creator, and transformer. Brand example: Disney embodies a world where we frolic alongside princesses and cute mice.<span id='kqXqqiE4r'/>
+                - **Hero:** The Hero’s uniform is a cape, and they’re always up for a challenge. They’re fearless, strong, competent, and agile. They’re on the front lines as warriors, superheroes, and soldiers. Brand examples: Marvel and the U.S. Army represent our imaginary and real heroes.<span id='RthUmUXDJ'/>
+                - **Lover: **The Lover is all about intimacy, relationships, passion, and compassion. They’re partners, friends, team-builders, support staff, and sensualists. Brand examples: Agent Provocateur, Victoria’s Secret, and Hershey’s Kisses all quicken and warm hearts.<span id='N7nLwCglu'/>
+                - **Jester: **The Jester is the joker, the kind of person living their best life right now. Their goal is to get you to giggle by any means necessary. They’re comedians and pranksters. Brand example: Wendy’s annual Twitter roast made people laugh, cry, or a combination of both.<span id='KrC-3KQnS'/>
+                - **Every Person:** The Every Person is the one you want to grab a beer with. Pretension-free, they have solid values, are free of artificial sweeteners, and serve as a relatable neighbor. Like Patrick Bateman said in __American Psycho__, they want to “fit in.” Brand example: Dunkin Donuts, whose tagline is “American runs on Dunkin.” It’s coffee for the everyday person on the go.<span id='lrjgOPftJ'/>
+                - **Caregiver: **The Caregiver is altruistic, generous, kind, and empathetic. They believe in a life of serving others, nurturing others, and as a result, they elicit consumer trust. Brand examples: World Wide Fund for Nature, Greenpeace, and St. Jude Children’s Research Hospital all exude selflessness.<span id='ajNo741UK'/>
+                - **Ruler: **The Ruler wants to crush the competition. They’re powerful leaders who believe in winning as the ultimate goal. They’re role models, leaders, aristocrats, and politicians. Brand example: Tesla is a leader in the luxury car market.<span id='1P9K1xKlv'/>
+                - **Creator: **The Creator is the artist with a boundless imagination. They’re visionaries who use their skills and talents to represent the world in a new, unique way. They hunger for innovation, creativity, and perfection. While both Creators and Magicians inspire imagination, Creators dig in tactically to create covet-worthy products. Brand examples: Crayola and LEGO are prime examples of Creators.<span id='ODrsSXquA'/>
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FBom7HZL1jw?alt=media&token=29fe1ce7-708d-4d8b-9014-41f05efb477e)<span id='QCTuTTF1U'/>
+    - **Denise Lee Yohn** Why Your Company Culture Should Match Your Brand HBR [link](https://hbr.org/2017/06/why-your-company-culture-should-match-your-brand)<span id='v6TDk3Vks'/>
+        - treat employees how you want them to treat customers<span id='9WbJqFtou'/>
+        - need engagement and understanding of brand among employees<span id='XHROEaO7n'/>
+    - **Veronika Sonsev** - **Patagonia**’s Focus On Its Brand Purpose Is Great For Business<span id='xVRqeKuoa'/>
+        - Epitomy of [[**purpose**-driven]], environmental conscious<span id='ief_b4Vep'/>
+        - Start from the beginning, don't wait until you are a certain size before you become "purpose-driven" - will be motivating to employees, but can't be top-down<span id='_x74bhi5f'/>
+    - Notes<span id='E2IO1bcGN'/>
+        - **#emergent brand** - interface of the people who are processing it, what the brand does/says, the employees - and in a competitive landscape (comparisons)<span id='fhBVMuc_u'/>
+        - Evolution to seek social relationships - also with brands. But no evidence.<span id='9aTfASRsv'/>
+        - Many brands don't fit with these five - power and the catholic (means straight or vertical)<span id='7kULjSGWe'/>
+        - **The Big Five** is recent and applies to individuals, much harder to attribute specific personalities to groups/organizations.<span id='SV_GAp7ys'/>
+- Values and Jobs to be Done<span id='xpn9KKToS'/>
+    - Concept of subdividing values in components,<span id='I86W3Fzm3'/>
+        - might not be the right for all customers<span id='hFk5aM-q-'/>
+            - there is another one for B2B<span id='sNsDqDDhw'/>
+        - but it is multi-dimensional<span id='0xEwuRvM2'/>
+            - that helps us to see things<span id='815qHS5TI'/>
+            - but focusing on just bottom values can make for successful businesses<span id='yx-6-gzGm'/>
+            - product can create a need as opposed to fill a need that was there already<span id='1Icj6HzXL'/>
+                - **augmented product**<span id='Tf5hafgVl'/>
+    - **Powers Motivational Hierarchy** #motivation<span id='GhgPpWkfh'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FaobEL0BZi6?alt=media&token=a2c98d95-27f3-45af-bd3a-3e161adce2c9)<span id='qqlCuxNjt'/>
+- Positioning<span id='5uCc_brat'/>
+    - **Centrality-Distinctiveness**<span id='z143LtaVK'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2F9hlXgEcu3a.png?alt=media&token=6fdf5a25-e781-4148-9849-fc1ce1722ffa)<span id='I4p4aT9_J'/>
+        - unconvential/aspirational<span id='cKTrQgX53'/>
+        - peripheral/mainstream<span id='oVg6ONtRv'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fstian%2FrxZJ8SjAxA.png?alt=media&token=ed625223-2414-4482-835b-bf4053e4f884)<span id='BSv2sErdH'/>
+    - principles of **cognitive economy** - **memory systems** #mind<span id='fZNrc4HOC'/>
+        - storing "can breathe" at animal node, more specific stored further down (hierarchical organization)<span id='3f5V0uZot'/>
+        - modified **semantic network** - might be direct links from higher-order categories to examplars<span id='ExEVRkhGM'/>
+            - spreading activation - one node activation is activating different nodes<span id='oglFjyB6R'/>
+            - concept - label on a node? the cloud of connected ideas and concepts<span id='uzRVqCCF3'/>
+            - priming - bring up something that prejudices discussion later<span id='l9fzuO6vl'/>
+            - strength of connection - they often fire together? activate each other. but strength is not equal.<span id='Pb4-QDylo'/>
+                - general to specific<span id='m4udI_KV6'/>
